@@ -2,12 +2,32 @@
   "title": "LXX and Peshitta against the Masoretic Text – a classified apparatus",
   "upload_type": "dataset",
   "description": "Classified differences of the Septuagint and the Peshitta from the Masoretic Text, verse by verse: 13,414 LXX readings (38 books in 40 versions, based on the CATSS alignment of Tov and Kraft) and 11,132 Peshitta readings (39 books, based on the ETCBC Peshitta), each with the words concerned, a type (different reading, different interpretation, plus, omission, harmonisation, translation technique, double translation, transposition, number, name, inner-Greek/Syriac error), the inferred Hebrew Vorlage where one can be inferred, a one-sentence explanation in German and English, a certainty flag and the parallel passage of harmonisations; plus a word-by-word MT–Peshitta alignment of all 23,206 verses of the Tanakh (291,325 links). Classified with Claude (Anthropic, 2026); an aid, not a critical edition. Prepared for the apparatus of the Safran library (https://github.com/mitkin89/Safran).",
-  "creators": [{"name": "Itkin, Igor Mendel"}],
+  "creators": [
+    {
+      "name": "Itkin, Igor Mendel"
+    }
+  ],
   "license": "cc-by-nc-sa-4.0",
-  "keywords": ["Septuagint", "LXX", "Peshitta", "Masoretic Text", "textual criticism", "Hebrew Bible", "Vorlage", "alignment"],
+  "keywords": [
+    "Septuagint",
+    "LXX",
+    "Peshitta",
+    "Masoretic Text",
+    "textual criticism",
+    "Hebrew Bible",
+    "Vorlage",
+    "alignment"
+  ],
   "related_identifiers": [
-    {"identifier": "https://github.com/mitkin89/Safran", "relation": "isSupplementTo", "scheme": "url"},
-    {"identifier": "10.5281/zenodo.1464757", "relation": "isDerivedFrom", "scheme": "doi"},
-    {"identifier": "10.5281/zenodo.24464811", "relation": "isRelatedTo", "scheme": "doi"}
+    {
+      "identifier": "https://github.com/mitkin89/Safran",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "10.5281/zenodo.1464757",
+      "relation": "isDerivedFrom",
+      "scheme": "doi"
+    }
   ]
 }
