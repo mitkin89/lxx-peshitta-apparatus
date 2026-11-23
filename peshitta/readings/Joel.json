@@ -1,0 +1,750 @@
+{
+ "book": "Joel",
+ "verses": {
+  "1:9": {
+   "mt": [
+    "הָכְרַ֥ת",
+    "מִנְחָ֛ה",
+    "וָנֶ֖סֶךְ",
+    "מִבֵּ֣ית",
+    "יְהוָ֑ה",
+    "אָֽבְלוּ֙",
+    "הַכֹּ֣הֲנִ֔ים",
+    "מְשָׁרְתֵ֖י",
+    "יְהוָֽה"
+   ],
+   "syr": [
+    "ܥܒܪ",
+    "ܣܡܝܕܐ",
+    "ܘܢܘܩܝܐ",
+    "ܡܢ",
+    "ܒܝܬܗ",
+    "ܕܡܪܝܐ",
+    "ܝܬܒܘ",
+    "ܡ̈ܠܟܐ",
+    "ܒܐܒܠܐ",
+    "ܘܟܗ̈ܢܐ",
+    "ܕܡܫܡܫܝܢ",
+    "ܠܡܪܝܐ"
+   ],
+   "readings": [
+    {
+     "he": [],
+     "sy": [
+      8
+     ],
+     "type": "zusatz",
+     "vorlage": "",
+     "note": "Plus „die Könige“: „es sitzen die Könige in Trauer und die Priester“; Herkunft unklar.",
+     "sure": true,
+     "parallel": "",
+     "note_en": "Plus “the kings”: “the kings sit in mourning, and the priests”; origin unclear."
+    }
+   ]
+  },
+  "1:14": {
+   "mt": [
+    "קַדְּשׁוּ",
+    "צוֹם֙",
+    "קִרְא֣וּ",
+    "עֲצָרָ֔ה",
+    "אִסְפ֣וּ",
+    "זְקֵנִ֗ים",
+    "כֹּ֚ל",
+    "יֹשְׁבֵ֣י",
+    "הָאָ֔רֶץ",
+    "בֵּ֖ית",
+    "יְהוָ֣ה",
+    "אֱלֹהֵיכֶ֑ם",
+    "וְזַעֲק֖וּ",
+    "אֶל",
+    "יְהוָֽה"
+   ],
+   "syr": [
+    "ܩܕܫܘ",
+    "ܨܘܡܐ",
+    "ܩܪܘ",
+    "ܟܢܘܫܝܐ",
+    "ܐܬܟܢܫܘ",
+    "ܩܫܝܫ̈ܐ",
+    "ܘܟܠܗܘܢ",
+    "ܥܡܘܪ̈ܝܗ̇",
+    "ܕܐܪܥܐ",
+    "ܠܒܝܬܗ",
+    "ܕܡܪܝܐ",
+    "ܐܠܗܟܘܢ",
+    "ܓܥܘ",
+    "ܠܘܬ",
+    "ܡܪܝܐ",
+    "ܐܠܗܟܘܢ",
+    "ܘܐܡܪܘ"
+   ],
+   "readings": [
+    {
+     "he": [],
+     "sy": [
+      17
+     ],
+     "type": "zusatz",
+     "vorlage": "",
+     "note": "Plus „und sagt“, wodurch V. 15 zum Wortlaut des Klagerufs wird.",
+     "sure": true,
+     "parallel": "",
+     "note_en": "Plus “and says”, whereby v. 15 becomes the wording of the lament."
+    }
+   ]
+  },
+  "1:15": {
+   "mt": [
+    "אֲהָ֖הּ",
+    "לַיּ֑וֹם",
+    "כִּ֤י",
+    "קָרוֹב֙",
+    "י֣וֹם",
+    "יְהוָ֔ה",
+    "וּכְשֹׁ֖ד",
+    "מִשַׁדַּ֥י",
+    "יָבֽוֹא"
+   ],
+   "syr": [
+    "ܐܘܗ",
+    "ܐܘܗ",
+    "ܠܝܘܡܐ",
+    "ܕܩܪܝܒ",
+    "ܗܘ",
+    "ܝܘܡܗ",
+    "ܕܡܪܝܐ",
+    "ܘܒܙܬܐ",
+    "ܡܢ",
+    "ܐܠܗܐ",
+    "ܬܐܬܐ"
+   ],
+   "readings": [
+    {
+     "he": [
+      1
+     ],
+     "sy": [
+      1,
+      2
+     ],
+     "type": "zusatz",
+     "vorlage": "",
+     "note": "„Wehe, wehe“ statt einfachem „Ach“ (LXX hat den Ruf sogar dreifach).",
+     "sure": true,
+     "parallel": "",
+     "note_en": "“woe, woe” for a simple “alas” (LXX even has the cry three times)."
+    }
+   ]
+  },
+  "1:17": {
+   "mt": [
+    "עָבְשׁ֣וּ",
+    "פְרֻד֗וֹת",
+    "תַּ֚חַת",
+    "מֶגְרְפֹ֣תֵיהֶ֔ם",
+    "נָשַׁ֨מּוּ֙",
+    "אֹֽצָר֔וֹת",
+    "נֶהֶרְס֖וּ",
+    "מַמְּגֻר֑וֹת",
+    "כִּ֥י",
+    "הֹבִ֖ישׁ",
+    "דָּגָֽן"
+   ],
+   "syr": [
+    "ܘ̈ܛܘܝ",
+    "ܡܘܫܚ̈ܐ",
+    "ܥܠ",
+    "ܐܘܪ̈ܘܬܗܝܢ",
+    "ܚܪܒܘ",
+    "ܐܘܨܪ̈ܐ",
+    "ܘܐܣܬܚܦ",
+    "ܡܥܨܪ̈ܬܐ",
+    "ܘܝܒܫ",
+    "ܥܒܘܪܐ"
+   ],
+   "readings": [
+    {
+     "he": [
+      1,
+      2,
+      3,
+      4
+     ],
+     "sy": [
+      1,
+      2,
+      3,
+      4
+     ],
+     "type": "technik",
+     "vorlage": "",
+     "note": "Die dunklen Wörter des Halbverses werden frei geraten, u. a. „ihre Krippen/Ställe“ statt „ihre Schollen“.",
+     "sure": false,
+     "parallel": "",
+     "note_en": "The obscure words of the half-verse are freely guessed, e.g. “their mangers/stalls” for “their clods”."
+    },
+    {
+     "he": [
+      8
+     ],
+     "sy": [
+      8
+     ],
+     "type": "technik",
+     "vorlage": "",
+     "note": "„Keltern“ statt „Speicher“ für ממגרות.",
+     "sure": false,
+     "parallel": "",
+     "note_en": "“winepresses” for “storehouses” for ממגרות."
+    }
+   ]
+  },
+  "2:6": {
+   "mt": [
+    "מִפָּנָ֖יו",
+    "יָחִ֣ילוּ",
+    "עַמִּ֑ים",
+    "כָּל",
+    "פָּנִ֖ים",
+    "קִבְּצ֥וּ",
+    "פָארֽוּר"
+   ],
+   "syr": [
+    "ܡܢ",
+    "ܩܕܡܘܗܝ",
+    "ܢܙܘܥܘܢ",
+    "ܥܡ̈ܡܐ",
+    "ܘܟܠ",
+    "ܐ̈ܦܝܢ",
+    "ܢܐܟܡ̈ܢ",
+    "ܐܝܟ",
+    "ܫܘܚܪ̈ܐ",
+    "ܕܩܕܪܐ"
+   ],
+   "readings": [
+    {
+     "he": [
+      6,
+      7
+     ],
+     "sy": [
+      7,
+      8,
+      9,
+      10
+     ],
+     "type": "deutung",
+     "vorlage": "פרור",
+     "note": "„werden schwarz wie die Schwärze eines Topfes“: פארור als פרור „Topf“ gedeutet (ähnlich LXX).",
+     "sure": true,
+     "parallel": "",
+     "note_en": "“become black as the blackness of a pot”: פארור interpreted as פרור “pot” (similarly LXX)."
+    }
+   ]
+  },
+  "2:8": {
+   "mt": [
+    "וְאִ֤ישׁ",
+    "אָחִיו֙",
+    "לֹ֣א",
+    "יִדְחָק֔וּן",
+    "גֶּ֥בֶר",
+    "בִּמְסִלָּת֖וֹ",
+    "יֵֽלֵכ֑וּן",
+    "וּבְעַ֥ד",
+    "הַשֶּׁ֛לַח",
+    "יִפֹּ֖לוּ",
+    "לֹ֥א",
+    "יִבְצָֽעוּ"
+   ],
+   "syr": [
+    "ܘܓܒܪ",
+    "ܠܐܚܘܗܝ",
+    "ܠܐ",
+    "ܢܕܚܩܘܢ",
+    "ܐܠܐ",
+    "ܓܒܪ",
+    "ܒܫܒܝܠܗ",
+    "ܢܐܙܠܘܢ",
+    "ܡܢ",
+    "ܝܘܩܪܐ",
+    "ܕܙܝܢܗܘܢ",
+    "ܢܦܠܘܢ",
+    "ܘܠܐ",
+    "ܢܣܩܘܢ",
+    "ܠܪܝܫ"
+   ],
+   "readings": [
+    {
+     "he": [
+      8,
+      9,
+      10,
+      11,
+      12
+     ],
+     "sy": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+     ],
+     "type": "technik",
+     "vorlage": "",
+     "note": "„unter der Last ihrer Waffen fallen sie und steigen nicht hinauf“ statt „durch die Waffen brechen sie hindurch und lassen sich nicht aufhalten“.",
+     "sure": false,
+     "parallel": "",
+     "note_en": "“under the weight of their weapons they fall and do not go up” for “they burst through the weapons and are not halted”."
+    }
+   ]
+  },
+  "2:13": {
+   "mt": [
+    "וְקִרְע֤וּ",
+    "לְבַבְכֶם֙",
+    "וְאַל",
+    "בִּגְדֵיכֶ֔ם",
+    "וְשׁ֖וּבוּ",
+    "אֶל",
+    "יְהוָ֣ה",
+    "אֱלֹֽהֵיכֶ֑ם",
+    "כִּֽי",
+    "חַנּ֤וּן",
+    "וְרַחוּם֙",
+    "ה֔וּא",
+    "אֶ֤רֶךְ",
+    "אַפַּ֨יִם֙",
+    "וְרַב",
+    "חֶ֔סֶד",
+    "וְנִחָ֖ם",
+    "עַל",
+    "הָרָעָֽה"
+   ],
+   "syr": [
+    "ܘܨܪܘ",
+    "ܠܒܝ̈ܟܘܢ",
+    "ܘܠܐ",
+    "ܢܚ̈ܬܝܟܘܢ",
+    "ܘܐܬܦܢܘ",
+    "ܠܘܬ",
+    "ܡܪܝܐ",
+    "ܐܠܗܟܘܢ",
+    "ܡܛܠ",
+    "ܕܡܪܚܡܢܐ",
+    "ܗܘ",
+    "ܘܡܪܚܦܢܐ",
+    "ܘܢܓܝܪܐ",
+    "ܪܘܚܗ",
+    "ܘܣܓܝܐܐ",
+    "ܛܝܒܘܬܗ",
+    "ܘܡܗܦܟ",
+    "ܒܝܫܬܐ"
+   ],
+   "readings": [
+    {
+     "he": [
+      17,
+      18,
+      19
+     ],
+     "sy": [
+      17,
+      18
+     ],
+     "type": "technik",
+     "vorlage": "",
+     "note": "„und er wendet das Böse ab“ statt „und es reut ihn das Böse“; Reue Gottes vermieden.",
+     "sure": true,
+     "parallel": "",
+     "note_en": "“and he turns away the evil” for “and he relents of the evil”; God’s repentance avoided."
+    }
+   ]
+  },
+  "2:14": {
+   "mt": [
+    "מִ֥י",
+    "יוֹדֵ֖עַ",
+    "יָשׁ֣וּב",
+    "וְנִחָ֑ם",
+    "וְהִשְׁאִ֤יר",
+    "אַֽחֲרָיו֙",
+    "בְּרָכָ֔ה",
+    "מִנְחָ֣ה",
+    "וָנֶ֔סֶךְ",
+    "לַיהוָ֖ה",
+    "אֱלֹהֵיכֶֽם"
+   ],
+   "syr": [
+    "ܡ̇ܢ",
+    "ܝܕܥ",
+    "ܐܢ",
+    "ܡܬܦܢܐ",
+    "ܘܡܪܚܡ",
+    "ܥܠܝܢ",
+    "ܘܡܘܬܪ",
+    "ܒܐܬܪܗ",
+    "ܒܘܪܟܬܐ",
+    "ܘܣܡܝܕܐ",
+    "ܘܢܘܩܝܐ",
+    "ܠܡܪܝܐ",
+    "ܐܠܗܟܘܢ"
+   ],
+   "readings": [
+    {
+     "he": [
+      4
+     ],
+     "sy": [
+      5,
+      6
+     ],
+     "type": "technik",
+     "vorlage": "",
+     "note": "„und sich über uns erbarmt“ statt „und es sich gereuen lässt“; Reue Gottes vermieden, wie 2:13.",
+     "sure": true,
+     "parallel": "",
+     "note_en": "“and has mercy on us” for “and relents”; God’s repentance avoided, as in 2:13."
+    }
+   ]
+  },
+  "2:23": {
+   "mt": [
+    "וּבְנֵ֣י",
+    "צִיּ֗וֹן",
+    "גִּ֤ילוּ",
+    "וְשִׂמְחוּ֙",
+    "בַּיהוָ֣ה",
+    "אֱלֹֽהֵיכֶ֔ם",
+    "כִּֽי",
+    "נָתַ֥ן",
+    "לָכֶ֛ם",
+    "אֶת",
+    "הַמּוֹרֶ֖ה",
+    "לִצְדָקָ֑ה",
+    "וַיּ֣וֹרֶד",
+    "לָכֶ֗ם",
+    "גֶּ֛שֶׁם",
+    "מוֹרֶ֥ה",
+    "וּמַלְק֖וֹשׁ",
+    "בָּרִאשֽׁוֹן"
+   ],
+   "syr": [
+    "ܒܢ̈ܝ",
+    "ܨܗܝܘܢ",
+    "ܕܘܨܘ",
+    "ܘܚܕܘ",
+    "ܒܡܪܝܐ",
+    "ܐܠܗܟܘܢ",
+    "ܕܝܗܒ",
+    "ܠܟܘܢ",
+    "ܡܐܟܘܠܬܐ",
+    "ܕܙܕܝܩܘܬܐ",
+    "ܘܡܚܬ",
+    "ܠܟܘܢ",
+    "ܡܛܪܐ",
+    "ܐܪܒܝܥܝܐ",
+    "ܘܠܩܝܫܝܐ",
+    "ܐܝܟ",
+    "ܕܡܢ",
+    "ܠܘܩܕܡ"
+   ],
+   "readings": [
+    {
+     "he": [
+      11
+     ],
+     "sy": [
+      9
+     ],
+     "type": "deutung",
+     "vorlage": "",
+     "note": "„die Speise der Gerechtigkeit“ statt „den Lehrer/Frühregen zur Gerechtigkeit“ (so auch LXX).",
+     "sure": false,
+     "parallel": "",
+     "note_en": "“the food of righteousness” for “the teacher/early rain for righteousness” (so also LXX)."
+    },
+    {
+     "he": [
+      18
+     ],
+     "sy": [
+      16,
+      17,
+      18
+     ],
+     "type": "zusatz",
+     "vorlage": "כבראשון",
+     "note": "„wie zuvor“ statt „im ersten (Monat)“ (so auch LXX).",
+     "sure": true,
+     "parallel": "",
+     "note_en": "“as before” for “in the first (month)” (so also LXX)."
+    }
+   ]
+  },
+  "2:27": {
+   "mt": [
+    "וִידַעְתֶּ֗ם",
+    "כִּ֣י",
+    "בְקֶ֤רֶב",
+    "יִשְׂרָאֵל֙",
+    "אָ֔נִי",
+    "וַאֲנִ֛י",
+    "יְהוָ֥ה",
+    "אֱלֹהֵיכֶ֖ם",
+    "וְאֵ֣ין",
+    "ע֑וֹד",
+    "וְלֹא",
+    "יֵבֹ֥שׁוּ",
+    "עַמִּ֖י",
+    "לְעוֹלָֽם"
+   ],
+   "syr": [
+    "ܘܬܕܥܘܢ",
+    "ܕܒܓܘ",
+    "ܐܝܣܪܝܠ",
+    "ܐܢܐ",
+    "ܐܢܐ",
+    "ܐܢܐ",
+    "ܡܪܝܐ",
+    "ܐܠܗܟܘܢ",
+    "ܘܠܝܬ",
+    "ܬܘܒ",
+    "ܠܒܪ",
+    "ܡܢܝ",
+    "ܘܠܐ",
+    "ܢܒܗܬ",
+    "ܥܡܝ",
+    "ܠܥܠܡ"
+   ],
+   "readings": [
+    {
+     "he": [
+      9,
+      10
+     ],
+     "sy": [
+      9,
+      10,
+      11,
+      12
+     ],
+     "type": "harmonisierung",
+     "vorlage": "ואין עוד זולתי",
+     "note": "Plus „außer mir“ nach der Formel bei Deuterojesaja (so auch LXX).",
+     "sure": true,
+     "parallel": "Jes 45:5",
+     "note_en": "Plus “besides me” after the formula in Deutero-Isaiah (so also LXX)."
+    }
+   ]
+  },
+  "4:8": {
+   "mt": [
+    "וּמָכַרְתִּ֞י",
+    "אֶת",
+    "בְּנֵיכֶ֣ם",
+    "וְאֶת",
+    "בְּנֽוֹתֵיכֶ֗ם",
+    "בְּיַד֙",
+    "בְּנֵ֣י",
+    "יְהוּדָ֔ה",
+    "וּמְכָר֥וּם",
+    "לִשְׁבָאיִ֖ם",
+    "אֶל",
+    "גּ֣וֹי",
+    "רָח֑וֹק",
+    "כִּ֥י",
+    "יְהוָ֖ה",
+    "דִּבֵּֽר"
+   ],
+   "syr": [
+    "ܘܐܫܠܡ",
+    "ܒ̈ܢܝܟܘܢ",
+    "ܘܒܢ̈ܬܟܘܢ",
+    "ܒܝܕ",
+    "ܒܢ̈ܝ",
+    "ܝܗܘܕܐ",
+    "ܘܢܙܒܢܘܢ",
+    "ܐܢܘܢ",
+    "ܠܫܒܐ",
+    "ܠܥܡܐ",
+    "ܪܚܝܩܐ",
+    "ܡܛܠ",
+    "ܕܡܪܝܐ",
+    "ܡܠܠ"
+   ],
+   "readings": [
+    {
+     "he": [
+      1
+     ],
+     "sy": [
+      1
+     ],
+     "type": "technik",
+     "vorlage": "",
+     "note": "„ich werde ausliefern“ statt „ich werde verkaufen“.",
+     "sure": false,
+     "parallel": "",
+     "note_en": "“I will hand over” for “I will sell”."
+    }
+   ]
+  },
+  "4:11": {
+   "mt": [
+    "ע֣וּשׁוּ",
+    "וָבֹ֧אוּ",
+    "כָֽל",
+    "הַגּוֹיִ֛ם",
+    "מִסָּבִ֖יב",
+    "וְנִקְבָּ֑צוּ",
+    "שָׁ֕מָּה",
+    "הַֽנְחַ֥ת",
+    "יְהוָ֖ה",
+    "גִּבּוֹרֶֽיךָ"
+   ],
+   "syr": [
+    "ܐܬܟܢܫܘ",
+    "ܘܬܘ",
+    "ܟܠܟܘܢ",
+    "ܥܡ̈ܡܐ",
+    "ܕܚܕܝܪ̈ܝܢ",
+    "ܐܬܩܪܒܘ",
+    "ܘܬܡܢ",
+    "ܬܒܪ",
+    "ܡܪܝܐ",
+    "ܓܢܒܪܘܬܟܘܢ"
+   ],
+   "readings": [
+    {
+     "he": [
+      1
+     ],
+     "sy": [
+      1
+     ],
+     "type": "deutung",
+     "vorlage": "",
+     "note": "Das dunkle עושו als „versammelt euch“ geraten (so auch LXX).",
+     "sure": false,
+     "parallel": "",
+     "note_en": "The obscure עושו guessed as “gather yourselves” (so also LXX)."
+    },
+    {
+     "he": [
+      8,
+      9,
+      10
+     ],
+     "sy": [
+      8,
+      9,
+      10
+     ],
+     "type": "deutung",
+     "vorlage": "",
+     "note": "„dort wird der Herr eure Stärke zerbrechen“ statt „führe hinab, Herr, deine Helden“; הנחת wohl von חתת „zerbrechen“ abgeleitet.",
+     "sure": false,
+     "parallel": "",
+     "note_en": "“there the Lord will break your strength” for “bring down your warriors, Lord”; הנחת probably derived from חתת “to shatter”."
+    }
+   ]
+  },
+  "4:16": {
+   "mt": [
+    "וַיהוָ֞ה",
+    "מִצִּיּ֣וֹן",
+    "יִשְׁאָ֗ג",
+    "וּמִירוּשָׁלִַ֨ם֙",
+    "יִתֵּ֣ן",
+    "קוֹל֔וֹ",
+    "וְרָעֲשׁ֖וּ",
+    "שָׁמַ֣יִם",
+    "וָאָ֑רֶץ",
+    "וַֽיהוָה֙",
+    "מַֽחֲסֶ֣ה",
+    "לְעַמּ֔וֹ",
+    "וּמָע֖וֹז",
+    "לִבְנֵ֥י",
+    "יִשְׂרָאֵֽל"
+   ],
+   "syr": [
+    "ܘܡܪܝܐ",
+    "ܡܢ",
+    "ܨܗܝܘܢ",
+    "ܢܢܗܡ",
+    "ܘܡܢ",
+    "ܐܘܪܫܠܡ",
+    "ܢܬܠ",
+    "ܩܠܗ",
+    "ܘܢܙܘܥܘܢ",
+    "ܫܡܝܐ",
+    "ܘܐܪܥܐ",
+    "ܘܡܪܝܐ",
+    "ܢܚܘܣ",
+    "ܥܠ",
+    "ܥܡܗ",
+    "ܘܢܚܝܠ",
+    "ܠܒܢ̈ܝ",
+    "ܐܝܣܪܝܠ"
+   ],
+   "readings": [
+    {
+     "he": [
+      11
+     ],
+     "sy": [
+      13,
+      14,
+      15
+     ],
+     "type": "deutung",
+     "vorlage": "",
+     "note": "„er wird sich seines Volkes erbarmen“ statt „Zuflucht für sein Volk“: מחסה von חוס „schonen“ abgeleitet.",
+     "sure": true,
+     "parallel": "",
+     "note_en": "“he will have mercy on his people” for “a refuge for his people”: מחסה derived from חוס “to spare”."
+    }
+   ]
+  },
+  "4:21": {
+   "mt": [
+    "וְנִקֵּ֖יתִי",
+    "דָּמָ֣ם",
+    "לֹֽא",
+    "נִקֵּ֑יתִי",
+    "וַֽיהוָ֖ה",
+    "שֹׁכֵ֥ן",
+    "בְּצִיּֽוֹן"
+   ],
+   "syr": [
+    "ܘܐܬܒܥ",
+    "ܕܡܗܘܢ",
+    "ܘܠܐ",
+    "ܐܚܣܐ",
+    "ܘܡܪܝܐ",
+    "ܥܡܪ",
+    "ܒܨܗܝܘܢ"
+   ],
+   "readings": [
+    {
+     "he": [
+      1
+     ],
+     "sy": [
+      1
+     ],
+     "type": "lesart",
+     "vorlage": "ונקמתי",
+     "note": "„ich werde ihr Blut rächen“ statt „ich erkläre ihr Blut für unschuldig“ (so auch LXX).",
+     "sure": true,
+     "parallel": "",
+     "note_en": "“I will avenge their blood” for “I declare their blood innocent” (so also LXX)."
+    }
+   ]
+  }
+ }
+}

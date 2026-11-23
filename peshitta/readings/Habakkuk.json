@@ -1,0 +1,1350 @@
+{
+ "book": "Habakkuk",
+ "verses": {
+  "1:1": {
+   "mt": [
+    "הַמַּשָׂא֙",
+    "אֲשֶׁ֣ר",
+    "חָזָ֔ה",
+    "חֲבַקּ֖וּק",
+    "הַנָּבִֽיא"
+   ],
+   "syr": [
+    "ܚܙܘܐ",
+    "ܕܚܙܐ",
+    "ܚܒܩܘܩ",
+    "ܢܒܝܐ"
+   ],
+   "readings": [
+    {
+     "he": [
+      1
+     ],
+     "sy": [
+      1
+     ],
+     "type": "technik",
+     "vorlage": "",
+     "note": "„die Vision“ statt „der Ausspruch“.",
+     "sure": true,
+     "parallel": "",
+     "note_en": "“the vision” for “the oracle”."
+    }
+   ]
+  },
+  "1:3": {
+   "mt": [
+    "לָ֣מָּה",
+    "תַרְאֵ֤נִי",
+    "אָ֨וֶן֙",
+    "וְעָמָ֣ל",
+    "תַּבִּ֔יט",
+    "וְשֹׁ֥ד",
+    "וְחָמָ֖ס",
+    "לְנֶגְדִּ֑י",
+    "וַיְהִ֧י",
+    "רִ֦יב",
+    "וּמָד֖וֹן",
+    "יִשָּֽׂא"
+   ],
+   "syr": [
+    "ܠܡܢܐ",
+    "ܚܘܝܬܢܝ",
+    "ܥܘ̣ܠܐ",
+    "ܘܥܬܐ",
+    "ܘܚܙܐ",
+    "ܐܢܐ",
+    "ܚܛܘܦܝܐ",
+    "ܘܒܝܫܬܐ",
+    "ܩܕܡܝ",
+    "ܗܘܐ",
+    "ܕܝܢ̣ܐ",
+    "ܘܕܝ̇ܢܐ",
+    "ܩܒܠ",
+    "ܫܘܚܕܐ"
+   ],
+   "readings": [
+    {
+     "he": [
+      10,
+      11,
+      12
+     ],
+     "sy": [
+      11,
+      12,
+      13,
+      14
+     ],
+     "type": "deutung",
+     "vorlage": "",
+     "note": "„der Richter, und der Richter nimmt Bestechung an“ statt „Streit entsteht und Zank erhebt sich“: ריב/מדון als „Richter“ (דין) und ישא als „(Geschenk) annehmen“ verstanden.",
+     "sure": true,
+     "parallel": "",
+     "note_en": "“the judge, and the judge takes a bribe” for “strife arises and contention rises up”: ריב/מדון understood as “judge” (דין) and ישא as “accept (a gift)”."
+    }
+   ]
+  },
+  "1:4": {
+   "mt": [
+    "עַל",
+    "כֵּן֙",
+    "תָּפ֣וּג",
+    "תּוֹרָ֔ה",
+    "וְלֹֽא",
+    "יֵצֵ֥א",
+    "לָנֶ֖צַח",
+    "מִשְׁפָּ֑ט",
+    "כִּ֤י",
+    "רָשָׁע֙",
+    "מַכְתִּ֣יר",
+    "אֶת",
+    "הַצַּדִּ֔יק",
+    "עַל",
+    "כֵּ֛ן",
+    "יֵצֵ֥א",
+    "מִשְׁפָּ֖ט",
+    "מְעֻקָּֽל"
+   ],
+   "syr": [
+    "ܡܛܠ",
+    "ܗܢܐ",
+    "ܦܓ",
+    "ܢܡܘܣܐ",
+    "ܘܠܐ",
+    "ܢܦܩ",
+    "ܕܝܢ̣ܐ",
+    "ܒܙܟܝܘܬܐ",
+    "ܡܛܠ",
+    "ܕܥ̇ܘܠܐ",
+    "ܕܒܪ",
+    "ܒܝܫ",
+    "ܒܝܫ",
+    "ܠܙܕܝܩܐ",
+    "ܘܢܦܩ",
+    "ܕܝܢ̣ܐ",
+    "ܟܕ",
+    "ܡܥܩܡ"
+   ],
+   "readings": [
+    {
+     "he": [
+      7
+     ],
+     "sy": [
+      8
+     ],
+     "type": "deutung",
+     "vorlage": "",
+     "note": "„in Gerechtigkeit/zum Sieg“ statt „für immer“: לנצח im aramäischen Sinn „Sieg“ verstanden.",
+     "sure": true,
+     "parallel": "",
+     "note_en": "“in righteousness/to victory” for “forever”: לנצח understood in the Aramaic sense “victory”."
+    },
+    {
+     "he": [
+      11
+     ],
+     "sy": [
+      11,
+      12,
+      13
+     ],
+     "type": "technik",
+     "vorlage": "",
+     "note": "„der Frevler handelt sehr böse am Gerechten“ statt „umzingelt den Gerechten“.",
+     "sure": false,
+     "parallel": "",
+     "note_en": "“the wicked acts very wickedly against the righteous” for “surrounds the righteous”."
+    }
+   ]
+  },
+  "1:5": {
+   "mt": [
+    "רְא֤וּ",
+    "בַגּוֹיִם֙",
+    "וְֽהַבִּ֔יטוּ",
+    "וְהִֽתַּמְּה֖וּ",
+    "תְּמָ֑הוּ",
+    "כִּי",
+    "פֹ֨עַל֙",
+    "פֹּעֵ֣ל",
+    "בִּֽימֵיכֶ֔ם",
+    "לֹ֥א",
+    "תַאֲמִ֖ינוּ",
+    "כִּ֥י",
+    "יְסֻפָּֽר"
+   ],
+   "syr": [
+    "ܚܙܘ",
+    "ܡܪ̈ܚܐ",
+    "ܘܚܘܪܘ",
+    "ܘܐܬܕܡܪܘ",
+    "ܘܬܡܗܘ",
+    "ܡܛܠ",
+    "ܕܥܒܕܐ",
+    "ܥܒܕ",
+    "ܐܢܐ",
+    "ܒܝ̈ܘܡܝܟܘܢ",
+    "ܘܠܐ",
+    "ܡܗܝܡܢܝܢ",
+    "ܐܢܬܘܢ",
+    "ܐܢ",
+    "ܐܢܫ",
+    "ܢܫܬܥܐ",
+    "ܠܟܘܢ"
+   ],
+   "readings": [
+    {
+     "he": [
+      2
+     ],
+     "sy": [
+      2
+     ],
+     "type": "lesart",
+     "vorlage": "בוגדים",
+     "note": "„ihr Frechen“ statt „unter den Völkern“ (so auch LXX).",
+     "sure": true,
+     "parallel": "",
+     "note_en": "“you insolent ones” for “among the nations” (so also LXX)."
+    },
+    {
+     "he": [
+      8
+     ],
+     "sy": [
+      8,
+      9
+     ],
+     "type": "technik",
+     "vorlage": "",
+     "note": "„ich wirke ein Werk“ (Gott als Sprecher) statt unpersönlich „man wirkt ein Werk“ (so auch LXX).",
+     "sure": true,
+     "parallel": "",
+     "note_en": "“I work a work” (God as speaker) for impersonal “a work is worked” (so also LXX)."
+    }
+   ]
+  },
+  "1:8": {
+   "mt": [
+    "וְקַלּ֨וּ",
+    "מִנְּמֵרִ֜ים",
+    "סוּסָ֗יו",
+    "וְחַדּוּ֙",
+    "מִזְּאֵ֣בֵי",
+    "עֶ֔רֶב",
+    "וּפָ֖שׁוּ",
+    "פָּֽרָשָׁ֑יו",
+    "וּפָֽרָשָׁיו֙",
+    "מֵרָח֣וֹק",
+    "יָבֹ֔אוּ",
+    "יָעֻ֕פוּ",
+    "כְּנֶ֖שֶׁר",
+    "חָ֥שׁ",
+    "לֶאֱכֽוֹל"
+   ],
+   "syr": [
+    "ܩ̈ܠܝܠܝܢ",
+    "ܪ̈ܟܫܗ",
+    "ܡܢ",
+    "ܢܫܪ̈ܐ",
+    "ܘܚܪ̈ܝܦܝܢ",
+    "ܡܢ",
+    "ܕܐ̈ܒܐ",
+    "ܕܪܡܫܐ",
+    "ܘܢܛܘܣܘܢ",
+    "ܦܪ̈ܫܘܗܝ",
+    "ܘܢܐܬܘܢ",
+    "ܦܪ̈ܫܘܗܝ",
+    "ܡܢ",
+    "ܪܘܚܩܐ",
+    "ܘܢܛܘܣܘܢ",
+    "ܐܝܟ",
+    "ܢܫܪܐ",
+    "ܕܟܦܢ",
+    "ܠܡܐܟܘܠܬܐ"
+   ],
+   "readings": [
+    {
+     "he": [
+      2
+     ],
+     "sy": [
+      3,
+      4
+     ],
+     "type": "lesart",
+     "vorlage": "מנשרים",
+     "note": "„schneller als Adler“ statt „schneller als Panther“; vielleicht an כנשר am Versende angelehnt.",
+     "sure": false,
+     "parallel": "",
+     "note_en": "“swifter than eagles” for “swifter than leopards”; perhaps modeled on כנשר at the end of the verse."
+    }
+   ]
+  },
+  "1:12": {
+   "mt": [
+    "הֲל֧וֹא",
+    "אַתָּ֣ה",
+    "מִקֶּ֗דֶם",
+    "יְהוָ֧ה",
+    "אֱלֹהַ֛י",
+    "קְדֹשִׁ֖י",
+    "לֹ֣א",
+    "נָמ֑וּת",
+    "יְהוָה֙",
+    "לְמִשְׁפָּ֣ט",
+    "שַׂמְתּ֔וֹ",
+    "וְצ֖וּר",
+    "לְהוֹכִ֥יחַ",
+    "יְסַדְתּֽוֹ"
+   ],
+   "syr": [
+    "ܡܛܠ",
+    "ܕܐܢܬ",
+    "ܗܘ",
+    "ܡܢ",
+    "ܪܫܝܬܐ",
+    "ܡܪܝܐ",
+    "ܐܠܗܝ",
+    "ܩܕܝܫܐ",
+    "ܕܠܐ",
+    "ܢܡܘܣ",
+    "ܐܢܬ",
+    "ܡܪܝܐ",
+    "ܣܡܬܝܗܝ",
+    "ܠܕܝܢ̣ܐ",
+    "ܘܓܒܠܬܢܝ",
+    "ܠܡܟܣܘܬܗ"
+   ],
+   "readings": [
+    {
+     "he": [
+      7,
+      8
+     ],
+     "sy": [
+      9,
+      10,
+      11
+     ],
+     "type": "lesart",
+     "vorlage": "לא תמות",
+     "note": "2. Person „der du nicht stirbst“ statt „wir werden nicht sterben“ (die als Tiqqun soferim überlieferte ursprüngliche Lesart).",
+     "sure": false,
+     "parallel": "",
+     "note_en": "2nd person “you who do not die” for “we shall not die” (the original reading transmitted as a Tiqqun soferim)."
+    },
+    {
+     "he": [
+      12,
+      14
+     ],
+     "sy": [
+      15
+     ],
+     "type": "lesart",
+     "vorlage": "",
+     "note": "„und du hast mich gebildet“ statt „und (du) Fels hast ihn bestimmt“: וצור als Verb „bilden“ (יצר) verstanden; vgl. LXX („er bildete mich“).",
+     "sure": true,
+     "parallel": "",
+     "note_en": "“and you have formed me” for “and (you) Rock have appointed him”: וצור understood as the verb “form” (יצר); cf. LXX (“he formed me”)."
+    }
+   ]
+  },
+  "1:13": {
+   "mt": [
+    "טְה֤וֹר",
+    "עֵינַ֨יִם֙",
+    "מֵרְא֣וֹת",
+    "רָ֔ע",
+    "וְהַבִּ֥יט",
+    "אֶל",
+    "עָמָ֖ל",
+    "לֹ֣א",
+    "תוּכָ֑ל",
+    "לָ֤מָּה",
+    "תַבִּיט֙",
+    "בּֽוֹגְדִ֔ים",
+    "תַּחֲרִ֕ישׁ",
+    "בְּבַלַּ֥ע",
+    "רָשָׁ֖ע",
+    "צַדִּ֥יק",
+    "מִמֶּֽנּוּ"
+   ],
+   "syr": [
+    "ܕܟܝ̈ܢ",
+    "ܐܢܝܢ",
+    "ܥܝܢ̈ܝܟ",
+    "ܘܠܐ",
+    "ܚ̈ܙܝܢ",
+    "ܒܝܫܬܐ",
+    "ܘܠܡܚܪ",
+    "ܒܥ̇ܘ̈ܠܐ",
+    "ܠܐ",
+    "ܡܫܟܚ",
+    "ܐܢܬ",
+    "ܠܡܢܐ",
+    "ܚܐܪ",
+    "ܐܢܬ",
+    "ܒܡܪ̈ܚܐ",
+    "ܘܫܬܝܩ",
+    "ܐܢܬ",
+    "ܟܕ",
+    "ܒܠܥ",
+    "ܥ̇ܘܠܐ",
+    "ܠܙܕܝܩܐ"
+   ],
+   "readings": [
+    {
+     "he": [
+      17
+     ],
+     "sy": [],
+     "type": "auslassung",
+     "vorlage": "",
+     "note": "„(gerechter) als er“ fehlt: „der Frevler verschlingt den Gerechten“ (so auch LXX).",
+     "sure": true,
+     "parallel": "",
+     "note_en": "“(more righteous) than he” minus: “the wicked swallows up the righteous” (so also LXX)."
+    }
+   ]
+  },
+  "2:1": {
+   "mt": [
+    "עַל",
+    "מִשְׁמַרְתִּ֣י",
+    "אֶעֱמֹ֔דָה",
+    "וְאֶֽתְיַצְּבָ֖ה",
+    "עַל",
+    "מָצ֑וֹר",
+    "וַאֲצַפֶּ֗ה",
+    "לִרְאוֹת֙",
+    "מַה",
+    "יְדַבֶּר",
+    "בִּ֔י",
+    "וּמָ֥ה",
+    "אָשִׁ֖יב",
+    "עַל",
+    "תּוֹכַחְתִּֽי"
+   ],
+   "syr": [
+    "ܥܠ",
+    "ܕܘܟܬܝ",
+    "ܐܩܘܡ",
+    "ܟܕ",
+    "ܕܪܝܟ",
+    "ܐܢܐ",
+    "ܥܠ",
+    "ܟܐܦܐ",
+    "ܘܐܚܘܪ",
+    "ܘܐܚܙܐ",
+    "ܡܢܐ",
+    "ܡܡܠܠ",
+    "ܥܡܝ",
+    "ܘܡܢܐ",
+    "ܡܬܝܒ",
+    "ܠܝ",
+    "ܥܠ",
+    "ܡܟܣܢܘܬܝ"
+   ],
+   "readings": [
+    {
+     "he": [
+      6
+     ],
+     "sy": [
+      8
+     ],
+     "type": "deutung",
+     "vorlage": "",
+     "note": "„auf den Felsen“ statt „auf die Warte“: מצור von צור „Fels“ abgeleitet.",
+     "sure": true,
+     "parallel": "",
+     "note_en": "“on the rock” for “on the watchtower”: מצור derived from צור “rock”."
+    }
+   ]
+  },
+  "2:4": {
+   "mt": [
+    "הִנֵּ֣ה",
+    "עֻפְּלָ֔ה",
+    "לֹא",
+    "יָשְׁרָ֥ה",
+    "נַפְשׁ֖וֹ",
+    "בּ֑וֹ",
+    "וְצַדִּ֖יק",
+    "בֶּאֱמוּנָת֥וֹ",
+    "יִחְיֶֽה"
+   ],
+   "syr": [
+    "ܘܒܥ̇ܘܠܐ",
+    "ܠܐ",
+    "ܨܒܝܐ",
+    "ܢܦܫܗ",
+    "ܘܙܕܝܩܐ",
+    "ܒܗܝܡܢܘܬܐ",
+    "ܢܚܐ"
+   ],
+   "readings": [
+    {
+     "he": [
+      1,
+      2,
+      3,
+      4
+     ],
+     "sy": [
+      1,
+      2,
+      3
+     ],
+     "type": "lesart",
+     "vorlage": "",
+     "note": "„am Frevler hat seine Seele kein Gefallen“ statt „siehe, aufgeblasen, nicht gerade ist seine Seele“; „Gefallen haben“ ähnlich LXX.",
+     "sure": false,
+     "parallel": "",
+     "note_en": "“his soul takes no delight in the wicked” for “look, puffed up, his soul is not upright”; “take delight” similarly LXX."
+    }
+   ]
+  },
+  "2:5": {
+   "mt": [
+    "וְאַף֙",
+    "כִּֽי",
+    "הַיַּ֣יִן",
+    "בּוֹגֵ֔ד",
+    "גֶּ֥בֶר",
+    "יָהִ֖יר",
+    "וְלֹ֣א",
+    "יִנְוֶ֑ה",
+    "אֲשֶׁר֩",
+    "הִרְחִ֨יב",
+    "כִּשְׁא֜וֹל",
+    "נַפְשׁ֗וֹ",
+    "וְה֤וּא",
+    "כַמָּ֨וֶת֙",
+    "וְלֹ֣א",
+    "יִשְׂבָּ֔ע",
+    "וַיֶּאֱסֹ֤ף",
+    "אֵלָיו֙",
+    "כָּל",
+    "הַגּוֹיִ֔ם",
+    "וַיִּקְבֹּ֥ץ",
+    "אֵלָ֖יו",
+    "כָּל",
+    "הָעַמִּֽים"
+   ],
+   "syr": [
+    "ܘܓܒܪܐ",
+    "ܡܪܚܐ",
+    "ܘܝܥܢܐ",
+    "ܠܐ",
+    "ܣܒܥ",
+    "ܕܐܦܬܝ",
+    "ܢܦܫܗ",
+    "ܐܝܟ",
+    "ܫܝܘܠ",
+    "ܘܠܐ",
+    "ܣܒܥ",
+    "ܐܝܟ",
+    "ܡܘܬܐ",
+    "ܟܢܫ",
+    "ܠܘܬܗ",
+    "ܟܠܗܘܢ",
+    "ܥܡ̈ܡܐ",
+    "ܘܩܪܒ",
+    "ܠܘܬܗ",
+    "ܟܠܗܝܢ",
+    "ܐܡ̈ܘܬܐ"
+   ],
+   "readings": [
+    {
+     "he": [
+      1,
+      2,
+      3,
+      4
+     ],
+     "sy": [],
+     "type": "auslassung",
+     "vorlage": "",
+     "note": "„und gar, der Wein ist treulos“ fehlt.",
+     "sure": true,
+     "parallel": "",
+     "note_en": "“and moreover, wine is treacherous” minus."
+    },
+    {
+     "he": [
+      8
+     ],
+     "sy": [
+      3,
+      4,
+      5
+     ],
+     "type": "deutung",
+     "vorlage": "",
+     "note": "„und gierig, er wird nicht satt“ statt „und kommt nicht zur Ruhe“.",
+     "sure": false,
+     "parallel": "",
+     "note_en": "“and greedy, he is never satisfied” for “and does not come to rest”."
+    }
+   ]
+  },
+  "2:6": {
+   "mt": [
+    "הֲלוֹא",
+    "אֵ֣לֶּה",
+    "כֻלָּ֗ם",
+    "עָלָיו֙",
+    "מָשָׁ֣ל",
+    "יִשָּׂ֔אוּ",
+    "וּמְלִיצָ֖ה",
+    "חִיד֣וֹת",
+    "ל֑וֹ",
+    "וְיֹאמַ֗ר",
+    "ה֚וֹי",
+    "הַמַּרְבֶּ֣ה",
+    "לֹּא",
+    "ל֔וֹ",
+    "עַד",
+    "מָתַ֕י",
+    "וּמַכְבִּ֥יד",
+    "עָלָ֖יו",
+    "עַבְטִֽיט"
+   ],
+   "syr": [
+    "ܗܠܝܢ",
+    "ܟܠܗܘܢ",
+    "ܡܬ̈ܠܐ",
+    "ܢܣܒܘܢ",
+    "ܥܠܘܗܝ",
+    "ܘܦܠܐ̈ܬܐ",
+    "ܘܐܘܚ̈ܕܬܐ",
+    "ܘܢܐܡܪܘܢ",
+    "ܘܝ",
+    "ܠܕܡܟܢܫ",
+    "ܡܣܓܐ",
+    "ܠܗ",
+    "ܕܠܐ",
+    "ܕܝܠܗ",
+    "ܥܕܡܐ",
+    "ܠܐܡܬܝ",
+    "ܡܥܫܢ",
+    "ܥܠܘܗܝ",
+    "ܥܢܢܐ",
+    "ܕܣܝܢܐ"
+   ],
+   "readings": [
+    {
+     "he": [
+      19
+     ],
+     "sy": [
+      19,
+      20
+     ],
+     "type": "deutung",
+     "vorlage": "עב טיט",
+     "note": "„Wolke aus Schlamm“ statt „Pfandlast“: עבטיט als עב טיט getrennt.",
+     "sure": true,
+     "parallel": "",
+     "note_en": "“cloud of mud” for “weight of pledges”: עבטיט divided as עב טיט."
+    }
+   ]
+  },
+  "2:16": {
+   "mt": [
+    "שָׂבַ֤עְתָּ",
+    "קָלוֹן֙",
+    "מִכָּב֔וֹד",
+    "שְׁתֵ֥ה",
+    "גַם",
+    "אַ֖תָּה",
+    "וְהֵֽעָרֵ֑ל",
+    "תִּסּ֣וֹב",
+    "עָלֶ֗יךָ",
+    "כּ֚וֹס",
+    "יְמִ֣ין",
+    "יְהוָ֔ה",
+    "וְקִיקָל֖וֹן",
+    "עַל",
+    "כְּבוֹדֶֽךָ"
+   ],
+   "syr": [
+    "ܣܒܥܬ",
+    "ܨܥܪܐ",
+    "ܡܢ",
+    "ܐܝܩܪܐ",
+    "ܐܫܬܝ",
+    "ܐܦ",
+    "ܐܢܬ",
+    "ܘܐܬܛܪܦ",
+    "ܢܗܦܘܟ",
+    "ܥܠܝܟ",
+    "ܟܣܐ",
+    "ܕܝܡܝܢܗ",
+    "ܕܡܪܝܐ",
+    "ܘܨܥܪܐ",
+    "ܥܠ",
+    "ܐܝܩܪܟ"
+   ],
+   "readings": [
+    {
+     "he": [
+      7
+     ],
+     "sy": [
+      8
+     ],
+     "type": "lesart",
+     "vorlage": "והרעל",
+     "note": "„und taumle“ statt „und zeige deine Vorhaut“ (Umstellung der Konsonanten; so auch LXX).",
+     "sure": true,
+     "parallel": "",
+     "note_en": "“and stagger” for “and expose your foreskin” (transposition of consonants; so also LXX)."
+    }
+   ]
+  },
+  "2:19": {
+   "mt": [
+    "ה֣וֹי",
+    "אֹמֵ֤ר",
+    "לָעֵץ֙",
+    "הָקִ֔יצָה",
+    "ע֖וּרִי",
+    "לְאֶ֣בֶן",
+    "דּוּמָ֑ם",
+    "ה֣וּא",
+    "יוֹרֶ֔ה",
+    "הִנֵּה",
+    "ה֗וּא",
+    "תָּפוּשׂ֙",
+    "זָהָ֣ב",
+    "וָכֶ֔סֶף",
+    "וְכָל",
+    "ר֖וּחַ",
+    "אֵ֥ין",
+    "בְּקִרְבּֽוֹ"
+   ],
+   "syr": [
+    "ܘܝ",
+    "ܠܕܐܡܪ",
+    "ܠܩܝܣܐ",
+    "ܐܬܬܥܝܪ",
+    "ܘܠܟܐܦܐ",
+    "ܚܪܫܬܐ",
+    "ܕܩܘܡܝ",
+    "ܣܪ̈ܝܩܝܢ",
+    "ܐܢܘܢ",
+    "ܘܕܗܒܐ",
+    "ܩܪܝܡܝܢ",
+    "ܘܪܘܚܐ",
+    "ܠܝܬ",
+    "ܒܗܘܢ"
+   ],
+   "readings": [
+    {
+     "he": [
+      8,
+      9,
+      10,
+      11,
+      14
+     ],
+     "sy": [],
+     "type": "auslassung",
+     "vorlage": "",
+     "note": "„Wird er lehren? Siehe, er …“ und „Silber“ fehlen.",
+     "sure": true,
+     "parallel": "",
+     "note_en": "“Will it teach? See, it …” and “silver” minus."
+    },
+    {
+     "he": [],
+     "sy": [
+      8,
+      9
+     ],
+     "type": "zusatz",
+     "vorlage": "",
+     "note": "Plus „sie sind leer“ über die Götzenbilder.",
+     "sure": true,
+     "parallel": "",
+     "note_en": "Plus “they are empty” about the idols."
+    }
+   ]
+  },
+  "2:20": {
+   "mt": [
+    "וַֽיהוָ֖ה",
+    "בְּהֵיכַ֣ל",
+    "קָדְשׁ֑וֹ",
+    "הַ֥ס",
+    "מִפָּנָ֖יו",
+    "כָּל",
+    "הָאָֽרֶץ"
+   ],
+   "syr": [
+    "ܘܡܪܝܐ",
+    "ܒܗܝܟܠܐ",
+    "ܕܩܘܕܫܗ",
+    "ܬܙܘܥ",
+    "ܡܢ",
+    "ܩܕܡܘܗܝ",
+    "ܟܠܗ̇",
+    "ܐܪܥܐ"
+   ],
+   "readings": [
+    {
+     "he": [
+      4
+     ],
+     "sy": [
+      4
+     ],
+     "type": "technik",
+     "vorlage": "",
+     "note": "„es erbebe (vor ihm)“ statt „still (vor ihm)“.",
+     "sure": true,
+     "parallel": "",
+     "note_en": "“let (it) tremble (before him)” for “silence (before him)”."
+    }
+   ]
+  },
+  "3:1": {
+   "mt": [
+    "תְּפִלָּ֖ה",
+    "לַחֲבַקּ֣וּק",
+    "הַנָּבִ֑יא",
+    "עַ֖ל",
+    "שִׁגְיֹנֽוֹת"
+   ],
+   "syr": [
+    "ܨܠܘܬܗ",
+    "ܕܚܒܩܘܩ",
+    "ܢܒܝܐ"
+   ],
+   "readings": [
+    {
+     "he": [
+      4,
+      5
+     ],
+     "sy": [],
+     "type": "auslassung",
+     "vorlage": "",
+     "note": "Die Gattungsangabe „nach Schigjonot“ fehlt.",
+     "sure": true,
+     "parallel": "",
+     "note_en": "The genre designation “according to Shigionoth” is lacking."
+    }
+   ]
+  },
+  "3:2": {
+   "mt": [
+    "יְהוָ֗ה",
+    "שָׁמַ֣עְתִּי",
+    "שִׁמְעֲךָ֮",
+    "יָרֵאתִי֒",
+    "יְהוָ֗ה",
+    "פָּֽעָלְךָ֙",
+    "בְּקֶ֤רֶב",
+    "שָׁנִים֙",
+    "חַיֵּ֔יהוּ",
+    "בְּקֶ֥רֶב",
+    "שָׁנִ֖ים",
+    "תּוֹדִ֑יעַ",
+    "בְּרֹ֖גֶז",
+    "רַחֵ֥ם",
+    "תִּזְכּֽוֹר"
+   ],
+   "syr": [
+    "ܡܪܝܐ",
+    "ܫܡܥܬ",
+    "ܫܡܟ",
+    "ܘܕܚܠܬ",
+    "ܡܪܝܐ",
+    "ܥܒ̈ܕܝܟ",
+    "ܒܓܘ",
+    "ܫܢ̈ܝܐ",
+    "ܕܚ̈ܝܐ",
+    "ܒܓܘ",
+    "ܫܢ̈ܝܐ",
+    "ܬܬܝܕܥ",
+    "ܒܪܘܓܙܐ",
+    "ܪ̈ܚܡܝܟ",
+    "ܐܬܕܟܪ"
+   ],
+   "readings": [
+    {
+     "he": [
+      3
+     ],
+     "sy": [
+      3
+     ],
+     "type": "lesart",
+     "vorlage": "שמך",
+     "note": "„deinen Namen“ statt „deine Kunde“.",
+     "sure": false,
+     "parallel": "",
+     "note_en": "“your name” for “your report”."
+    },
+    {
+     "he": [
+      9
+     ],
+     "sy": [
+      9
+     ],
+     "type": "deutung",
+     "vorlage": "",
+     "note": "„(inmitten der Jahre) des Lebens“ statt „belebe es“: חייהו als Nomen „Leben“ verstanden.",
+     "sure": true,
+     "parallel": "",
+     "note_en": "“(in the midst of the years) of life” for “revive it”: חייהו understood as noun “life”."
+    },
+    {
+     "he": [
+      12
+     ],
+     "sy": [
+      12
+     ],
+     "type": "deutung",
+     "vorlage": "תודע",
+     "note": "„wirst du erkannt werden“ statt „mache es kund“ (passiv vokalisiert; so auch LXX).",
+     "sure": true,
+     "parallel": "",
+     "note_en": "“you will be known” for “make it known” (vocalized as passive; so also LXX)."
+    }
+   ]
+  },
+  "3:3": {
+   "mt": [
+    "אֱל֨וֹהַ֙",
+    "מִתֵּימָ֣ן",
+    "יָב֔וֹא",
+    "וְקָד֥וֹשׁ",
+    "מֵֽהַר",
+    "פָּארָ֖ן",
+    "סֶ֑לָה",
+    "כִּסָּ֤ה",
+    "שָׁמַ֨יִם֙",
+    "הוֹד֔וֹ",
+    "וּתְהִלָּת֖וֹ",
+    "מָלְאָ֥ה",
+    "הָאָֽרֶץ"
+   ],
+   "syr": [
+    "ܐܠܗܐ",
+    "ܡܢ",
+    "ܬܝܡܢܐ",
+    "ܐܬܐ",
+    "ܘܩܕܝܫܐ",
+    "ܡܢ",
+    "ܛܘܪܐ",
+    "ܕܦܪܢ",
+    "ܐܬܟܣܝܘ",
+    "ܫܡܝܐ",
+    "ܡܢ",
+    "ܙܝܘܗ",
+    "ܕܡܫܒܚܐ",
+    "ܘܬܫܒܘܚܬܗ",
+    "ܐܬܡܠܝܬ",
+    "ܐܪܥܐ"
+   ],
+   "readings": [
+    {
+     "he": [
+      7
+     ],
+     "sy": [
+      13
+     ],
+     "type": "deutung",
+     "vorlage": "",
+     "note": "„des Gepriesenen“ wohl für סלה (von סלל „erheben“ abgeleitet) und in den Satz einbezogen.",
+     "sure": false,
+     "parallel": "",
+     "note_en": "“of the praised one” probably for סלה (derived from סלל “to exalt”) and incorporated into the sentence."
+    }
+   ]
+  },
+  "3:4": {
+   "mt": [
+    "וְנֹ֨גַהּ֙",
+    "כָּא֣וֹר",
+    "תִּֽהְיֶ֔ה",
+    "קַרְנַ֥יִם",
+    "מִיָּד֖וֹ",
+    "ל֑וֹ",
+    "וְשָׁ֖ם",
+    "חֶבְי֥וֹן",
+    "עֻזֹּֽה"
+   ],
+   "syr": [
+    "ܘܙܗܪܗ",
+    "ܐܝܟ",
+    "ܢܘܗܪܐ",
+    "ܢܗܘܐ",
+    "ܒܩܪܝܬܐ",
+    "ܕܐܝ̈ܕܘܗܝ",
+    "ܢܣܝܡ",
+    "ܥܘܫܢܗ",
+    "ܒܠܩܚܐ"
+   ],
+   "readings": [
+    {
+     "he": [
+      4
+     ],
+     "sy": [
+      5
+     ],
+     "type": "syrfehler",
+     "vorlage": "",
+     "note": "„in der Stadt (ܩܪܝܬܐ)“ statt „Hörner“; wohl aus ܩܪܢܬܐ „Hörner“ verschrieben.",
+     "sure": false,
+     "parallel": "",
+     "note_en": "“in the city (ܩܪܝܬܐ)” for “horns”; probably miswritten from ܩܪܢܬܐ “horns”."
+    }
+   ]
+  },
+  "3:5": {
+   "mt": [
+    "לְפָנָ֖יו",
+    "יֵ֣לֶךְ",
+    "דָּ֑בֶר",
+    "וְיֵצֵ֥א",
+    "רֶ֖שֶׁף",
+    "לְרַגְלָֽיו"
+   ],
+   "syr": [
+    "ܩܕܡܘܗܝ",
+    "ܐܙܠ",
+    "ܡܘܬܐ",
+    "ܘܢܦܩܐ",
+    "ܛܝܪܐ",
+    "ܠܪܓܠܗ"
+   ],
+   "readings": [
+    {
+     "he": [
+      5
+     ],
+     "sy": [
+      5
+     ],
+     "type": "deutung",
+     "vorlage": "",
+     "note": "„der Vogel“ statt „die Seuche (Reschef)“: רשף als Flammen-/Vogelwesen verstanden (vgl. Hi 5:7).",
+     "sure": true,
+     "parallel": "",
+     "note_en": "“the bird” for “the plague (Resheph)”: רשף understood as a flame/bird creature (cf. Job 5:7)."
+    }
+   ]
+  },
+  "3:9": {
+   "mt": [
+    "עֶרְיָ֤ה",
+    "תֵעוֹר֙",
+    "קַשְׁתֶּ֔ךָ",
+    "שְׁבֻע֥וֹת",
+    "מַטּ֖וֹת",
+    "אֹ֣מֶר",
+    "סֶ֑לָה",
+    "נְהָר֖וֹת",
+    "תְּבַקַּע",
+    "אָֽרֶץ"
+   ],
+   "syr": [
+    "ܡܬܬܥܪܘ",
+    "ܬܬܥܝܪ",
+    "ܩܫܬܟ",
+    "ܘܢܣܒܥܘܢ",
+    "ܓܐܪ̈ܐ",
+    "ܒܡܐܡܪܟ",
+    "ܡܫܒܚܐ",
+    "ܘܐܪܥܐ",
+    "ܒܢܗܪ̈ܘܬܐ",
+    "ܬܬܚܪܬ"
+   ],
+   "readings": [
+    {
+     "he": [
+      1,
+      2
+     ],
+     "sy": [
+      1,
+      2
+     ],
+     "type": "deutung",
+     "vorlage": "",
+     "note": "„erwachend erwacht dein Bogen“ statt „entblößt wird dein Bogen“: עריה/תעור von עור „wachen“ abgeleitet.",
+     "sure": true,
+     "parallel": "",
+     "note_en": "“awaking, your bow awakes” for “your bow is laid bare”: עריה/תעור derived from עור “to wake”."
+    },
+    {
+     "he": [
+      4,
+      5,
+      6
+     ],
+     "sy": [
+      4,
+      5,
+      6
+     ],
+     "type": "deutung",
+     "vorlage": "",
+     "note": "„und die Pfeile werden satt durch dein Wort“ statt „Schwüre, Ruten, Wort“: שבעות von שבע „satt sein“ abgeleitet.",
+     "sure": true,
+     "parallel": "",
+     "note_en": "“and the arrows are sated by your word” for “oaths, rods, word”: שבעות derived from שבע “be sated”."
+    },
+    {
+     "he": [
+      7
+     ],
+     "sy": [
+      7
+     ],
+     "type": "deutung",
+     "vorlage": "",
+     "note": "סלה als „gepriesen“ wiedergegeben, wie 3:3.",
+     "sure": false,
+     "parallel": "",
+     "note_en": "סלה rendered as “praised”, as in 3:3."
+    }
+   ]
+  },
+  "3:13": {
+   "mt": [
+    "יָצָ֨אתָ֙",
+    "לְיֵ֣שַׁע",
+    "עַמֶּ֔ךָ",
+    "לְיֵ֖שַׁע",
+    "אֶת",
+    "מְשִׁיחֶ֑ךָ",
+    "מָחַ֤צְתָּ",
+    "רֹּאשׁ֙",
+    "מִבֵּ֣ית",
+    "רָשָׁ֔ע",
+    "עָר֛וֹת",
+    "יְס֥וֹד",
+    "עַד",
+    "צַוָּ֖אר",
+    "סֶֽלָה"
+   ],
+   "syr": [
+    "ܢܦܩܬ",
+    "ܠܡܦܪܩ",
+    "ܠܥܡܟ",
+    "ܘܠܡܦܪܩ",
+    "ܠܡܫܝܚܟ",
+    "ܦܣܩܬ",
+    "ܪܝܫܐ",
+    "ܡܢ",
+    "ܒܝܬܗ",
+    "ܕܥ̇ܘܠܐ",
+    "ܘܐܫܠܚܬܝܗܝ",
+    "ܡܢ",
+    "ܫܬܐ̈ܣܘܗܝ",
+    "ܘܥܕܡܐ",
+    "ܠܨܘܪܗ",
+    "ܠܥܠܡܝܢ"
+   ],
+   "readings": [
+    {
+     "he": [
+      15
+     ],
+     "sy": [
+      16
+     ],
+     "type": "deutung",
+     "vorlage": "",
+     "note": "סלה als „in Ewigkeit“ wiedergegeben (wie Targum, ungeprüft).",
+     "sure": true,
+     "parallel": "",
+     "note_en": "סלה rendered as “forever” (as Targum, unverified)."
+    }
+   ]
+  },
+  "3:14": {
+   "mt": [
+    "נָקַ֤בְתָּ",
+    "בְמַטָּיו֙",
+    "רֹ֣אשׁ",
+    "פרזו",
+    "פְּרָזָ֔יו",
+    "יִסְעֲר֖וּ",
+    "לַהֲפִיצֵ֑נִי",
+    "עֲלִ֣יצֻתָ֔ם",
+    "כְּמוֹ",
+    "לֶאֱכֹ֥ל",
+    "עָנִ֖י",
+    "בַּמִּסְתָּֽר"
+   ],
+   "syr": [
+    "ܦܚܬܬ",
+    "ܒܚܘܛܪ̈ܘܗܝ",
+    "ܪ̈ܝܫܐ",
+    "ܕܫ̈ܠܝܛܢܘܗܝ",
+    "ܕܐܬܬܟܠܘ",
+    "ܒܫܝܚܢܘܬܗܘܢ",
+    "ܕܢܐܟܠܘܢ",
+    "ܒܛܘܫܝܐ",
+    "ܠܡܣ̈ܟܢܐ"
+   ],
+   "readings": [
+    {
+     "he": [
+      6,
+      7
+     ],
+     "sy": [],
+     "type": "auslassung",
+     "vorlage": "",
+     "note": "„sie stürmen heran, mich zu zerstreuen“ fehlt.",
+     "sure": true,
+     "parallel": "",
+     "note_en": "“they storm in to scatter me” is lacking."
+    },
+    {
+     "he": [],
+     "sy": [
+      5
+     ],
+     "type": "zusatz",
+     "vorlage": "",
+     "note": "Plus „die vertrauten (auf ihren Hochmut)“.",
+     "sure": true,
+     "parallel": "",
+     "note_en": "Plus “who trusted (in their pride)”."
+    }
+   ]
+  },
+  "3:16": {
+   "mt": [
+    "שָׁמַ֣עְתִּי",
+    "וַתִּרְגַּ֣ז",
+    "בִּטְנִ֗י",
+    "לְקוֹל֙",
+    "צָלֲל֣וּ",
+    "שְׂפָתַ֔י",
+    "יָב֥וֹא",
+    "רָקָ֛ב",
+    "בַּעֲצָמַ֖י",
+    "וְתַחְתַּ֣י",
+    "אֶרְגָּ֑ז",
+    "אֲשֶׁ֤ר",
+    "אָנ֨וּחַ֙",
+    "לְי֣וֹם",
+    "צָרָ֔ה",
+    "לַעֲל֖וֹת",
+    "לְעַ֥ם",
+    "יְגוּדֶֽנּוּ"
+   ],
+   "syr": [
+    "ܫܡܥܬ",
+    "ܘܙܥܬ",
+    "ܟܪܣܝ",
+    "ܠܘܩܒܠ",
+    "ܡܡܠܠܐ",
+    "ܕܣ̈ܦܘܬܝ",
+    "ܥܠ",
+    "ܪܬܝܬܐ",
+    "ܒܓܪ̈ܡܝ",
+    "ܘܒܘܪ̈ܟܝ",
+    "ܙܥ",
+    "ܕܒܕܩ",
+    "ܠܝ",
+    "ܘܚܘܝܢܝ",
+    "ܝܘܡܐ",
+    "ܕܐܘܠܨܢܐ",
+    "ܕܐܬܐ",
+    "ܥܠ",
+    "ܥܡܐ"
+   ],
+   "readings": [
+    {
+     "he": [
+      12,
+      13,
+      16,
+      17,
+      18
+     ],
+     "sy": [
+      12,
+      13,
+      14,
+      17,
+      18,
+      19
+     ],
+     "type": "technik",
+     "vorlage": "",
+     "note": "Freie Wiedergabe: „der mich prüfte und mir zeigte den Tag der Not, der über das Volk kommt“ statt „dass ich ruhig erwarte den Tag der Not, heraufzuziehen gegen das Volk, das uns bedrängt“.",
+     "sure": false,
+     "parallel": "",
+     "note_en": "Free rendering: “who tested me and showed me the day of distress that comes upon the people” for “that I may quietly wait for the day of distress to come upon the people that invade us”."
+    }
+   ]
+  },
+  "3:19": {
+   "mt": [
+    "יְהוִ֤הּ",
+    "אֲדֹנָי֙",
+    "חֵילִ֔י",
+    "וַיָּ֤שֶׂם",
+    "רַגְלַי֙",
+    "כָּֽאַיָּל֔וֹת",
+    "וְעַ֥ל",
+    "בָּמוֹתַ֖י",
+    "יַדְרִכֵ֑נִי",
+    "לַמְנַצֵּ֖חַ",
+    "בִּנְגִינוֹתָֽי"
+   ],
+   "syr": [
+    "ܡܪܐ",
+    "ܡܪ̈ܘܬܐ",
+    "ܚܝܠܝ",
+    "ܕܥܒܕ",
+    "ܪ̈ܓܠܝ",
+    "ܐܝܟ",
+    "ܕܐܝܠܐ",
+    "ܘܥܠ",
+    "ܪܘܡܝ",
+    "ܐܩܝܡܢܝ",
+    "ܕܐܙܡܪ",
+    "ܒܬܫ̈ܒܚܬܗ"
+   ],
+   "readings": [
+    {
+     "he": [
+      10,
+      11
+     ],
+     "sy": [
+      11,
+      12
+     ],
+     "type": "technik",
+     "vorlage": "",
+     "note": "Die Musikangabe „für den Chorleiter, mit meinem Saitenspiel“ als „dass ich in seinen Lobliedern singe“ wiedergegeben; „seinen“ ähnlich LXX.",
+     "sure": true,
+     "parallel": "",
+     "note_en": "The musical notice “to the choirmaster, with my stringed instruments” rendered as “that I may sing in his songs of praise”; “his” similarly LXX."
+    }
+   ]
+  }
+ }
+}

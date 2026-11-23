@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use these data, please cite them as below."
+type: dataset
+title: "LXX and Peshitta against the Masoretic Text – a classified apparatus"
+authors:
+  - family-names: Itkin
+    given-names: Igor Mendel
+version: "1.0.0"
+date-released: "2026-11-23"
+license: CC-BY-NC-SA-4.0
+repository-code: "https://github.com/mitkin89/lxx-peshitta-apparatus"
+keywords: [Septuagint, LXX, Peshitta, Masoretic Text, textual criticism, Hebrew Bible, Vorlage, apparatus, alignment]
+references:
+  - type: data
+    title: "CATSS Parallel Aligned Hebrew-Aramaic and Greek Texts of Jewish Scripture"
+    authors:
+      - family-names: Tov
+        given-names: Emanuel
+      - family-names: Kraft
+        given-names: Robert A.
+  - type: data
+    title: "ETCBC Peshitta"
+    doi: "10.5281/zenodo.1464757"
+    authors:
+      - family-names: van Peursen
+        given-names: Willem Th.

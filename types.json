@@ -1,0 +1,74 @@
+{
+ "lesart": {
+  "de": "andere Lesart",
+  "de_description": "Andere Konsonanten in der Vorlage oder Verlesung",
+  "en": "different reading",
+  "en_description": "Different consonants in the Vorlage, or misreading"
+ },
+ "deutung": {
+  "de": "andere Deutung",
+  "de_description": "Gleiche Konsonanten, anders vokalisiert, abgeleitet oder getrennt",
+  "en": "different interpretation",
+  "en_description": "Same consonants, vocalised, derived or divided differently"
+ },
+ "zusatz": {
+  "de": "Zusatz",
+  "de_description": "Erweiterung ohne erkennbare Parallele",
+  "en": "plus",
+  "en_description": "Expansion without an evident parallel"
+ },
+ "auslassung": {
+  "de": "Auslassung",
+  "de_description": "MT-Text ohne Wiedergabe in der LXX bzw. Peschitta",
+  "en": "omission",
+  "en_description": "MT text without a counterpart in the LXX or Peshitta"
+ },
+ "harmonisierung": {
+  "de": "Angleichung",
+  "de_description": "An eine Parallelstelle angeglichen",
+  "en": "harmonisation",
+  "en_description": "Harmonised with a parallel passage"
+ },
+ "technik": {
+  "de": "Übersetzungstechnik",
+  "de_description": "Bewusste Übersetzungsentscheidung, keine andere Vorlage",
+  "en": "translation technique",
+  "en_description": "Deliberate translation choice, no different Vorlage"
+ },
+ "doublette": {
+  "de": "Doppelübersetzung",
+  "de_description": "Dieselbe Stelle zweifach wiedergegeben",
+  "en": "double translation",
+  "en_description": "The same passage rendered twice"
+ },
+ "umstellung": {
+  "de": "Umstellung",
+  "de_description": "Andere Wortfolge oder über die Versgrenze verschoben",
+  "en": "transposition",
+  "en_description": "Different word order or moved across the verse boundary"
+ },
+ "zahl": {
+  "de": "Zahl",
+  "de_description": "Abweichende Zahl oder abweichendes Datum",
+  "en": "number",
+  "en_description": "Different number or date"
+ },
+ "name": {
+  "de": "Name",
+  "de_description": "Abweichende Namensform",
+  "en": "name",
+  "en_description": "Different form of name"
+ },
+ "grfehler": {
+  "de": "innergriechischer Fehler",
+  "de_description": "Wahrscheinlich Abschreibfehler innerhalb der griechischen Überlieferung",
+  "en": "inner-Greek error",
+  "en_description": "Probably a copying error within the Greek tradition"
+ },
+ "syrfehler": {
+  "de": "innersyrischer Fehler",
+  "de_description": "Wahrscheinlich Abschreibfehler innerhalb der syrischen Überlieferung",
+  "en": "inner-Syriac error",
+  "en_description": "Probably a copying error within the Syriac tradition"
+ }
+}

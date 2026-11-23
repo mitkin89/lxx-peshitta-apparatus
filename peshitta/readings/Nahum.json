@@ -1,0 +1,1017 @@
+{
+ "book": "Nahum",
+ "verses": {
+  "1:1": {
+   "mt": [
+    "מַשָּׂ֖א",
+    "נִֽינְוֵ֑ה",
+    "סֵ֧פֶר",
+    "חֲז֛וֹן",
+    "נַח֖וּם",
+    "הָאֶלְקֹשִֽׁי"
+   ],
+   "syr": [
+    "ܡܚܘܬܐ",
+    "ܕܢܝܢܘܐ",
+    "ܕܒܣܦܪܐ",
+    "ܕܚ̈ܙܘܢܐ",
+    "ܕܢܚܘܡ",
+    "ܐܠܩܘܫܝܐ"
+   ],
+   "readings": [
+    {
+     "he": [
+      1
+     ],
+     "sy": [
+      1
+     ],
+     "type": "technik",
+     "vorlage": "",
+     "note": "„Schlag (Strafe) über Ninive“ statt „Ausspruch über Ninive“.",
+     "sure": true,
+     "parallel": "",
+     "note_en": "“blow (punishment) upon Nineveh” for “oracle concerning Nineveh”."
+    }
+   ]
+  },
+  "1:6": {
+   "mt": [
+    "לִפְנֵ֤י",
+    "זַעְמוֹ֙",
+    "מִ֣י",
+    "יַֽעֲמ֔וֹד",
+    "וּמִ֥י",
+    "יָק֖וּם",
+    "בַּחֲר֣וֹן",
+    "אַפּ֑וֹ",
+    "חֲמָתוֹ֙",
+    "נִתְּכָ֣ה",
+    "כָאֵ֔שׁ",
+    "וְהַצֻּרִ֖ים",
+    "נִתְּצ֥וּ",
+    "מִמֶּֽנּוּ"
+   ],
+   "syr": [
+    "ܩܕܡ",
+    "ܪܘܓܙܗ",
+    "ܡܢܘ",
+    "ܩܐܡ",
+    "ܘܡܢܘ",
+    "ܡܣܝܒܪ",
+    "ܚܡܬܐ",
+    "ܕܪܘܓܙܗ",
+    "ܚܡܬܗ",
+    "ܝܩܕܐ",
+    "ܐܝܟ",
+    "ܢܘܪܐ",
+    "ܘܛܘܪ̈ܐ",
+    "ܐܬܦܫܪܘ",
+    "ܡܢܗ"
+   ],
+   "readings": [
+    {
+     "he": [
+      12,
+      13
+     ],
+     "sy": [
+      13,
+      14
+     ],
+     "type": "lesart",
+     "vorlage": "נתכו",
+     "note": "„die Berge zerschmolzen“ statt „die Felsen wurden zerschlagen“; vielleicht נתכו gelesen oder an das Bild schmelzender Berge angelehnt.",
+     "sure": false,
+     "parallel": "",
+     "note_en": "“the mountains melted” for “the rocks were shattered”; perhaps read נתכו or modeled on the image of melting mountains."
+    }
+   ]
+  },
+  "1:10": {
+   "mt": [
+    "כִּ֚י",
+    "עַד",
+    "סִירִ֣ים",
+    "סְבֻכִ֔ים",
+    "וּכְסָבְאָ֖ם",
+    "סְבוּאִ֑ים",
+    "אֻ֨כְּל֔וּ",
+    "כְּקַ֥שׁ",
+    "יָבֵ֖שׁ",
+    "מָלֵֽא"
+   ],
+   "syr": [
+    "ܡܛܠ",
+    "ܕܥܕܡܐ",
+    "ܠܫ̈ܠܝܛܢܝܗܘܢ",
+    "ܡܪܘܕܝܢ",
+    "ܘܒܪܘܝܘܬܗܘܢ",
+    "ܪܘܝܢ",
+    "ܘܐܟܠܘ",
+    "ܘܐܬܡܠܝܘ",
+    "ܚܒܬܐ",
+    "ܝܒܝܫܬܐ"
+   ],
+   "readings": [
+    {
+     "he": [
+      3,
+      4
+     ],
+     "sy": [
+      3,
+      4
+     ],
+     "type": "lesart",
+     "vorlage": "",
+     "note": "„bis zu ihren Herrschern, die rebellieren“ statt „bis zu verflochtenen Dornen“: סירים als שרים „Fürsten“ verstanden.",
+     "sure": true,
+     "parallel": "",
+     "note_en": "“to their rulers who rebel” for “like entangled thorns”: סירים understood as שרים “princes”."
+    }
+   ]
+  },
+  "1:12": {
+   "mt": [
+    "כֹּ֣ה",
+    "אָמַ֣ר",
+    "יְהוָ֗ה",
+    "אִם",
+    "שְׁלֵמִים֙",
+    "וְכֵ֣ן",
+    "רַבִּ֔ים",
+    "וְכֵ֥ן",
+    "נָגֹ֖זּוּ",
+    "וְעָבָ֑ר",
+    "וְעִ֨נִּתִ֔ךְ",
+    "לֹ֥א",
+    "אֲעַנֵּ֖ךְ",
+    "עֽוֹד"
+   ],
+   "syr": [
+    "ܗܟܢܐ",
+    "ܐܡܪ",
+    "ܡܪܝܐ",
+    "ܥܠ",
+    "ܪ̈ܝܫܝ",
+    "ܡ̈ܝܐ",
+    "ܣ̈ܓܝܐܐ",
+    "ܕܓܪܘ",
+    "ܘܥܒܪܘ",
+    "ܘܕܥܢܝܬܟܝ",
+    "ܬܘܒ",
+    "ܠܐ",
+    "ܐܥܢܝܟܝ"
+   ],
+   "readings": [
+    {
+     "he": [
+      4,
+      5,
+      6,
+      7
+     ],
+     "sy": [
+      4,
+      5,
+      6,
+      7
+     ],
+     "type": "lesart",
+     "vorlage": "מים רבים",
+     "note": "„über den Häuptern vieler Wasser“ statt „mögen sie auch unversehrt und zahlreich sein“; ähnlich LXX („Herrscher vieler Wasser“).",
+     "sure": true,
+     "parallel": "",
+     "note_en": "“over the heads of many waters” for “though they be intact and many”; similarly LXX (“rulers of many waters”)."
+    }
+   ]
+  },
+  "1:14": {
+   "mt": [
+    "וְצִוָּ֤ה",
+    "עָלֶ֨יךָ֙",
+    "יְהוָ֔ה",
+    "לֹֽא",
+    "יִזָּרַ֥ע",
+    "מִשִּׁמְךָ֖",
+    "ע֑וֹד",
+    "מִבֵּ֨ית",
+    "אֱלֹהֶ֜יךָ",
+    "אַכְרִ֨ית",
+    "פֶּ֧סֶל",
+    "וּמַסֵּכָ֛ה",
+    "אָשִׂ֥ים",
+    "קִבְרֶ֖ךָ",
+    "כִּ֥י",
+    "קַלּֽוֹתָ"
+   ],
+   "syr": [
+    "ܘܢܦܩܘܕ",
+    "ܥܠܝܟܝ",
+    "ܡܪܝܐ",
+    "ܘܠܐ",
+    "ܢܙܕܪܥ",
+    "ܬܘܒ",
+    "ܡܢ",
+    "ܫܡܟܝ",
+    "ܒܝܬ",
+    "ܐܠܗܟܝ",
+    "ܘܐܘܒܕ",
+    "ܓܠܝ̈ܦܐ",
+    "ܘܢܣܝ̈ܟܐ",
+    "ܘܐܥܒܕܝܘܗܝ",
+    "ܩܒܪܟܝ",
+    "ܒܥܓܠ"
+   ],
+   "readings": [
+    {
+     "he": [
+      15,
+      16
+     ],
+     "sy": [
+      16
+     ],
+     "type": "deutung",
+     "vorlage": "",
+     "note": "„schnell“ statt „denn du bist verächtlich“: קלות von קל „schnell“ abgeleitet.",
+     "sure": true,
+     "parallel": "",
+     "note_en": "“quickly” for “for you are contemptible”: קלות derived from קל “swift”."
+    }
+   ]
+  },
+  "2:3": {
+   "mt": [
+    "כִּ֣י",
+    "שָׁ֤ב",
+    "יְהוָה֙",
+    "אֶת",
+    "גְּא֣וֹן",
+    "יַעֲקֹ֔ב",
+    "כִּגְא֖וֹן",
+    "יִשְׂרָאֵ֑ל",
+    "כִּ֤י",
+    "בְקָקוּם֙",
+    "בֹּֽקְקִ֔ים",
+    "וּזְמֹרֵיהֶ֖ם",
+    "שִׁחֵֽתוּ"
+   ],
+   "syr": [
+    "ܡܛܠ",
+    "ܕܡܦܢܐ",
+    "ܐܢܐ",
+    "ܐܝܩܪܗ",
+    "ܕܝܥܩܘܒ",
+    "ܐܝܟ",
+    "ܐܝܩܪܗ",
+    "ܕܐܝܣܪܝܠ",
+    "ܡܛܠ",
+    "ܕܕܫܘ",
+    "ܐܢܘܢ",
+    "ܕܝܘܫ̈ܐ",
+    "ܘܚܒܠܘ",
+    "ܫܒ̈ܘܩܝܗܘܢ"
+   ],
+   "readings": [
+    {
+     "he": [
+      2,
+      3
+     ],
+     "sy": [
+      2,
+      3
+     ],
+     "type": "lesart",
+     "vorlage": "",
+     "note": "„denn ich stelle wieder her“ (1. Person) statt „denn der Herr stellt wieder her“; der Gottesname fehlt.",
+     "sure": false,
+     "parallel": "",
+     "note_en": "“for I restore” (1st person) for “for the Lord restores”; the divine name minus."
+    }
+   ]
+  },
+  "2:5": {
+   "mt": [
+    "בַּֽחוּצוֹת֙",
+    "יִתְהוֹלְל֣וּ",
+    "הָרֶ֔כֶב",
+    "יִֽשְׁתַּקְשְׁק֖וּן",
+    "בָּרְחֹב֑וֹת",
+    "מַרְאֵיהֶן֙",
+    "כַּלַּפִּידִ֔ם",
+    "כַּבְּרָקִ֖ים",
+    "יְרוֹצֵֽצוּ"
+   ],
+   "syr": [
+    "ܘܒܫܡܐ",
+    "ܡܫܬܒܚܝܢ",
+    "ܒܡܪ̈ܟܒܬܗܘܢ",
+    "ܘܡܫܬܒܗܪܝܢ",
+    "ܘܚܙܘܗܘܢ",
+    "ܐܝܟ",
+    "ܠܡܦܐ̈ܕܐ",
+    "ܘܐܝܟ",
+    "ܒܪ̈ܩܐ",
+    "ܪܗܛܝܢ"
+   ],
+   "readings": [
+    {
+     "he": [
+      2,
+      4
+     ],
+     "sy": [
+      2,
+      4
+     ],
+     "type": "deutung",
+     "vorlage": "",
+     "note": "„sie rühmen sich … und prahlen“ statt „sie rasen … und stürmen“: יתהוללו von הלל „rühmen“ abgeleitet.",
+     "sure": true,
+     "parallel": "",
+     "note_en": "“they boast … and brag” for “they rage … and rush”: יתהוללו derived from הלל “to praise”."
+    },
+    {
+     "he": [
+      1,
+      5
+     ],
+     "sy": [
+      1
+     ],
+     "type": "lesart",
+     "vorlage": "",
+     "note": "„mit Namen“ statt „auf den Straßen … auf den Plätzen“; Herkunft unklar.",
+     "sure": false,
+     "parallel": "",
+     "note_en": "“by name” for “in the streets … in the squares”; origin unclear."
+    }
+   ]
+  },
+  "2:6": {
+   "mt": [
+    "יִזְכֹּר֙",
+    "אַדִּירָ֔יו",
+    "יִכָּשְׁל֖וּ",
+    "בהלכותם",
+    "בַּהֲלִֽיכָתָ֑ם",
+    "יְמַֽהֲרוּ֙",
+    "חֽוֹמָתָ֔הּ",
+    "וְהֻכַ֖ן",
+    "הַסֹּכֵֽךְ"
+   ],
+   "syr": [
+    "ܢܐܚܕܘܢ",
+    "ܠܫ̈ܠܝܛܢܝܗܘܢ",
+    "ܘܢܬܬܩܠܘܢ",
+    "ܒܗ̈ܠܟܬܗܘܢ",
+    "ܘܢܣܬܪܗܒܘܢ",
+    "ܠܫܘܪܐ",
+    "ܘܢܛܝܒܘܢ",
+    "ܥܥܝ̈ܬܐ"
+   ],
+   "readings": [
+    {
+     "he": [
+      1
+     ],
+     "sy": [
+      1
+     ],
+     "type": "lesart",
+     "vorlage": "",
+     "note": "„sie ergreifen ihre Herrscher“ statt „er gedenkt seiner Edlen“.",
+     "sure": false,
+     "parallel": "",
+     "note_en": "“they seize their rulers” for “he remembers his nobles”."
+    }
+   ]
+  },
+  "2:7": {
+   "mt": [
+    "שַׁעֲרֵ֥י",
+    "הַנְּהָר֖וֹת",
+    "נִפְתָּ֑חוּ",
+    "וְהַֽהֵיכָ֖ל",
+    "נָמֽוֹג"
+   ],
+   "syr": [
+    "ܬܪ̈ܥܐ",
+    "ܕܝܗܘܕܐ",
+    "ܐܬܦܬܚܘ",
+    "ܘܗܝܟܠܐ",
+    "ܙܥ"
+   ],
+   "readings": [
+    {
+     "he": [
+      2
+     ],
+     "sy": [
+      2
+     ],
+     "type": "lesart",
+     "vorlage": "",
+     "note": "„die Tore Judas“ statt „die Tore der Ströme“; Ursache unklar.",
+     "sure": false,
+     "parallel": "",
+     "note_en": "“the gates of Judah” for “the gates of the rivers”; cause unclear."
+    }
+   ]
+  },
+  "2:8": {
+   "mt": [
+    "וְהֻצַּ֖ב",
+    "גֻּלְּתָ֣ה",
+    "הֹֽעֲלָ֑תָה",
+    "וְאַמְהֹתֶ֗יהָ",
+    "מְנַֽהֲגוֹת֙",
+    "כְּק֣וֹל",
+    "יוֹנִ֔ים",
+    "מְתֹפְפֹ֖ת",
+    "עַל",
+    "לִבְבֵהֶֽן"
+   ],
+   "syr": [
+    "ܘܐܩܝܡܬ",
+    "ܦܪ̈ܫܝܗ̇",
+    "ܘܣܠܩܬ",
+    "ܘܐܡ̈ܗܬܗ̇",
+    "ܡܢܗ̈ܡܢ",
+    "ܗ̈ܘܝ",
+    "ܒܠܒܝ̈ܗܝܢ",
+    "ܐܝܟ",
+    "ܝܘ̈ܢܐ"
+   ],
+   "readings": [
+    {
+     "he": [
+      1,
+      2,
+      3
+     ],
+     "sy": [
+      1,
+      2,
+      3
+     ],
+     "type": "technik",
+     "vorlage": "",
+     "note": "Der dunkle Versanfang frei wiedergegeben: „sie stellte ihre Reiter auf und zog hinauf“.",
+     "sure": false,
+     "parallel": "",
+     "note_en": "The obscure beginning of the verse rendered freely: “she set up her horsemen and went up”."
+    },
+    {
+     "he": [
+      8,
+      9,
+      10
+     ],
+     "sy": [
+      7
+     ],
+     "type": "auslassung",
+     "vorlage": "",
+     "note": "„die auf ihre Brust schlagen“ fehlt; stattdessen seufzen sie „in ihren Herzen“.",
+     "sure": true,
+     "parallel": "",
+     "note_en": "“beating their breasts” minus; instead they moan “in their hearts”."
+    }
+   ]
+  },
+  "2:9": {
+   "mt": [
+    "וְנִינְוֵ֥ה",
+    "כִבְרֵֽכַת",
+    "מַ֖יִם",
+    "מִ֣ימֵי",
+    "הִ֑יא",
+    "וְהֵ֣מָּה",
+    "נָסִ֔ים",
+    "עִמְד֥וּ",
+    "עֲמֹ֖דוּ",
+    "וְאֵ֥ין",
+    "מַפְנֶֽה"
+   ],
+   "syr": [
+    "ܘܢܝܢܘܐ",
+    "ܐܝܟ",
+    "ܝܡܬܐ",
+    "ܗܝ",
+    "ܕܡ̈ܝܐ",
+    "ܘܒܝܬ",
+    "ܡ̈ܝܐ",
+    "ܗܝ",
+    "ܘܗܢܘܢ",
+    "ܥܪܩܝܢ",
+    "ܐܩܝܡܘ",
+    "ܐܩܝܡܘ",
+    "ܘܠܝܬ",
+    "ܕܡܬܦܢܐ"
+   ],
+   "readings": [
+    {
+     "he": [
+      4,
+      5
+     ],
+     "sy": [
+      6,
+      7,
+      8
+     ],
+     "type": "deutung",
+     "vorlage": "",
+     "note": "„und sie ist ein Haus des Wassers“ statt „von ihren Tagen an“: מימי als „Wasser“ gelesen (ähnlich LXX).",
+     "sure": true,
+     "parallel": "",
+     "note_en": "“and it is a house of water” for “from its days”: מימי read as “water” (similarly LXX)."
+    }
+   ]
+  },
+  "2:11": {
+   "mt": [
+    "בּוּקָ֥ה",
+    "וּמְבוּקָ֖ה",
+    "וּמְבֻלָּקָ֑ה",
+    "וְלֵ֨ב",
+    "נָמֵ֜ס",
+    "וּפִ֣ק",
+    "בִּרְכַּ֗יִם",
+    "וְחַלְחָלָה֙",
+    "בְּכָל",
+    "מָתְנַ֔יִם",
+    "וּפְנֵ֥י",
+    "כֻלָּ֖ם",
+    "קִבְּצ֥וּ",
+    "פָארֽוּר"
+   ],
+   "syr": [
+    "ܕܝܫܬܐ",
+    "ܘܣܚܝܦܬܐ",
+    "ܘܡܬܪܥܬܐ",
+    "ܘܠܒܐ",
+    "ܬܒܝܪܐ",
+    "ܘܦܘܪܩ",
+    "ܒܘܪ̈ܟܐ",
+    "ܘܪܥܠܐ",
+    "ܒܟܠ",
+    "ܚܨ̈ܝܢ",
+    "ܘܐ̈ܦܝ",
+    "ܟܠܗܘܢ",
+    "ܐܟܘܡ",
+    "ܐܝܟ",
+    "ܫܘܚܪ̈ܐ",
+    "ܕܩܕܪܐ"
+   ],
+   "readings": [
+    {
+     "he": [
+      13,
+      14
+     ],
+     "sy": [
+      13,
+      14,
+      15,
+      16
+     ],
+     "type": "deutung",
+     "vorlage": "פרור",
+     "note": "„sind schwarz wie der Ruß eines Topfes“: פארור als פרור „Topf“ gedeutet (ähnlich LXX).",
+     "sure": true,
+     "parallel": "",
+     "note_en": "“are black as the soot of a pot”: פארור interpreted as פרור “pot” (similarly LXX)."
+    }
+   ]
+  },
+  "2:12": {
+   "mt": [
+    "אַיֵּה֙",
+    "מְע֣וֹן",
+    "אֲרָי֔וֹת",
+    "וּמִרְעֶ֥ה",
+    "ה֖וּא",
+    "לַכְּפִרִ֑ים",
+    "אֲשֶׁ֣ר",
+    "הָלַךְ֩",
+    "אַרְיֵ֨ה",
+    "לָבִ֥יא",
+    "שָׁ֛ם",
+    "גּ֥וּר",
+    "אַרְיֵ֖ה",
+    "וְאֵ֥ין",
+    "מַחֲרִֽיד"
+   ],
+   "syr": [
+    "ܐܝܟܐ",
+    "ܗܝ",
+    "ܡܪܒܘܥܝܬܗ̇",
+    "ܕܐܪܝܘܬܐ",
+    "ܘܒܝܬ",
+    "ܪܥܝܐ",
+    "ܕܓܘܪܝܐ",
+    "ܕܐܪܝܘܬܐ",
+    "ܕܐܙܠ",
+    "ܐܪܝܐ",
+    "ܠܡܥܠ",
+    "ܠܬܡܢ",
+    "ܘܓܘܪܝܐ",
+    "ܕܐܪܝܐ",
+    "ܘܠܝܬ",
+    "ܕܡܗܪ"
+   ],
+   "readings": [
+    {
+     "he": [
+      10
+     ],
+     "sy": [
+      11
+     ],
+     "type": "lesart",
+     "vorlage": "לבוא",
+     "note": "„um hineinzugehen“ statt „Löwin“: לבוא statt לביא gelesen (so auch LXX).",
+     "sure": true,
+     "parallel": "",
+     "note_en": "“to go in” for “lioness”: לבוא read for לביא (so also LXX)."
+    }
+   ]
+  },
+  "2:14": {
+   "mt": [
+    "הִנְנִ֣י",
+    "אֵלַ֗יִךְ",
+    "נְאֻם֙",
+    "יְהוָ֣ה",
+    "צְבָא֔וֹת",
+    "וְהִבְעַרְתִּ֤י",
+    "בֶֽעָשָׁן֙",
+    "רִכְבָּ֔הּ",
+    "וּכְפִירַ֖יִךְ",
+    "תֹּ֣אכַל",
+    "חָ֑רֶב",
+    "וְהִכְרַתִּ֤י",
+    "מֵאֶ֨רֶץ֙",
+    "טַרְפֵּ֔ךְ",
+    "וְלֹֽא",
+    "יִשָּׁמַ֥ע",
+    "ע֖וֹד",
+    "ק֥וֹל",
+    "מַלְאָכֵֽכֵה"
+   ],
+   "syr": [
+    "ܗܐ",
+    "ܐܢܐ",
+    "ܥܠܝܟܝ",
+    "ܐܡܪ",
+    "ܡܪܝܐ",
+    "ܚܝܠܬܢܐ",
+    "ܘܐܘܒܕ",
+    "ܒܬܢܢܐ",
+    "ܟܢܫ̈ܝܟܝ",
+    "ܘܓܪ̈ܝܟܝ",
+    "ܬܐܟܘܠ",
+    "ܚܪܒܐ",
+    "ܘܐܘܒܕ",
+    "ܡܢ",
+    "ܐܪܥܐ",
+    "ܬܒܪܟܝ",
+    "ܘܬܘܒ",
+    "ܠܐ",
+    "ܢܫܬܡܥ",
+    "ܩܠܐ",
+    "ܕܥܒ̈ܕܝܟܝ"
+   ],
+   "readings": [
+    {
+     "he": [
+      8
+     ],
+     "sy": [
+      9
+     ],
+     "type": "lesart",
+     "vorlage": "",
+     "note": "„deine Scharen“ statt „ihre Wagen“; ähnlich LXX („deine Menge“).",
+     "sure": false,
+     "parallel": "",
+     "note_en": "“your hordes” for “her chariots”; similarly LXX (“your multitude”)."
+    },
+    {
+     "he": [
+      19
+     ],
+     "sy": [
+      21
+     ],
+     "type": "deutung",
+     "vorlage": "מלאכתך",
+     "note": "„deine Werke“ statt „deine Boten“: מלאככה als „Werk“ gelesen (so auch LXX).",
+     "sure": true,
+     "parallel": "",
+     "note_en": "“your works” for “your messengers”: מלאככה read as “work” (so also LXX)."
+    }
+   ]
+  },
+  "3:4": {
+   "mt": [
+    "מֵרֹב֙",
+    "זְנוּנֵ֣י",
+    "זוֹנָ֔ה",
+    "ט֥וֹבַת",
+    "חֵ֖ן",
+    "בַּעֲלַ֣ת",
+    "כְּשָׁפִ֑ים",
+    "הַמֹּכֶ֤רֶת",
+    "גּוֹיִם֙",
+    "בִּזְנוּנֶ֔יהָ",
+    "וּמִשְׁפָּח֖וֹת",
+    "בִּכְשָׁפֶֽיהָ"
+   ],
+   "syr": [
+    "ܡܢ",
+    "ܣܘܓܐܬ",
+    "ܙܢܝܘܬܗ̇",
+    "ܕܙܢܝܬܐ",
+    "ܫܦܝܪܬ",
+    "ܚܙܘܐ",
+    "ܘܡܪܬ",
+    "ܚܪ̈ܫܐ",
+    "ܕܡܪܒܝܐ",
+    "ܥܡܡ̈ܐ",
+    "ܒܙܢܝܘܬܗ̇",
+    "ܘܫܪ̈ܒܬܐ",
+    "ܒܚܪ̈ܫܝܗ̇"
+   ],
+   "readings": [
+    {
+     "he": [
+      8
+     ],
+     "sy": [
+      9
+     ],
+     "type": "lesart",
+     "vorlage": "",
+     "note": "„die Völker großzieht“ statt „die Völker verkauft“; Ursache unklar.",
+     "sure": false,
+     "parallel": "",
+     "note_en": "“who brings up the peoples” for “who sells the peoples”; cause unclear."
+    }
+   ]
+  },
+  "3:8": {
+   "mt": [
+    "הֲתֵֽיטְבִי֙",
+    "מִנֹּ֣א",
+    "אָמ֔וֹן",
+    "הַיֹּֽשְׁבָה֙",
+    "בַּיְאֹרִ֔ים",
+    "מַ֖יִם",
+    "סָבִ֣יב",
+    "לָ֑הּ",
+    "אֲשֶׁר",
+    "חֵ֣יל",
+    "יָ֔ם",
+    "מִיָּ֖ם",
+    "חוֹמָתָֽהּ"
+   ],
+   "syr": [
+    "ܕܠܡܐ",
+    "ܛܒܐ",
+    "ܐܢܬܝ",
+    "ܡܢ",
+    "ܝܘܢ",
+    "ܕܐܡܘܢ",
+    "ܕܝܬܒܐ",
+    "ܒܢܗܪ̈ܘܬܐ",
+    "ܘܡ̈ܝܐ",
+    "ܚܕܝܪ̈ܝܢ",
+    "ܠܗ̇",
+    "ܕܚܝܠܗ̇",
+    "ܝܡܐ",
+    "ܘܡ̈ܝܐ",
+    "ܫܘܪܗ̇"
+   ],
+   "readings": [
+    {
+     "he": [
+      2
+     ],
+     "sy": [
+      5
+     ],
+     "type": "name",
+     "vorlage": "",
+     "note": "„Jon des Amon“ statt „No-Amon“ (Theben).",
+     "sure": false,
+     "parallel": "",
+     "note_en": "“Jon of Amon” for “No-amon” (Thebes)."
+    },
+    {
+     "he": [
+      12
+     ],
+     "sy": [
+      14
+     ],
+     "type": "deutung",
+     "vorlage": "",
+     "note": "„und Wasser ist ihre Mauer“ statt „vom Meer her ihre Mauer“: מים als „Wasser“ gelesen (so auch LXX).",
+     "sure": true,
+     "parallel": "",
+     "note_en": "“and water is her wall” for “from the sea her wall”: מים read as “water” (so also LXX)."
+    }
+   ]
+  },
+  "3:9": {
+   "mt": [
+    "כּ֥וּשׁ",
+    "עָצְמָ֛ה",
+    "וּמִצְרַ֖יִם",
+    "וְאֵ֣ין",
+    "קֵ֑צֶה",
+    "פּ֣וּט",
+    "וְלוּבִ֔ים",
+    "הָי֖וּ",
+    "בְּעֶזְרָתֵֽךְ"
+   ],
+   "syr": [
+    "ܟܘܫ",
+    "ܘܡܨܪܝܢ",
+    "ܥܘܫܢܗ̇",
+    "ܘܠܝܬ",
+    "ܠܗ̇",
+    "ܣܟ",
+    "ܦܘܛܝܐ",
+    "ܘܠܘܒ̈ܝܐ",
+    "ܗܘܘ",
+    "ܒܥܘܕܪܢܗ̇"
+   ],
+   "readings": [
+    {
+     "he": [
+      9
+     ],
+     "sy": [
+      10
+     ],
+     "type": "lesart",
+     "vorlage": "בעזרתה",
+     "note": "„zu ihrer Hilfe“ statt „zu deiner Hilfe“ (so auch LXX).",
+     "sure": true,
+     "parallel": "",
+     "note_en": "“to their help” for “to your help” (so also LXX)."
+    }
+   ]
+  },
+  "3:11": {
+   "mt": [
+    "גַּם",
+    "אַ֣תְּ",
+    "תִּשְׁכְּרִ֔י",
+    "תְּהִ֖י",
+    "נַֽעֲלָמָ֑ה",
+    "גַּם",
+    "אַ֛תְּ",
+    "תְּבַקְשִׁ֥י",
+    "מָע֖וֹז",
+    "מֵאוֹיֵֽב"
+   ],
+   "syr": [
+    "ܐܦ",
+    "ܐܢܬܝ",
+    "ܬܕܘܝܢ",
+    "ܘܬܗܘܝܢ",
+    "ܫܝܛܬܐ",
+    "ܐܦ",
+    "ܐܢܬܝ",
+    "ܬܒܥܝܢ",
+    "ܥܘܕܪܢܐ",
+    "ܡܢ",
+    "ܒ̈ܥܠܕܒܒܝܟܝ"
+   ],
+   "readings": [
+    {
+     "he": [
+      5
+     ],
+     "sy": [
+      5
+     ],
+     "type": "deutung",
+     "vorlage": "",
+     "note": "„verachtet“ statt „verborgen“; ähnlich LXX („übersehen“).",
+     "sure": true,
+     "parallel": "",
+     "note_en": "“despised” for “hidden”; similarly LXX (“overlooked”)."
+    }
+   ]
+  },
+  "3:17": {
+   "mt": [
+    "מִנְּזָרַ֨יִךְ֙",
+    "כָּֽאַרְבֶּ֔ה",
+    "וְטַפְסְרַ֖יִךְ",
+    "כְּג֣וֹב",
+    "גֹּבָ֑י",
+    "הַֽחוֹנִ֤ים",
+    "בַּגְּדֵרוֹת֙",
+    "בְּי֣וֹם",
+    "קָרָ֔ה",
+    "שֶׁ֤מֶשׁ",
+    "זָֽרְחָה֙",
+    "וְנוֹדַ֔ד",
+    "וְלֹֽא",
+    "נוֹדַ֥ע",
+    "מְקוֹמ֖וֹ",
+    "אַיָּֽם"
+   ],
+   "syr": [
+    "ܢܙܝܪ̈ܝܟܝ",
+    "ܐܝܟ",
+    "ܩܡܨܐ",
+    "ܘܟܬܝܫ̈ܝܟܝ",
+    "ܐܝܟ",
+    "ܩܡܨܐ",
+    "ܕܣܒܝܟ",
+    "ܒܣܝܓܐ",
+    "ܒܝܘܡܐ",
+    "ܩܪܝܪܐ",
+    "ܕܡܐ",
+    "ܕܕܢܚܬ",
+    "ܫܡܫܐ",
+    "ܡܫܩܠ",
+    "ܘܠܐ",
+    "ܡܬܝܕܥܐ",
+    "ܕܘܟܬܗ"
+   ],
+   "readings": [
+    {
+     "he": [
+      16
+     ],
+     "sy": [],
+     "type": "auslassung",
+     "vorlage": "",
+     "note": "„wo sind sie?“ am Versende fehlt.",
+     "sure": true,
+     "parallel": "",
+     "note_en": "“where are they?” at the end of the verse minus."
+    }
+   ]
+  },
+  "3:18": {
+   "mt": [
+    "נָמ֤וּ",
+    "רֹעֶ֨יךָ֙",
+    "מֶ֣לֶךְ",
+    "אַשּׁ֔וּר",
+    "יִשְׁכְּנ֖וּ",
+    "אַדִּירֶ֑יךָ",
+    "נָפֹ֧שׁוּ",
+    "עַמְּךָ֛",
+    "עַל",
+    "הֶהָרִ֖ים",
+    "וְאֵ֥ין",
+    "מְקַבֵּֽץ"
+   ],
+   "syr": [
+    "ܢܡܘ",
+    "ܚܒܪ̈ܝܟܝ",
+    "ܡ̈ܠܟܐ",
+    "ܕܐܬܘܪ",
+    "ܘܫܪܘ",
+    "ܩܪ̈ܝܒܝܟܝ",
+    "ܐܬܒܕܪܘ",
+    "ܥܡܟܝ",
+    "ܥܠ",
+    "ܛܘܪ̈ܐ",
+    "ܘܠܝܬ",
+    "ܠܗܘܢ",
+    "ܡܟܢܫܢܐ"
+   ],
+   "readings": [
+    {
+     "he": [
+      2
+     ],
+     "sy": [
+      2
+     ],
+     "type": "deutung",
+     "vorlage": "",
+     "note": "„deine Gefährten“ statt „deine Hirten“: רעיך als רֵעֶיךָ gelesen.",
+     "sure": true,
+     "parallel": "",
+     "note_en": "“your companions” for “your shepherds”: רעיך read as רֵעֶיךָ."
+    }
+   ]
+  }
+ }
+}

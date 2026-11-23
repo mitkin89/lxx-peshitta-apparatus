@@ -1,0 +1,1059 @@
+{
+ "code": "Obad",
+ "book": "Obadiah",
+ "verses": {
+  "1:1": {
+   "mt": [
+    "חזון",
+    "עבדיה",
+    "כה",
+    "אמר",
+    "אדני",
+    "יהוה",
+    "לאדום",
+    "שמועה",
+    "שמענו",
+    "מאת",
+    "יהוה",
+    "וציר",
+    "בגוים",
+    "שלח",
+    "קומו",
+    "ונקומה",
+    "עליה",
+    "למלחמה"
+   ],
+   "lxx": [
+    "ὅρασις",
+    "αβδιου",
+    "τάδε",
+    "λέγει",
+    "κύριος",
+    "ὁ θεὸς",
+    "τῇ ιδουμαίᾳ",
+    "ἀκοὴν",
+    "ἤκουσα",
+    "παρὰ",
+    "κυρίου",
+    "καὶ περιοχὴν",
+    "εἰς τὰ ἔθνη",
+    "ἐξαπέστειλεν",
+    "ἀνάστητε",
+    "καὶ ἐξαναστῶμεν",
+    "ἐπ’ αὐτὴν",
+    "εἰς πόλεμον"
+   ],
+   "lxx_mt": [
+    [
+     1
+    ],
+    [
+     2
+    ],
+    [
+     3
+    ],
+    [
+     4
+    ],
+    [
+     5
+    ],
+    [
+     6
+    ],
+    [
+     7
+    ],
+    [
+     8
+    ],
+    [
+     9
+    ],
+    [
+     10
+    ],
+    [
+     11
+    ],
+    [
+     12
+    ],
+    [
+     13
+    ],
+    [
+     14
+    ],
+    [
+     15
+    ],
+    [
+     16
+    ],
+    [
+     17
+    ],
+    [
+     18
+    ]
+   ],
+   "readings": [
+    {
+     "he": [
+      9
+     ],
+     "gr": [
+      9
+     ],
+     "type": "harmonisierung",
+     "vorlage": "שמעתי",
+     "note": "„ich habe gehört“ (ἤκουσα) statt „wir haben gehört“, wie in der Parallele Jer 49:14",
+     "sure": false,
+     "parallel": "Jer 49:14",
+     "note_en": "“I have heard” (ἤκουσα) for “we have heard”, as in the parallel Jer 49:14"
+    },
+    {
+     "he": [
+      12
+     ],
+     "gr": [
+      12
+     ],
+     "type": "lesart",
+     "vorlage": "וצור",
+     "note": "περιοχή „Belagerung“ statt „Bote“: ציר als צור (י/ו) gelesen",
+     "sure": false,
+     "parallel": "",
+     "note_en": "περιοχή “siege” for “messenger”: ציר read as צור (י/ו)"
+    },
+    {
+     "he": [
+      14
+     ],
+     "gr": [
+      14
+     ],
+     "type": "deutung",
+     "vorlage": "",
+     "note": "שלח aktiv vokalisiert: „er hat ausgesandt“ statt „ist ausgesandt“",
+     "sure": true,
+     "parallel": "",
+     "note_en": "שלח vocalized as active: “he has sent out” for “is sent out”"
+    }
+   ]
+  },
+  "1:3": {
+   "mt": [
+    "זדון",
+    "לבך",
+    "השיאך",
+    "שכני",
+    "בחגוי",
+    "סלע",
+    "מרום",
+    "שבתו",
+    "אמר",
+    "בלבו",
+    "מי",
+    "יורדני",
+    "ארץ"
+   ],
+   "lxx": [
+    "ὑπερηφανία",
+    "τῆς καρδίας σου",
+    "ἐπῆρέν σε",
+    "κατασκηνοῦντα",
+    "ἐν ταῖς ὀπαῖς",
+    "τῶν πετρῶν",
+    "ὑψῶν",
+    "κατοικίαν αὐτοῦ",
+    "λέγων",
+    "ἐν καρδίᾳ αὐτοῦ",
+    "τίς",
+    "με κατάξει",
+    "ἐπὶ",
+    "τὴν γῆν"
+   ],
+   "lxx_mt": [
+    [
+     1
+    ],
+    [
+     2
+    ],
+    [
+     3
+    ],
+    [
+     4
+    ],
+    [
+     5
+    ],
+    [
+     6
+    ],
+    [
+     7
+    ],
+    [
+     8
+    ],
+    [
+     9
+    ],
+    [
+     10
+    ],
+    [
+     11
+    ],
+    [
+     12
+    ],
+    [],
+    [
+     13
+    ]
+   ],
+   "readings": [
+    {
+     "he": [
+      3
+     ],
+     "gr": [
+      3
+     ],
+     "type": "deutung",
+     "vorlage": "",
+     "note": "השיאך von נשא abgeleitet: „hat dich erhoben“ statt „hat dich betrogen“",
+     "sure": true,
+     "parallel": "",
+     "note_en": "השיאך derived from נשא: “has lifted you up” for “has deceived you”"
+    },
+    {
+     "he": [
+      7
+     ],
+     "gr": [
+      7
+     ],
+     "type": "lesart",
+     "vorlage": "מרים",
+     "note": "ὑψῶν „der erhöht“ setzt מרים statt מרום „Höhe“ voraus (ו/י)",
+     "sure": true,
+     "parallel": "",
+     "note_en": "ὑψῶν “who exalts” presupposes מרים for מרום “height” (ו/י)"
+    }
+   ]
+  },
+  "1:5": {
+   "mt": [
+    "אם",
+    "גנבים",
+    "באו",
+    "לך",
+    "אם",
+    "שודדי",
+    "לילה",
+    "איך",
+    "נדמיתה",
+    "הלוא",
+    "יגנבו",
+    "דים",
+    "אם",
+    "בצרים",
+    "באו",
+    "לך",
+    "הלוא",
+    "ישאירו",
+    "עללות"
+   ],
+   "lxx": [
+    "εἰ",
+    "κλέπται",
+    "εἰσῆλθον",
+    "πρὸς σὲ",
+    "ἢ",
+    "λῃσταὶ",
+    "νυκτός",
+    "ποῦ ἂν",
+    "ἀπερρίφης",
+    "οὐκ ἂν",
+    "ἔκλεψαν",
+    "τὰ ἱκανὰ ἑαυτοῖς",
+    "καὶ εἰ",
+    "τρυγηταὶ",
+    "εἰσῆλθον",
+    "πρὸς σέ",
+    "οὐκ ἂν",
+    "ὑπελίποντο",
+    "ἐπιφυλλίδα"
+   ],
+   "lxx_mt": [
+    [
+     1
+    ],
+    [
+     2
+    ],
+    [
+     3
+    ],
+    [
+     4
+    ],
+    [
+     5
+    ],
+    [
+     6
+    ],
+    [
+     7
+    ],
+    [
+     8
+    ],
+    [
+     9
+    ],
+    [
+     10
+    ],
+    [
+     11
+    ],
+    [
+     12
+    ],
+    [
+     13
+    ],
+    [
+     14
+    ],
+    [
+     15
+    ],
+    [
+     16
+    ],
+    [
+     17
+    ],
+    [
+     18
+    ],
+    [
+     19
+    ]
+   ],
+   "readings": [
+    {
+     "he": [
+      9
+     ],
+     "gr": [
+      9
+     ],
+     "type": "lesart",
+     "vorlage": "נרמיתה",
+     "note": "ἀπερρίφης „du wurdest verworfen“: נדמיתה als נרמיתה (ד/ר, von רמה „werfen“) gelesen",
+     "sure": true,
+     "parallel": "",
+     "note_en": "ἀπερρίφης “you were cast away”: נדמיתה read as נרמיתה (ד/ר, from רמה “throw”)"
+    }
+   ]
+  },
+  "1:7": {
+   "mt": [
+    "עד",
+    "הגבול",
+    "שלחוך",
+    "כל",
+    "אנשי",
+    "בריתך",
+    "השיאוך",
+    "יכלו",
+    "לך",
+    "אנשי",
+    "שלמך",
+    "לחמך",
+    "ישימו",
+    "מזור",
+    "תחתיך",
+    "אין",
+    "תבונה",
+    "בו"
+   ],
+   "lxx": [
+    "ἕως",
+    "τῶν ὁρίων σου",
+    "ἐξαπέστειλάν σε",
+    "πάντες",
+    "οἱ ἄνδρες",
+    "τῆς διαθήκης σου",
+    "ἀντέστησάν σοι",
+    "ἠδυνάσθησαν",
+    "πρὸς σὲ",
+    "ἄνδρες",
+    "εἰρηνικοί σου",
+    "ἔθηκαν",
+    "ἔνεδρα",
+    "ὑποκάτω σου",
+    "οὐκ ἔστιν",
+    "σύνεσις",
+    "αὐτοῖς"
+   ],
+   "lxx_mt": [
+    [
+     1
+    ],
+    [
+     2
+    ],
+    [
+     3
+    ],
+    [
+     4
+    ],
+    [
+     5
+    ],
+    [
+     6
+    ],
+    [
+     7
+    ],
+    [
+     8
+    ],
+    [
+     9
+    ],
+    [
+     10
+    ],
+    [
+     11
+    ],
+    [
+     13
+    ],
+    [
+     14
+    ],
+    [
+     15
+    ],
+    [
+     16
+    ],
+    [
+     17
+    ],
+    [
+     18
+    ]
+   ],
+   "readings": [
+    {
+     "he": [
+      12
+     ],
+     "gr": [],
+     "type": "auslassung",
+     "vorlage": "",
+     "note": "„dein Brot“ fehlt; schwieriger Text, vielleicht kürzere Vorlage oder Auslassung des Unverstandenen",
+     "sure": false,
+     "parallel": "",
+     "note_en": "“your bread” minus; difficult text, perhaps shorter Vorlage or omission of what was not understood"
+    },
+    {
+     "he": [
+      14
+     ],
+     "gr": [
+      13
+     ],
+     "type": "lesart",
+     "vorlage": "מצוד",
+     "note": "ἔνεδρα „Hinterhalt“ für מזור „Geschwür/Netz“, wohl als מצוד (Wurzel צוד) gelesen",
+     "sure": false,
+     "parallel": "",
+     "note_en": "ἔνεδρα “ambush” for מזור “wound/net”, probably read as מצוד (root צוד)"
+    }
+   ]
+  },
+  "1:8": {
+   "mt": [
+    "הלוא",
+    "ביום",
+    "ההוא",
+    "נאם",
+    "יהוה",
+    "והאבדתי",
+    "חכמים",
+    "מאדום",
+    "ותבונה",
+    "מהר",
+    "עשו"
+   ],
+   "lxx": [
+    "εν",
+    "ἐκείνῃ",
+    "τῇ ἡμέρᾳ",
+    "λέγει",
+    "κύριος",
+    "ἀπολῶ",
+    "σοφοὺς",
+    "ἐκ τῆς ιδουμαίας",
+    "καὶ σύνεσιν",
+    "ἐξ ὄρους",
+    "ησαυ"
+   ],
+   "lxx_mt": [
+    [
+     2
+    ],
+    [
+     3
+    ],
+    [],
+    [
+     4
+    ],
+    [
+     5
+    ],
+    [
+     6
+    ],
+    [
+     7
+    ],
+    [
+     8
+    ],
+    [
+     9
+    ],
+    [
+     10
+    ],
+    [
+     11
+    ]
+   ],
+   "readings": [
+    {
+     "he": [
+      1
+     ],
+     "gr": [],
+     "type": "auslassung",
+     "vorlage": "",
+     "note": "Fragepartikel הלוא fehlt: rhetorische Frage wird zur Aussage „An jenem Tag … werde ich vertilgen“",
+     "sure": true,
+     "parallel": "",
+     "note_en": "Interrogative particle הלוא is lacking: the rhetorical question becomes the statement “On that day … I will destroy”"
+    }
+   ]
+  },
+  "1:13": {
+   "mt": [
+    "אל",
+    "תבוא",
+    "בשער",
+    "עמי",
+    "ביום",
+    "אידם",
+    "אל",
+    "תרא",
+    "גם",
+    "אתה",
+    "ברעתו",
+    "ביום",
+    "אידו",
+    "ואל",
+    "תשלחנה",
+    "בחילו",
+    "ביום",
+    "אידו"
+   ],
+   "lxx": [
+    "μηδὲ",
+    "εἰσέλθῃς",
+    "εἰς πύλας",
+    "λαῶν",
+    "ἐν ἡμέρᾳ",
+    "πόνων αὐτῶν",
+    "μηδὲ",
+    "ἐπίδῃς",
+    "καὶ",
+    "σὺ",
+    "τὴν συναγωγὴν αὐτῶν",
+    "ἐν ἡμέρᾳ",
+    "ὀλέθρου αὐτῶν",
+    "μηδὲ",
+    "συνεπιθῇ",
+    "ἐπὶ τὴν δύναμιν αὐτῶν",
+    "ἐν ἡμέρᾳ",
+    "ἀπωλείας αὐτῶν"
+   ],
+   "lxx_mt": [
+    [
+     1
+    ],
+    [
+     2
+    ],
+    [
+     3
+    ],
+    [
+     4
+    ],
+    [
+     5
+    ],
+    [
+     6
+    ],
+    [
+     7
+    ],
+    [
+     8
+    ],
+    [
+     9
+    ],
+    [
+     10
+    ],
+    [
+     11
+    ],
+    [
+     12
+    ],
+    [
+     13
+    ],
+    [
+     14
+    ],
+    [
+     15
+    ],
+    [
+     16
+    ],
+    [
+     17
+    ],
+    [
+     18
+    ]
+   ],
+   "readings": [
+    {
+     "he": [
+      4
+     ],
+     "gr": [
+      4
+     ],
+     "type": "deutung",
+     "vorlage": "",
+     "note": "עמי als Plural „der Völker“ (λαῶν) statt „meines Volkes“ gedeutet; entsprechend stehen die folgenden Suffixe im Plural (αὐτῶν)",
+     "sure": true,
+     "parallel": "",
+     "note_en": "עמי interpreted as plural “of the peoples” (λαῶν) for “of my people”; accordingly the following suffixes are plural (αὐτῶν)"
+    },
+    {
+     "he": [
+      11
+     ],
+     "gr": [
+      11
+     ],
+     "type": "lesart",
+     "vorlage": "בעדתו",
+     "note": "τὴν συναγωγήν „Versammlung“ statt „Unglück“: ברעתו als בעדתו gelesen (ד/ר, Umstellung)",
+     "sure": false,
+     "parallel": "",
+     "note_en": "τὴν συναγωγήν “assembly” for “calamity”: ברעתו read as בעדתו (ד/ר, transposition)"
+    }
+   ]
+  },
+  "1:16": {
+   "mt": [
+    "כי",
+    "כאשר",
+    "שתיתם",
+    "על",
+    "הר",
+    "קדשי",
+    "ישתו",
+    "כל",
+    "הגוים",
+    "תמיד",
+    "ושתו",
+    "ולעו",
+    "והיו",
+    "כלוא",
+    "היו"
+   ],
+   "lxx": [
+    "διότι",
+    "ὃν τρόπον",
+    "ἔπιες",
+    "ἐπὶ",
+    "τὸ ὄρος",
+    "τὸ ἅγιόν μου",
+    "πίονται",
+    "πάντα",
+    "τὰ ἔθνη",
+    "οἶνον",
+    "πίονται",
+    "καὶ καταβήσονται",
+    "καὶ ἔσονται",
+    "καθὼς οὐχ",
+    "ὑπάρχοντες"
+   ],
+   "lxx_mt": [
+    [
+     1
+    ],
+    [
+     2
+    ],
+    [
+     3
+    ],
+    [
+     4
+    ],
+    [
+     5
+    ],
+    [
+     6
+    ],
+    [
+     7
+    ],
+    [
+     8
+    ],
+    [
+     9
+    ],
+    [
+     10
+    ],
+    [
+     11
+    ],
+    [
+     12
+    ],
+    [
+     13
+    ],
+    [
+     14
+    ],
+    [
+     15
+    ]
+   ],
+   "readings": [
+    {
+     "he": [
+      3
+     ],
+     "gr": [
+      3
+     ],
+     "type": "technik",
+     "vorlage": "",
+     "note": "ἔπιες Singular: Angeredet ist Edom statt der Plural „ihr habt getrunken“ (Israel); evtl. Vorlage שתית",
+     "sure": false,
+     "parallel": "",
+     "note_en": "ἔπιες singular: Edom is addressed instead of the plural “you have drunk” (Israel); possibly Vorlage שתית"
+    },
+    {
+     "he": [
+      10
+     ],
+     "gr": [
+      10
+     ],
+     "type": "lesart",
+     "vorlage": "תמד",
+     "note": "οἶνον „Wein“ statt „beständig“: תמיד wohl als תמד „Wein“ gelesen",
+     "sure": false,
+     "parallel": "",
+     "note_en": "οἶνον “wine” for “continually”: תמיד probably read as תמד “wine”"
+    },
+    {
+     "he": [
+      12
+     ],
+     "gr": [
+      12
+     ],
+     "type": "deutung",
+     "vorlage": "",
+     "note": "καταβήσονται „sie werden hinabsteigen“ für ולעו „und schlürfen“, freie oder geratene Deutung des seltenen Verbs",
+     "sure": false,
+     "parallel": "",
+     "note_en": "καταβήσονται “they will go down” for ולעו “and gulp down”, free or guessed interpretation of the rare verb"
+    }
+   ]
+  },
+  "1:19": {
+   "mt": [
+    "וירשו",
+    "הנגב",
+    "את",
+    "הר",
+    "עשו",
+    "והשפלה",
+    "את",
+    "פלשתים",
+    "וירשו",
+    "את",
+    "שדה",
+    "אפרים",
+    "ואת",
+    "שדה",
+    "שמרון",
+    "ובנימן",
+    "את",
+    "הגלעד"
+   ],
+   "lxx": [
+    "καὶ κατακληρονομήσουσιν",
+    "οἱ ἐν ναγεβ",
+    "τὸ ὄρος",
+    "τὸ ησαυ",
+    "καὶ οἱ ἐν τῇ σεφηλα",
+    "τοὺς ἀλλοφύλους",
+    "καὶ κατακληρονομήσουσιν",
+    "τὸ ὄρος",
+    "εφραιμ",
+    "καὶ τὸ πεδίον",
+    "σαμαρείας",
+    "καὶ βενιαμιν",
+    "καὶ τὴν γαλααδῖτιν"
+   ],
+   "lxx_mt": [
+    [
+     1
+    ],
+    [
+     2
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     5
+    ],
+    [
+     6
+    ],
+    [
+     7,
+     8
+    ],
+    [
+     9
+    ],
+    [
+     10,
+     11
+    ],
+    [
+     12
+    ],
+    [
+     13,
+     14
+    ],
+    [
+     15
+    ],
+    [
+     16
+    ],
+    [
+     17,
+     18
+    ]
+   ],
+   "readings": [
+    {
+     "he": [
+      11
+     ],
+     "gr": [
+      8
+     ],
+     "type": "lesart",
+     "vorlage": "הר",
+     "note": "„das Gebirge Ephraim“ statt „das Gefilde Ephraims“, nach der geläufigen Wendung הר אפרים",
+     "sure": true,
+     "parallel": "",
+     "note_en": "“the hill country of Ephraim” for “the territory of Ephraim”, after the familiar phrase הר אפרים"
+    }
+   ]
+  },
+  "1:20": {
+   "mt": [
+    "וגלת",
+    "החל",
+    "הזה",
+    "לבני",
+    "ישראל",
+    "אשר",
+    "כנענים",
+    "עד",
+    "צרפת",
+    "וגלת",
+    "ירושלם",
+    "אשר",
+    "בספרד",
+    "ירשו",
+    "את",
+    "ערי",
+    "הנגב"
+   ],
+   "lxx": [
+    "καὶ τῆς μετοικεσίας",
+    "ἡ ἀρχὴ",
+    "αὕτη",
+    "τοῖς υἱοῖς",
+    "ισραηλ",
+    "γῆ",
+    "τῶν χαναναίων",
+    "ἕως",
+    "σαρεπτων",
+    "καὶ ἡ μετοικεσία",
+    "ιερουσαλημ",
+    "ἕως",
+    "εφραθα",
+    "καὶ κληρονομήσουσιν",
+    "τὰς πόλεις",
+    "τοῦ ναγεβ"
+   ],
+   "lxx_mt": [
+    [
+     1
+    ],
+    [
+     2
+    ],
+    [
+     3
+    ],
+    [
+     4
+    ],
+    [
+     5
+    ],
+    [
+     6
+    ],
+    [
+     7
+    ],
+    [
+     8
+    ],
+    [
+     9
+    ],
+    [
+     10
+    ],
+    [
+     11
+    ],
+    [
+     12
+    ],
+    [
+     13
+    ],
+    [
+     14
+    ],
+    [
+     15,
+     16
+    ],
+    [
+     17
+    ]
+   ],
+   "readings": [
+    {
+     "he": [
+      2
+     ],
+     "gr": [
+      2
+     ],
+     "type": "deutung",
+     "vorlage": "",
+     "note": "ἡ ἀρχή „der Anfang“: החל von חלל „beginnen“ statt „Heer“ abgeleitet",
+     "sure": true,
+     "parallel": "",
+     "note_en": "ἡ ἀρχή “the beginning”: החל derived from חלל “begin” for “host”"
+    },
+    {
+     "he": [
+      6
+     ],
+     "gr": [
+      6
+     ],
+     "type": "lesart",
+     "vorlage": "ארץ",
+     "note": "γῆ „Land“ statt Relativpartikel: אשר als ארץ gelesen",
+     "sure": true,
+     "parallel": "",
+     "note_en": "γῆ “land” for the relative particle: אשר read as ארץ"
+    },
+    {
+     "he": [
+      12,
+      13
+     ],
+     "gr": [
+      12,
+      13
+     ],
+     "type": "name",
+     "vorlage": "",
+     "note": "„bis Ephratha“ (ἕως Εφραθα) statt „die in Sepharad“",
+     "sure": false,
+     "parallel": "",
+     "note_en": "“as far as Ephratha” (ἕως Εφραθα) for “who are in Sepharad”"
+    }
+   ]
+  }
+ }
+}

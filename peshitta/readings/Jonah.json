@@ -1,0 +1,586 @@
+{
+ "book": "Jonah",
+ "verses": {
+  "2:6": {
+   "mt": [
+    "אֲפָפ֤וּנִי",
+    "מַ֨יִם֙",
+    "עַד",
+    "נֶ֔פֶשׁ",
+    "תְּה֖וֹם",
+    "יְסֹבְבֵ֑נִי",
+    "ס֖וּף",
+    "חָב֥וּשׁ",
+    "לְרֹאשִֽׁי"
+   ],
+   "syr": [
+    "ܚܕܪܘܢܝ",
+    "ܡ̈ܝܐ",
+    "ܥܕܡܐ",
+    "ܠܢܦܫܐ",
+    "ܘܬܗܘܡܐ",
+    "ܟܪܟܢܝ",
+    "ܘܒܐܫܬܗ",
+    "ܕܝܡܐ",
+    "ܐܬܚܒܫ",
+    "ܪܝܫܝ"
+   ],
+   "readings": [
+    {
+     "he": [
+      7
+     ],
+     "sy": [
+      7,
+      8
+     ],
+     "type": "deutung",
+     "vorlage": "",
+     "note": "„im Grund des Meeres“ statt „Schilf“: סוף als „Ende“ verstanden (ähnlich LXX).",
+     "sure": true,
+     "parallel": "",
+     "note_en": "“in the depth of the sea” for “reeds”: סוף understood as “end” (similarly LXX)."
+    }
+   ]
+  },
+  "2:9": {
+   "mt": [
+    "מְשַׁמְּרִ֖ים",
+    "הַבְלֵי",
+    "שָׁ֑וְא",
+    "חַסְדָּ֖ם",
+    "יַעֲזֹֽבוּ"
+   ],
+   "syr": [
+    "ܟܘܠ",
+    "ܕܢܛܪܝܢ",
+    "ܕܚ̈ܠܬܐ",
+    "ܣܪ̈ܝܩܬܐ",
+    "ܡܪܚܡܢܘܬܟ",
+    "ܫܒܩܝܢ"
+   ],
+   "readings": [
+    {
+     "he": [
+      4
+     ],
+     "sy": [
+      5
+     ],
+     "type": "technik",
+     "vorlage": "",
+     "note": "„verlassen deine Barmherzigkeit“ statt „verlassen ihre Gnade“: auf Gott bezogen.",
+     "sure": true,
+     "parallel": "",
+     "note_en": "“forsake your mercy” for “forsake their loyalty”: referred to God."
+    }
+   ]
+  },
+  "2:10": {
+   "mt": [
+    "וַאֲנִ֗י",
+    "בְּק֤וֹל",
+    "תּוֹדָה֙",
+    "אֶזְבְּחָה",
+    "לָּ֔ךְ",
+    "אֲשֶׁ֥ר",
+    "נָדַ֖רְתִּי",
+    "אֲשַׁלֵּ֑מָה",
+    "יְשׁוּעָ֖תָה",
+    "לַיהוָֽה"
+   ],
+   "syr": [
+    "ܐܢܐ",
+    "ܕܝܢ",
+    "ܒܩܠܐ",
+    "ܕܬܘܕܝܬܐ",
+    "ܐܕܒܚ",
+    "ܠܟ",
+    "ܘܡܕܡ",
+    "ܕܢܕܪܬ",
+    "ܐܫܠܡ",
+    "ܦܘܪܥܢܐ",
+    "ܠܡܪܝܐ"
+   ],
+   "readings": [
+    {
+     "he": [
+      9
+     ],
+     "sy": [
+      10
+     ],
+     "type": "technik",
+     "vorlage": "",
+     "note": "„Vergeltung“ statt „Rettung“ (ist des Herrn).",
+     "sure": false,
+     "parallel": "",
+     "note_en": "“retribution” for “deliverance” (belongs to the Lord)."
+    }
+   ]
+  },
+  "2:11": {
+   "mt": [
+    "וַיֹּ֥אמֶר",
+    "יְהוָ֖ה",
+    "לַדָּ֑ג",
+    "וַיָּקֵ֥א",
+    "אֶת",
+    "יוֹנָ֖ה",
+    "אֶל",
+    "הַיַּבָּשָֽׁה"
+   ],
+   "syr": [
+    "ܘܦܩܕ",
+    "ܡܪܝܐ",
+    "ܠܢܘܢܐ",
+    "ܘܦܠܛܗ",
+    "ܠܝܘܢܢ",
+    "ܠܝܒܫܐ"
+   ],
+   "readings": [
+    {
+     "he": [
+      1
+     ],
+     "sy": [
+      1
+     ],
+     "type": "technik",
+     "vorlage": "",
+     "note": "„der Herr befahl dem Fisch“ statt „sprach zum Fisch“ (so auch LXX).",
+     "sure": true,
+     "parallel": "",
+     "note_en": "“the Lord commanded the fish” for “spoke to the fish” (so also LXX)."
+    }
+   ]
+  },
+  "3:6": {
+   "mt": [
+    "וַיִּגַּ֤ע",
+    "הַדָּבָר֙",
+    "אֶל",
+    "מֶ֣לֶך",
+    "נִֽינְוֵ֔ה",
+    "וַיָּ֨קָם֙",
+    "מִכִּסְא֔וֹ",
+    "וַיַּעֲבֵ֥ר",
+    "אַדַּרְתּ֖וֹ",
+    "מֵֽעָלָ֑יו",
+    "וַיְכַ֣ס",
+    "שַׂ֔ק",
+    "וַיֵּ֖שֶׁב",
+    "עַל",
+    "הָאֵֽפֶר"
+   ],
+   "syr": [
+    "ܘܡܛܬ",
+    "ܡܠܬܐ",
+    "ܠܡܠܟܐ",
+    "ܕܢܝܢܘܐ",
+    "ܘܩܡ",
+    "ܡܢ",
+    "ܟܘܪܣܝܗ",
+    "ܘܫܩܠ",
+    "ܬܓܗ",
+    "ܡܢܗ",
+    "ܘܠܒܫ",
+    "ܣܩܐ",
+    "ܘܝܬܒ",
+    "ܥܠ",
+    "ܩܛܡܐ"
+   ],
+   "readings": [
+    {
+     "he": [
+      9
+     ],
+     "sy": [
+      9
+     ],
+     "type": "deutung",
+     "vorlage": "",
+     "note": "„seine Krone“ statt „seinen Mantel“: אדרת wohl als „Herrlichkeit“ (אדר) verstanden.",
+     "sure": true,
+     "parallel": "",
+     "note_en": "“his crown” for “his robe”: אדרת probably understood as “glory” (אדר)."
+    }
+   ]
+  },
+  "3:9": {
+   "mt": [
+    "מִֽי",
+    "יוֹדֵ֣עַ",
+    "יָשׁ֔וּב",
+    "וְנִחַ֖ם",
+    "הָאֱלֹהִ֑ים",
+    "וְשָׁ֛ב",
+    "מֵחֲר֥וֹן",
+    "אַפּ֖וֹ",
+    "וְלֹ֥א",
+    "נֹאבֵֽד"
+   ],
+   "syr": [
+    "ܡ̇ܢ",
+    "ܝܕܥ",
+    "ܐܢ",
+    "ܡܬܦܢܐ",
+    "ܐܠܗܐ",
+    "ܘܡܪܚܡ",
+    "ܥܠܝܢ",
+    "ܘܡܗܦܟ",
+    "ܡܢܢ",
+    "ܚܡܬܐ",
+    "ܕܪܘܓܙܗ",
+    "ܕܠܐ",
+    "ܢܐܒܕ"
+   ],
+   "readings": [
+    {
+     "he": [
+      4
+     ],
+     "sy": [
+      6,
+      7
+     ],
+     "type": "technik",
+     "vorlage": "",
+     "note": "„und sich über uns erbarmt“ statt „und es sich gereuen lässt“; Reue Gottes vermieden.",
+     "sure": true,
+     "parallel": "",
+     "note_en": "“and has mercy on us” for “and relents”; God’s repentance avoided."
+    }
+   ]
+  },
+  "3:10": {
+   "mt": [
+    "וַיַּ֤רְא",
+    "הָֽאֱלֹהִים֙",
+    "אֶֽת",
+    "מַ֣עֲשֵׂיהֶ֔ם",
+    "כִּי",
+    "שָׁ֖בוּ",
+    "מִדַּרְכָּ֣ם",
+    "הָרָעָ֑ה",
+    "וַיִּנָּ֣חֶם",
+    "הָאֱלֹהִ֗ים",
+    "עַל",
+    "הָרָעָ֛ה",
+    "אֲשֶׁר",
+    "דִּבֶּ֥ר",
+    "לַעֲשׂוֹת",
+    "לָהֶ֖ם",
+    "וְלֹ֥א",
+    "עָשָֽׂה"
+   ],
+   "syr": [
+    "ܘܚܙܐ",
+    "ܐܠܗܐ",
+    "ܥܒ̈ܕܝܗܘܢ",
+    "ܕܬܒܘ",
+    "ܡܢ",
+    "ܐܘܪ̈ܚܬܗܘܢ",
+    "ܒܝܫ̈ܬܐ",
+    "ܘܐܗܦܟ",
+    "ܡܢܗܘܢ",
+    "ܚܡܬܐ",
+    "ܕܪܘܓܙܗ",
+    "ܘܠܐ",
+    "ܐܘܒܕ",
+    "ܐܢܘܢ"
+   ],
+   "readings": [
+    {
+     "he": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+     ],
+     "sy": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+     ],
+     "type": "harmonisierung",
+     "vorlage": "",
+     "note": "„er wandte die Glut seines Zorns von ihnen ab und vernichtete sie nicht“ statt „es reute Gott das Unheil …, und er tat es nicht“; Reue Gottes vermieden, Wortlaut nach V. 9.",
+     "sure": true,
+     "parallel": "Jona 3:9",
+     "note_en": "“he turned the heat of his anger from them and did not destroy them” for “God repented of the evil …, and he did not do it”; God’s repentance avoided, wording after v. 9."
+    }
+   ]
+  },
+  "4:2": {
+   "mt": [
+    "וַיִּתְפַּלֵּ֨ל",
+    "אֶל",
+    "יְהוָ֜ה",
+    "וַיֹּאמַ֗ר",
+    "אָנָּ֤ה",
+    "יְהוָה֙",
+    "הֲלוֹא",
+    "זֶ֣ה",
+    "דְבָרִ֗י",
+    "עַד",
+    "הֱיוֹתִי֙",
+    "עַל",
+    "אַדְמָתִ֔י",
+    "עַל",
+    "כֵּ֥ן",
+    "קִדַּ֖מְתִּי",
+    "לִבְרֹ֣חַ",
+    "תַּרְשִׁ֑ישָׁה",
+    "כִּ֣י",
+    "יָדַ֗עְתִּי",
+    "כִּ֤י",
+    "אַתָּה֙",
+    "אֵֽל",
+    "חַנּ֣וּן",
+    "וְרַח֔וּם",
+    "אֶ֤רֶךְ",
+    "אַפַּ֨יִם֙",
+    "וְרַב",
+    "חֶ֔סֶד",
+    "וְנִחָ֖ם",
+    "עַל",
+    "הָרָעָֽה"
+   ],
+   "syr": [
+    "ܘܨܠܝ",
+    "ܩܕܡ",
+    "ܡܪܝܐ",
+    "ܘܐܡܪ",
+    "ܐܘܢ",
+    "ܡܪܝܐ",
+    "ܠܐ",
+    "ܗܘܬ",
+    "ܗܕܐ",
+    "ܡܠܬܝ",
+    "ܟܕ",
+    "ܐܢܐ",
+    "ܒܐܪܥܝ",
+    "ܘܡܛܠ",
+    "ܗܢܐ",
+    "ܩܕܡܬ",
+    "ܗܘܝܬ",
+    "ܥܪܩܬ",
+    "ܠܝ",
+    "ܠܬܪܫܝܫ",
+    "ܝܕܥ",
+    "ܗܘܝܬ",
+    "ܓܝܪ",
+    "ܕܐܠܗܐ",
+    "ܐܢܬ",
+    "ܡܪܚܡܢܐ",
+    "ܘܡܪܚܦܢܐ",
+    "ܘܢܓܝܪܐ",
+    "ܪܘܚܟ",
+    "ܘܣܓܝܐܐ",
+    "ܛܝܒܘܬܟ",
+    "ܘܡܗܦܟ",
+    "ܐܢܬ",
+    "ܒܝܫܬܐ"
+   ],
+   "readings": [
+    {
+     "he": [
+      30,
+      31,
+      32
+     ],
+     "sy": [
+      32,
+      33,
+      34
+     ],
+     "type": "technik",
+     "vorlage": "",
+     "note": "„und du wendest das Böse ab“ statt „und es reut dich das Böse“; Reue Gottes vermieden, wie 3:9.",
+     "sure": true,
+     "parallel": "",
+     "note_en": "“and you turn away the evil” for “and you relent of the evil”; God’s repentance avoided, as in 3:9."
+    }
+   ]
+  },
+  "4:6": {
+   "mt": [
+    "וַיְמַ֣ן",
+    "יְהוָֽה",
+    "אֱ֠לֹהִים",
+    "קִיקָי֞וֹן",
+    "וַיַּ֣עַל",
+    "מֵעַ֣ל",
+    "לְיוֹנָ֗ה",
+    "לִֽהְי֥וֹת",
+    "צֵל֙",
+    "עַל",
+    "רֹאשׁ֔וֹ",
+    "לְהַצִּ֥יל",
+    "ל֖וֹ",
+    "מֵרָֽעָת֑וֹ",
+    "וַיִּשְׂמַ֥ח",
+    "יוֹנָ֛ה",
+    "עַל",
+    "הַקִּֽיקָי֖וֹן",
+    "שִׂמְחָ֥ה",
+    "גְדוֹלָֽה"
+   ],
+   "syr": [
+    "ܘܦܩܕ",
+    "ܡܪܝܐ",
+    "ܐܠܗܐ",
+    "ܠܫܪܘܪܐ",
+    "ܕܩܪܐܐ",
+    "ܘܝܥܐ",
+    "ܘܣܠܩ",
+    "ܠܥܠ",
+    "ܡܢ",
+    "ܝܘܢܢ",
+    "ܘܗܘܐ",
+    "ܛܠܠܐ",
+    "ܥܠ",
+    "ܪܝܫܗ",
+    "ܘܐܪܘܚ",
+    "ܠܗ",
+    "ܡܢ",
+    "ܒܝܫܬܗ",
+    "ܘܚܕܝ",
+    "ܝܘܢܢ",
+    "ܒܗ",
+    "ܒܫܪܘܪܐ",
+    "ܕܩܪܐܐ",
+    "ܚܕܘܬܐ",
+    "ܪܒܬܐ"
+   ],
+   "readings": [
+    {
+     "he": [],
+     "sy": [
+      6
+     ],
+     "type": "harmonisierung",
+     "vorlage": "",
+     "note": "Plus „und sie wuchs auf“, nach der Angabe über das Wachsen der Staude in 4:10.",
+     "sure": false,
+     "parallel": "Jona 4:10",
+     "note_en": "Plus “and it grew up”, after the statement about the growing of the plant in 4:10."
+    }
+   ]
+  },
+  "4:8": {
+   "mt": [
+    "וַיְהִ֣י",
+    "כִּזְרֹ֣חַ",
+    "הַשֶּׁ֗מֶשׁ",
+    "וַיְמַ֨ן",
+    "אֱלֹהִ֜ים",
+    "ר֤וּחַ",
+    "קָדִים֙",
+    "חֲרִישִׁ֔ית",
+    "וַתַּ֥ךְ",
+    "הַשֶּׁ֛מֶשׁ",
+    "עַל",
+    "רֹ֥אשׁ",
+    "יוֹנָ֖ה",
+    "וַיִּתְעַלָּ֑ף",
+    "וַיִּשְׁאַ֤ל",
+    "אֶת",
+    "נַפְשׁוֹ֙",
+    "לָמ֔וּת",
+    "וַיֹּ֕אמֶר",
+    "ט֥וֹב",
+    "מוֹתִ֖י",
+    "מֵחַיָּֽי"
+   ],
+   "syr": [
+    "ܘܟܕ",
+    "ܕܢܚܬ",
+    "ܫܡܫܐ",
+    "ܦܩܕ",
+    "ܡܪܝܐ",
+    "ܐܠܗܐ",
+    "ܠܪܘܚܐ",
+    "ܕܫܘܒܐ",
+    "ܘܐܘܒܫܬܗ",
+    "ܠܩܪܐܐ",
+    "ܘܨܚܬ",
+    "ܫܡܫܐ",
+    "ܒܪܝܫܗ",
+    "ܕܝܘܢܢ",
+    "ܘܐܬܛܪܦ",
+    "ܘܫܐܠ",
+    "ܡܘܬܐ",
+    "ܠܢܦܫܗ",
+    "ܘܐܡܪ",
+    "ܡܛܐ",
+    "ܒܐ̈ܝܕܝܟ",
+    "ܡܪܝܐ",
+    "ܠܡܣܒ",
+    "ܢܦܫܝ",
+    "ܡܢܝ",
+    "ܡܛܠ",
+    "ܕܠܐ",
+    "ܗܘܝܬ",
+    "ܛܒ",
+    "ܐܢܐ",
+    "ܡܢ",
+    "ܐܒ̈ܗܝ"
+   ],
+   "readings": [
+    {
+     "he": [],
+     "sy": [
+      9,
+      10
+     ],
+     "type": "zusatz",
+     "vorlage": "",
+     "note": "Plus „und er (der Wind) ließ die Staude verdorren“.",
+     "sure": true,
+     "parallel": "",
+     "note_en": "Plus “and it (the wind) made the plant wither”."
+    },
+    {
+     "he": [
+      20,
+      21,
+      22
+     ],
+     "sy": [
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32
+     ],
+     "type": "harmonisierung",
+     "vorlage": "רב עתה יהוה קח נפשי כי לא טוב אנכי מאבתי",
+     "note": "Statt „besser mein Tod als mein Leben“ die Elia-Klage: „Es ist genug … Herr, nimm meine Seele von mir, denn ich bin nicht besser als meine Väter“.",
+     "sure": true,
+     "parallel": "1Kön 19:4",
+     "note_en": "Instead of “better my death than my life” the lament of Elijah: “It is enough … Lord, take my soul from me, for I am no better than my fathers”."
+    }
+   ]
+  }
+ }
+}
