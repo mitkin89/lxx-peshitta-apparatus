@@ -1,5 +1,7 @@
 # LXX and Peshitta against the Masoretic Text – a classified apparatus
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24465785.svg)](https://doi.org/10.5281/zenodo.24465785)
+
 **English** · [Deutsch](README.de.md)
 
 Where do the Septuagint and the Peshitta differ from the Masoretic Text, and why? This dataset records the differences verse by verse, classifies them and explains them in German and English:
@@ -73,5 +75,7 @@ For every verse: `mt`, `syr`, `links` (for each Syriac word the MT words it rend
 Because of these sources the whole dataset – the classifications, inferred Vorlagen, notes, alignments and the conversion – is licensed **[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)**: free for non-commercial use with attribution, adaptations under the same license. See [LICENSE.md](LICENSE.md).
 
 ## Citation
+
+Itkin, Igor Mendel (ed.): *LXX and Peshitta against the Masoretic Text – a classified apparatus*, version 1.0.0, 2026. https://doi.org/10.5281/zenodo.24465785
 
 See [CITATION.cff](CITATION.cff). Each release is archived on Zenodo with its own DOI.

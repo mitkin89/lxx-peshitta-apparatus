@@ -1,5 +1,7 @@
 # LXX und Peschitta gegenüber dem masoretischen Text – ein eingeordneter Apparat
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24465785.svg)](https://doi.org/10.5281/zenodo.24465785)
+
 [English](README.md) · **Deutsch**
 
 Wo weichen Septuaginta und Peschitta vom masoretischen Text ab, und warum? Dieser Datensatz hält die Abweichungen Vers für Vers fest, ordnet sie ein und erklärt sie auf Deutsch und Englisch:
@@ -31,5 +33,7 @@ Aufbau und Felder sind in der [englischen Fassung](README.md#format) beschrieben
 Wegen dieser Quellen steht der ganze Datensatz – Einordnungen, erschlossene Vorlagen, Erklärungen, Wortzuordnungen und die Aufbereitung – unter **[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)**: frei für nicht-kommerzielle Nutzung mit Namensnennung, Bearbeitungen unter derselben Lizenz. Siehe [LICENSE.md](LICENSE.md).
 
 ## Zitieren
+
+Itkin, Igor Mendel (Hg.): *LXX and Peshitta against the Masoretic Text – a classified apparatus*, Version 1.0.0, 2026. https://doi.org/10.5281/zenodo.24465785
 
 Siehe [CITATION.cff](CITATION.cff). Jede Version wird auf Zenodo mit eigener DOI archiviert.
