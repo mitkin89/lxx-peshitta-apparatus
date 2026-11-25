@@ -32,7 +32,7 @@ Labels and descriptions of the types in German and English: `types.json`.
 
 The data were made for the apparatus of the free desktop library [Safran](https://github.com/mitkin89/Safran), where they can be read next to the text and searched (for example: all places where LXX and Peshitta agree against the MT). The Hexapla readings with a different Vorlage are part of the dataset [field-hexapla](https://github.com/mitkin89/field-hexapla).
 
-## Current repository snapshot
+## Version 1.1.0
 
 The working dataset was synchronized with Safran on **25 November 2026**.
 Reading and alignment totals are unchanged. **45 editorial annotations** (11 LXX,
@@ -45,8 +45,8 @@ a source comparison does not establish the certainty of a reconstructed Vorlage.
 Hexapla annotations are outside this dataset.
 
 `manifest.json` records the exact Safran commit, SHA-256 hashes of the export
-inputs and corpus totals. This repository snapshot does not create a new Zenodo
-release; the citation below identifies the existing archived version 1.0.0.
+inputs and corpus totals. The DOI badge above identifies the archived version 1.0.0. A new version DOI
+will be added when the Zenodo archive for 1.1.0 is available.
 
 To reproduce from a trusted, committed Safran checkout using Node.js 18 or later:
 
@@ -109,6 +109,6 @@ Because of these sources the whole dataset – the classifications, inferred Vor
 
 ## Citation
 
-Itkin, Igor Mendel (ed.): *LXX and Peshitta against the Masoretic Text – a classified apparatus*, version 1.0.0, 2026. https://doi.org/10.5281/zenodo.24465785
+Itkin, Igor Mendel (ed.): *LXX and Peshitta against the Masoretic Text – a classified apparatus*, version 1.1.0, 2026. https://github.com/mitkin89/lxx-peshitta-apparatus/releases/tag/1.1.0
 
-See [CITATION.cff](CITATION.cff). Each release is archived on Zenodo with its own DOI.
+See [CITATION.cff](CITATION.cff). The previous version 1.0.0 is archived at [Zenodo](https://doi.org/10.5281/zenodo.24465785).

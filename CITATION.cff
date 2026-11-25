@@ -5,9 +5,9 @@ title: "LXX and Peshitta against the Masoretic Text – a classified apparatus"
 authors:
   - family-names: Itkin
     given-names: Igor Mendel
-version: "1.0.0"
-doi: "10.5281/zenodo.24465785"
-date-released: "2026-11-23"
+version: "1.1.0"
+url: "https://github.com/mitkin89/lxx-peshitta-apparatus/releases/tag/1.1.0"
+date-released: "2026-11-25"
 license: CC-BY-NC-SA-4.0
 repository-code: "https://github.com/mitkin89/lxx-peshitta-apparatus"
 keywords: [Septuagint, LXX, Peshitta, Masoretic Text, textual criticism, Hebrew Bible, Vorlage, apparatus, alignment]

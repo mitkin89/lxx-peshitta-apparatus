@@ -18,7 +18,7 @@ Die Daten entstanden für den Apparat der freien Desktop-Bibliothek [Safran](htt
 
 Aufbau und Felder sind in der [englischen Fassung](README.md#format) beschrieben.
 
-## Aktueller Stand im Repository
+## Version 1.1.0
 
 Abgleich mit Safran vom **25. November 2026**: Die Anzahl der Lesarten und
 Wortzuordnungen bleibt unverändert. Neu sind **45 redaktionelle Merkmale**
@@ -36,9 +36,9 @@ Die ursprünglichen Lesartenerklärungen und Sicherheitsangaben bleiben erhalten
 
 `manifest.json` nennt den genauen Safran-Commit, SHA-256-Prüfsummen der
 Exportquellen und die Bestandszahlen. Export und Prüfung sind in der
-[englischen Anleitung](README.md#current-repository-snapshot) beschrieben.
-Dieser Repository-Stand erzeugt keine neue Zenodo-Veröffentlichung;
-die Zitierangabe bezeichnet weiterhin die archivierte Version 1.0.0.
+[englischen Anleitung](README.md#version-110) beschrieben.
+Das DOI-Abzeichen oben bezeichnet die archivierte Version 1.0.0. Die neue
+Versions-DOI wird ergänzt, sobald das Zenodo-Archiv für 1.1.0 verfügbar ist.
 
 ## Methode und Verlässlichkeit
 
@@ -56,6 +56,6 @@ Wegen dieser Quellen steht der ganze Datensatz – Einordnungen, erschlossene Vo
 
 ## Zitieren
 
-Itkin, Igor Mendel (Hg.): *LXX and Peshitta against the Masoretic Text – a classified apparatus*, Version 1.0.0, 2026. https://doi.org/10.5281/zenodo.24465785
+Itkin, Igor Mendel (Hg.): *LXX and Peshitta against the Masoretic Text – a classified apparatus*, Version 1.1.0, 2026. https://github.com/mitkin89/lxx-peshitta-apparatus/releases/tag/1.1.0
 
 Siehe [CITATION.cff](CITATION.cff). Jede Version wird auf Zenodo mit eigener DOI archiviert.
