@@ -336,7 +336,22 @@
      "note": "היליכי als הא לכי „siehe, dir (das Kind)“ gedeutet, wie im Midrasch.",
      "sure": true,
      "parallel": "",
-     "note_en": "היליכי interpreted as הא לכי “behold, for you (the child)”, as in the Midrash."
+     "note_en": "היליכי interpreted as הא לכי “behold, for you (the child)”, as in the Midrash.",
+     "traditions": [
+      {
+       "category": "aggada",
+       "author": "Codex",
+       "check": "source-checked",
+       "relation": "parallel",
+       "source": "Sotah 12b:22",
+       "url": "https://www.sefaria.org/Sotah_12b.22",
+       "evidence": [
+        "Sotah 12b#22"
+       ],
+       "de": "Gemeinsam ist die Zerlegung von היליכי. Sotah deutet ausdrücklich „siehe, das Deine“ auf die Mutter des Kindes; die Peschitta sagt „siehe, für dich“. Keine wortgleiche Wiedergabe.",
+       "en": "Both split היליכי. Sotah explicitly reads “behold, your own” of the child’s mother; the Peshitta has “behold, for you”. The wording is not identical."
+      }
+     ]
     }
    ]
   },
@@ -8240,7 +8255,22 @@
      "note": "„ein jüdischer Knecht“ statt „ein hebräischer Knecht“, aktualisiert.",
      "sure": true,
      "parallel": "",
-     "note_en": "“a Jewish slave” for “a Hebrew slave”, updated."
+     "note_en": "“a Jewish slave” for “a Hebrew slave”, updated.",
+     "traditions": [
+      {
+       "category": "halacha",
+       "author": "Codex",
+       "check": "source-checked",
+       "relation": "parallel",
+       "source": "Rashi on Exodus 21:2:1",
+       "url": "https://www.sefaria.org/Rashi_on_Exodus_21:2.1",
+       "evidence": [
+        "Rashi on Exodus 21:2#1"
+       ],
+       "de": "Die Peschitta bestimmt den Knecht ausdrücklich als jüdisch. Raschi deutet עבד עברי als einen Knecht, der selbst Hebräer ist, und verwirft „Knecht eines Hebräers“. Gemeinsam ist die rechtliche Bestimmung der Person; keine direkte Abhängigkeit behauptet.",
+       "en": "The Peshitta explicitly identifies the servant as Jewish. Rashi interprets עבד עברי as a servant who is himself Hebrew and rejects “a Hebrew’s servant”. The legal identification is shared; no direct dependence is claimed."
+      }
+     ]
     },
     {
      "he": [
@@ -11948,7 +11978,22 @@
      "note": "ממלח „gesalzen“ als „gemischt“ verstanden (vgl. Targum Onkelos).",
      "sure": true,
      "parallel": "",
-     "note_en": "ממלח “salted” understood as “mixed” (cf. Targum Onkelos)."
+     "note_en": "ממלח “salted” understood as “mixed” (cf. Targum Onkelos).",
+     "traditions": [
+      {
+       "category": "targum",
+       "author": "Codex",
+       "check": "source-checked",
+       "relation": "parallel",
+       "source": "Onkelos Exodus 30:35",
+       "url": "https://www.sefaria.org/Onkelos_Exodus_30:35",
+       "evidence": [
+        "Onkelos Exodus 30:35#1"
+       ],
+       "de": "ממלח wird in beiden Fassungen als „gemischt“ wiedergegeben.",
+       "en": "Both versions render ממלח as “mixed”."
+      }
+     ]
     }
    ]
   },
@@ -14968,7 +15013,22 @@
      "note": "„Spiegel der dienenden Frauen“ als „Anblick der Frauen, die zum Beten kamen“ (vgl. Targum Onkelos).",
      "sure": true,
      "parallel": "",
-     "note_en": "“mirrors of the serving women” as “sight of the women who came to pray” (cf. Targum Onkelos)."
+     "note_en": "“mirrors of the serving women” as “sight of the women who came to pray” (cf. Targum Onkelos).",
+     "traditions": [
+      {
+       "category": "targum",
+       "author": "Codex",
+       "check": "source-checked",
+       "relation": "parallel",
+       "source": "Onkelos Exodus 38:8",
+       "url": "https://www.sefaria.org/Onkelos_Exodus_38:8",
+       "evidence": [
+        "Onkelos Exodus 38:8#1"
+       ],
+       "de": "Gemeinsam sind die zum Beten kommenden Frauen. Onkelos behält die Spiegel bei; das vollständige Verständnis von מראות ist daher nicht identisch.",
+       "en": "Both mention women coming to pray. Onkelos retains the mirrors, so the complete interpretation of מראות is not identical."
+      }
+     ]
     }
    ]
   },

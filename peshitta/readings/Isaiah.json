@@ -2022,7 +2022,17 @@
      "note": "„und es werde ihm vergeben“ statt „und es heile ihn“ (so auch Targum, ungeprüft).",
      "sure": true,
      "parallel": "",
-     "note_en": "“and let him be forgiven” for “and let it heal him” (so also Targum, unverified)."
+     "note_en": "“and let him be forgiven” for “and let it heal him” (so also Targum, unverified).",
+     "traditions": [
+      {
+       "category": "targum",
+       "author": "Codex",
+       "source": "Targum Jonathan · Mikraot Gedolot · Isaiah 6:10",
+       "check": "source-checked",
+       "de": "Targum Jonathan spricht von Vergebung. Die Personenzahl unterscheidet sich.",
+       "en": "Targum Jonathan speaks of forgiveness. The grammatical number differs."
+      }
+     ]
     }
    ]
   },
@@ -3498,7 +3508,17 @@
      "note": "„vor den Gesalbten“ statt „vor dem Fett“ (vgl. Targum „Messias“, ungeprüft).",
      "sure": false,
      "parallel": "",
-     "note_en": "“before the anointed ones” for “before the fat” (cf. Targum “Messiah”, unverified)."
+     "note_en": "“before the anointed ones” for “before the fat” (cf. Targum “Messiah”, unverified).",
+     "traditions": [
+      {
+       "category": "targum",
+       "author": "Codex",
+       "source": "Targum Jonathan · Mikraot Gedolot · Isaiah 10:27",
+       "check": "source-checked",
+       "de": "Gemeinsam ist die messianische Deutung. Targum Jonathan spricht davon, dass die Völker vor dem Messias zerbrechen.",
+       "en": "Both readings are messianic. Targum Jonathan has the nations break before the Messiah."
+      }
+     ]
     }
    ]
   },

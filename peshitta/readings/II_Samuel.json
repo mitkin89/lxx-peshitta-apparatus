@@ -10315,7 +10315,17 @@
      "note": "Ortsname En-Rogel als „Quelle des Walkers“ übersetzt (so auch Targum, ungeprüft).",
      "sure": true,
      "parallel": "",
-     "note_en": "Place name En-rogel translated as “fuller’s spring” (so also Targum, unverified)."
+     "note_en": "Place name En-rogel translated as “fuller’s spring” (so also Targum, unverified).",
+     "traditions": [
+      {
+       "category": "targum",
+       "author": "Codex",
+       "source": "Targum Jonathan · Mikraot Gedolot · II Samuel 17:17",
+       "check": "source-checked",
+       "de": "Targum Jonathan gibt En-Rogel als Quelle des Walkers wieder.",
+       "en": "Targum Jonathan renders En-rogel as the fuller’s spring."
+      }
+     ]
     }
    ]
   },

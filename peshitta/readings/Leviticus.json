@@ -8525,7 +8525,18 @@
      "note": "גבן doppelt: „bucklig“ und „dem die Brauen herabhängen“ (wie rabbinische Deutung von גבן)",
      "sure": true,
      "parallel": "",
-     "note_en": "גבן twice: “hunchbacked” and “whose eyebrows droop” (like the rabbinic interpretation of גבן)"
+     "note_en": "גבן twice: “hunchbacked” and “whose eyebrows droop” (like the rabbinic interpretation of גבן)",
+     "traditions": [
+      {
+       "category": "halacha",
+       "author": "Codex",
+       "source": "Mishnah Bekhorot 7:2; Bekhorot 43b",
+       "url": "https://www.sefaria.org/Mishnah_Bekhorot.7.2",
+       "check": "source-checked",
+       "de": "Die Peschitta verbindet bei גבן „bucklig“ mit herabhängenden Brauen. Mischna Bekhorot 7:2 bietet mehrere Deutungen; die Brauendeutung entspricht der dort Rabbi Dosa zugeschriebenen Auffassung.",
+       "en": "The Peshitta combines “hunchbacked” with drooping eyebrows for גבן. Mishnah Bekhorot 7:2 offers several interpretations; the eyebrow interpretation corresponds to the view attributed there to Rabbi Dosa."
+      }
+     ]
     },
     {
      "he": [
@@ -9521,7 +9532,22 @@
      "note": "Plus „Etrogim“: die „Frucht schöner Bäume“ als Zitrusfrucht gedeutet (wie in der rabbinischen Auslegung)",
      "sure": true,
      "parallel": "",
-     "note_en": "Plus “etrogim”: the “fruit of goodly trees” interpreted as citrus fruit (as in rabbinic exegesis)"
+     "note_en": "Plus “etrogim”: the “fruit of goodly trees” interpreted as citrus fruit (as in rabbinic exegesis)",
+     "traditions": [
+      {
+       "category": "halacha",
+       "author": "Codex",
+       "check": "source-checked",
+       "relation": "parallel",
+       "source": "Sukkah 35a:1",
+       "url": "https://www.sefaria.org/Sukkah_35a.1",
+       "evidence": [
+        "Sukkah 35a#1"
+       ],
+       "de": "Die Festfrucht wird als Etrog bestimmt. Sukkah 35a identifiziert „Frucht eines schönen Baumes“ ausdrücklich mit dem Etrog.",
+       "en": "The festival fruit is identified as the etrog. Sukkah 35a explicitly identifies “fruit of a beautiful tree” with the etrog."
+      }
+     ]
     },
     {
      "he": [
@@ -9537,7 +9563,22 @@
      "note": "„Myrte“ statt „Zweige von dichtbelaubten Bäumen“ (wie in der rabbinischen Auslegung)",
      "sure": true,
      "parallel": "",
-     "note_en": "“myrtle” for “boughs of leafy trees” (as in rabbinic interpretation)"
+     "note_en": "“myrtle” for “boughs of leafy trees” (as in rabbinic interpretation)",
+     "traditions": [
+      {
+       "category": "halacha",
+       "author": "Codex",
+       "check": "source-checked",
+       "relation": "parallel",
+       "source": "Sukkah 32b:14",
+       "url": "https://www.sefaria.org/Sukkah_32b.14",
+       "evidence": [
+        "Sukkah 32b#14"
+       ],
+       "de": "Die „Zweige eines dichtbelaubten Baumes“ werden wie in Sukkah 32b als Myrte bestimmt.",
+       "en": "The “bough of a leafy tree” is identified as myrtle, as in Sukkah 32b."
+      }
+     ]
     },
     {
      "he": [],

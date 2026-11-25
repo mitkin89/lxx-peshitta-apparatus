@@ -13255,7 +13255,22 @@
      "note": "„große Erscheinung“ statt „großer Schrecken“: מורא als מראה gelesen (so auch LXX, Targum Onkelos, Targum Pseudo-Jonathan, Targum Neofiti).",
      "sure": true,
      "parallel": "",
-     "note_en": "“great appearance” for “great terror”: מורא read as מראה (so also LXX, Targum Onkelos, Targum Pseudo-Jonathan, Targum Neofiti)."
+     "note_en": "“great appearance” for “great terror”: מורא read as מראה (so also LXX, Targum Onkelos, Targum Pseudo-Jonathan, Targum Neofiti).",
+     "traditions": [
+      {
+       "category": "targum",
+       "author": "Codex",
+       "check": "source-checked",
+       "relation": "parallel",
+       "source": "Onkelos Deuteronomy 26:8",
+       "url": "https://www.sefaria.org/Onkelos_Deuteronomy_26:8",
+       "evidence": [
+        "Onkelos Deuteronomy 26:8#1"
+       ],
+       "de": "מורא wird als große Erscheinung/Sichtbarkeit statt als Schrecken verstanden.",
+       "en": "מורא is understood as a great appearance or manifestation rather than terror."
+      }
+     ]
     }
    ]
   },
@@ -15995,7 +16010,22 @@
      "note": "לחמי רשף als „den Vögeln liefere ich sie aus“ (רשף als Vögel) (so auch Targum Onkelos).",
      "sure": true,
      "parallel": "",
-     "note_en": "לחמי רשף as “I deliver them to the birds” (רשף as birds) (so also Targum Onkelos)."
+     "note_en": "לחמי רשף as “I deliver them to the birds” (רשף as birds) (so also Targum Onkelos).",
+     "traditions": [
+      {
+       "category": "targum",
+       "author": "Codex",
+       "check": "source-checked",
+       "relation": "parallel",
+       "source": "Onkelos Deuteronomy 32:24",
+       "url": "https://www.sefaria.org/Onkelos_Deuteronomy_32:24",
+       "evidence": [
+        "Onkelos Deuteronomy 32:24#1"
+       ],
+       "de": "רשף wird wie bei Onkelos als Vögel wiedergegeben.",
+       "en": "רשף is rendered as birds, as in Onkelos."
+      }
+     ]
     },
     {
      "he": [
@@ -16013,7 +16043,35 @@
      "note": "קטב מרירי als „böse Geister werden ihnen ausgeliefert“, Reihenfolge der Glieder umgestellt (so auch Targum Onkelos).",
      "sure": true,
      "parallel": "",
-     "note_en": "קטב מרירי as “evil spirits will be delivered to them”, order of the clauses transposed (so also Targum Onkelos)."
+     "note_en": "קטב מרירי as “evil spirits will be delivered to them”, order of the clauses transposed (so also Targum Onkelos).",
+     "traditions": [
+      {
+       "category": "aggada",
+       "author": "Codex",
+       "check": "source-checked",
+       "relation": "parallel",
+       "source": "Pesachim 111b:8",
+       "url": "https://www.sefaria.org/Pesachim_111b.8",
+       "evidence": [
+        "Pesachim 111b#8"
+       ],
+       "de": "Die Peschitta versteht קטב מרירי als böse Geister. Pesachim 111b behandelt Qetev Meriri als dämonisches Wesen. Gemeinsam ist die Dämonendeutung; Anzahl und Erzählkontext unterscheiden sich.",
+       "en": "The Peshitta understands קטב מרירי as evil spirits. Pesachim 111b treats Qetev Meriri as a demonic being. The demonic interpretation is shared; number and narrative setting differ."
+      },
+      {
+       "category": "targum",
+       "author": "Codex",
+       "check": "source-checked",
+       "relation": "parallel",
+       "source": "Onkelos Deuteronomy 32:24",
+       "url": "https://www.sefaria.org/Onkelos_Deuteronomy_32:24",
+       "evidence": [
+        "Onkelos Deuteronomy 32:24#1"
+       ],
+       "de": "Onkelos nennt ausdrücklich „böse Geister“. Die Satzrichtung und Anordnung unterscheiden sich von der Peschitta.",
+       "en": "Onkelos explicitly names “evil spirits”. The direction and arrangement of the sentence differ from the Peshitta."
+      }
+     ]
     }
    ]
   },

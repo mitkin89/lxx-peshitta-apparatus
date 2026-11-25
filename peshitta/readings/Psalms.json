@@ -221,7 +221,22 @@
      "note": "נשקו בר als „ergreift die Zucht“ gedeutet (בר „rein“), nicht „küsst den Sohn“ (ähnlich LXX; ähnlich Targum, ungeprüft)",
      "sure": true,
      "parallel": "",
-     "note_en": "נשקו בר interpreted as “lay hold of discipline” (בר “pure”), not “kiss the son” (similarly LXX; similarly Targum, unverified)"
+     "note_en": "נשקו בר interpreted as “lay hold of discipline” (בר “pure”), not “kiss the son” (similarly LXX; similarly Targum, unverified)",
+     "traditions": [
+      {
+       "category": "targum",
+       "author": "Codex",
+       "check": "source-checked",
+       "relation": "parallel",
+       "source": "Aramaic Targum to Psalms 2:12",
+       "url": "https://www.sefaria.org/Aramaic_Targum_to_Psalms_2:12",
+       "evidence": [
+        "Targum Psalms 2:12#1"
+       ],
+       "de": "Der Psalmentargum versteht die Wendung als Annahme von Belehrung; die Peschitta als Ergreifen der Zucht. Gemeinsam ist die Ermahnung, nicht ein „Küssen des Sohnes“.",
+       "en": "The Psalms Targum understands the phrase as accepting instruction; the Peshitta as taking hold of discipline. The admonitory interpretation is shared."
+      }
+     ]
     },
     {
      "he": [],
@@ -16256,7 +16271,22 @@
      "note": "„du hast Gaben gegeben den Menschenkindern“ statt „du hast Gaben empfangen unter den Menschen“ (so auch Targum, ungeprüft; vgl. Eph 4,8, ungeprüft).",
      "sure": true,
      "parallel": "",
-     "note_en": "“you have given gifts to the children of men” for “you have received gifts among men” (so also Targum, unverified; cf. Eph 4,8, unverified)."
+     "note_en": "“you have given gifts to the children of men” for “you have received gifts among men” (so also Targum, unverified; cf. Eph 4,8, unverified).",
+     "traditions": [
+      {
+       "category": "targum",
+       "author": "Codex",
+       "check": "source-checked",
+       "relation": "parallel",
+       "source": "Aramaic Targum to Psalms 68:19",
+       "url": "https://www.sefaria.org/Aramaic_Targum_to_Psalms_68:19",
+       "evidence": [
+        "Targum Psalms 68:19#1"
+       ],
+       "de": "Gemeinsam ist „Gaben geben“ statt „Gaben empfangen“. Die zusätzliche Mose-/Tora-Deutung des Targums wird der Peschitta nicht zugeschrieben.",
+       "en": "Both have “give gifts” rather than “receive gifts”. The Targum’s additional Moses/Torah interpretation is not attributed to the Peshitta."
+      }
+     ]
     },
     {
      "he": [],

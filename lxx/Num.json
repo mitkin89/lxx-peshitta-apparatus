@@ -12085,7 +12085,14 @@
      "note": "„die Hälfte ihres Fleisches“ statt „seines Fleisches“ (MT-Stelle gilt als Tiqqun soferim)",
      "sure": false,
      "parallel": "",
-     "note_en": "“half of her flesh” for “of his flesh” (the MT passage is regarded as a tiqqun soferim)"
+     "note_en": "“half of her flesh” for “of his flesh” (the MT passage is regarded as a tiqqun soferim)",
+     "traditions": [
+      {
+       "category": "tiqqun",
+       "author": "Codex",
+       "source": "Numeri 12:12 · vorhandene Erläuterung"
+      }
+     ]
     }
    ]
   },
@@ -15890,7 +15897,18 @@
      "note": "ἐπιθύμημα „Begehrenswertes“ statt „Esel“: ר/ד verwechselt (so auch SMR)",
      "sure": true,
      "parallel": "",
-     "note_en": "ἐπιθύμημα “desirable thing” for “donkey”: ר/ד confused (so also SMR)"
+     "note_en": "ἐπιθύμημα “desirable thing” for “donkey”: ר/ד confused (so also SMR)",
+     "traditions": [
+      {
+       "category": "aggada",
+       "author": "Codex",
+       "source": "Megillah 9b",
+       "url": "https://www.sefaria.org/Megillah.9b",
+       "check": "source-checked",
+       "de": "Megilla 9b nennt als Übersetzungsänderung „Begehrenswertes“ statt „Esel“. Dies entspricht dem hier verzeichneten griechischen Wort; der Apparatus beschreibt die Abweichung als Lesart.",
+       "en": "Megillah 9b lists “an item of value” instead of “a donkey” as a translation change. This corresponds to the Greek word recorded here; the apparatus describes the difference as a variant."
+      }
+     ]
     }
    ]
   },

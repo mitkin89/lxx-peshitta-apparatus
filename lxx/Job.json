@@ -5617,7 +5617,14 @@
      "note": "„ich bin dir eine Last“ statt „mir selbst zur Last“ – entspricht der nach jüdischer Überlieferung ursprünglichen Lesart vor dem Tiqqun Sopherim",
      "sure": true,
      "parallel": "",
-     "note_en": "“I am a burden to you” for “a burden to myself” – corresponds to the reading that according to Jewish tradition was original before the tiqqun sopherim"
+     "note_en": "“I am a burden to you” for “a burden to myself” – corresponds to the reading that according to Jewish tradition was original before the tiqqun sopherim",
+     "traditions": [
+      {
+       "category": "tiqqun",
+       "author": "Codex",
+       "source": "Ijob 7:20 · vorhandene Erläuterung"
+      }
+     ]
     }
    ]
   },

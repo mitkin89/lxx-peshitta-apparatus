@@ -8688,7 +8688,17 @@
      "note": "Kadesch-Barnea als „Rekem von Gaja“, traditionelle Gleichsetzung wie im Targum (ungeprüft)",
      "sure": true,
      "parallel": "",
-     "note_en": "Kadesh-barnea as “Rekem of Gaja”, traditional identification as in the Targum (unverified)"
+     "note_en": "Kadesh-barnea as “Rekem of Gaja”, traditional identification as in the Targum (unverified)",
+     "traditions": [
+      {
+       "category": "targum",
+       "author": "Codex",
+       "source": "Targum Jonathan · Mikraot Gedolot · Joshua 14:6",
+       "check": "source-checked",
+       "de": "Rekem und Gaja sind in beiden Fassungen belegt.",
+       "en": "Rekem and Gaja are attested in both versions."
+      }
+     ]
     }
    ]
   },

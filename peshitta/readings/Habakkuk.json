@@ -334,7 +334,14 @@
      "note": "2. Person „der du nicht stirbst“ statt „wir werden nicht sterben“ (die als Tiqqun soferim überlieferte ursprüngliche Lesart).",
      "sure": false,
      "parallel": "",
-     "note_en": "2nd person “you who do not die” for “we shall not die” (the original reading transmitted as a Tiqqun soferim)."
+     "note_en": "2nd person “you who do not die” for “we shall not die” (the original reading transmitted as a Tiqqun soferim).",
+     "traditions": [
+      {
+       "category": "tiqqun",
+       "author": "Codex",
+       "source": "Habakuk 1:12 · vorhandene Erläuterung"
+      }
+     ]
     },
     {
      "he": [
@@ -1173,7 +1180,17 @@
      "note": "סלה als „in Ewigkeit“ wiedergegeben (wie Targum, ungeprüft).",
      "sure": true,
      "parallel": "",
-     "note_en": "סלה rendered as “forever” (as Targum, unverified)."
+     "note_en": "סלה rendered as “forever” (as Targum, unverified).",
+     "traditions": [
+      {
+       "category": "targum",
+       "author": "Codex",
+       "source": "Targum Jonathan · Mikraot Gedolot · Habakkuk 3:13",
+       "check": "source-checked",
+       "de": "Die Ewigkeitsformel steht im Targum am Ende einer erweiterten Aussage über Gottes Wort.",
+       "en": "The formula of eternity closes an expanded statement about God’s word in the Targum."
+      }
+     ]
     }
    ]
   },

@@ -10625,7 +10625,22 @@
      "note": "Aufenthalt „im Land Ägypten und im Land Kanaan“, so dass die 430 Jahre die Väterzeit einschließen (ähnlich SMR, dort Kanaan zuerst)",
      "sure": true,
      "parallel": "",
-     "note_en": "Sojourn “in the land of Egypt and in the land of Canaan”, so that the 430 years include the patriarchal period (similarly SMR, where Canaan comes first)"
+     "note_en": "Sojourn “in the land of Egypt and in the land of Canaan”, so that the 430 years include the patriarchal period (similarly SMR, where Canaan comes first)",
+     "traditions": [
+      {
+       "category": "aggada",
+       "author": "Codex",
+       "check": "source-checked",
+       "relation": "parallel",
+       "source": "Megillah 9a:16",
+       "url": "https://www.sefaria.org/Megillah_9a.16",
+       "evidence": [
+        "Megillah 9a#16"
+       ],
+       "de": "Wie die Übersetzererzählung in Megillah 9a schließt die LXX beim Aufenthalt auch Länder außerhalb Ägyptens ein. Die LXX nennt Kanaan; die rabbinische Erzählung sagt „andere Länder“. Die Zeitangaben und der Wortlaut sind nicht identisch.",
+       "en": "Like the translators’ story in Megillah 9a, the LXX includes lands outside Egypt in the sojourn. The LXX names Canaan; the rabbinic account says “other lands”. The chronological figures and wording are not identical."
+      }
+     ]
     }
    ]
   },
@@ -18656,7 +18671,22 @@
      "note": "„und es (das Kind) noch nicht ausgebildet ist“ (μὴ ἐξεικονισμένον) statt „und kein Unglück geschieht“: Schutz des ausgebildeten Fötus",
      "sure": true,
      "parallel": "",
-     "note_en": "“and it (the child) is not yet formed” (μὴ ἐξεικονισμένον) for “and no harm follows”: protection of the formed fetus"
+     "note_en": "“and it (the child) is not yet formed” (μὴ ἐξεικονισμένον) for “and no harm follows”: protection of the formed fetus",
+     "traditions": [
+      {
+       "category": "halacha",
+       "author": "Codex",
+       "check": "source-checked",
+       "relation": "parallel",
+       "source": "Philo, De specialibus legibus III 108–109",
+       "url": "https://ccel.org/ccel/philo/works/works.iii.xxx.html",
+       "evidence": [
+        "Philo Special Laws 3.108-109"
+       ],
+       "de": "Philo unterscheidet wie die LXX zwischen ungeformtem und geformtem Fötus. Dies ist hellenistisch-jüdische Rechtsauslegung, keine Kennzeichnung als rabbinischer Konsens.",
+       "en": "Like the LXX, Philo distinguishes an unformed from a formed fetus. This is Hellenistic Jewish legal interpretation, not a claim of rabbinic consensus."
+      }
+     ]
     }
    ]
   },

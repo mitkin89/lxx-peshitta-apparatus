@@ -985,7 +985,14 @@
      "note": "„sie vertauschten (ihre Ehre mit Schande)“ statt „ich werde vertauschen“ (vgl. die Tiqqun-Soferim-Überlieferung).",
      "sure": true,
      "parallel": "",
-     "note_en": "“they exchanged (their glory for shame)” for “I will exchange” (cf. the Tiqqun Soferim tradition)."
+     "note_en": "“they exchanged (their glory for shame)” for “I will exchange” (cf. the Tiqqun Soferim tradition).",
+     "traditions": [
+      {
+       "category": "tiqqun",
+       "author": "Codex",
+       "source": "Hosea 4:7 · vorhandene Erläuterung"
+      }
+     ]
     }
    ]
   },

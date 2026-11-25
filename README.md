@@ -32,6 +32,32 @@ Labels and descriptions of the types in German and English: `types.json`.
 
 The data were made for the apparatus of the free desktop library [Safran](https://github.com/mitkin89/Safran), where they can be read next to the text and searched (for example: all places where LXX and Peshitta agree against the MT). The Hexapla readings with a different Vorlage are part of the dataset [field-hexapla](https://github.com/mitkin89/field-hexapla).
 
+## Current repository snapshot
+
+The working dataset was synchronized with Safran on **25 November 2026**.
+Reading and alignment totals are unchanged. **45 editorial annotations** (11 LXX,
+34 Peshitta) now accompany the relevant readings. They distinguish halakhic,
+aggadic, Targum and *tiqqun soferim* comparisons and retain the named editor,
+specific source and original verification status; bilingual explanations are
+included where supplied.
+These are supplementary interpretations, not additional textual variants;
+a source comparison does not establish the certainty of a reconstructed Vorlage.
+Hexapla annotations are outside this dataset.
+
+`manifest.json` records the exact Safran commit, SHA-256 hashes of the export
+inputs and corpus totals. This repository snapshot does not create a new Zenodo
+release; the citation below identifies the existing archived version 1.0.0.
+
+To reproduce from a trusted, committed Safran checkout using Node.js 18 or later:
+
+```sh
+node tools/sync-safran.cjs /path/to/Safran
+node tools/validate.cjs
+```
+
+The exporter preserves existing files when their content is unchanged and fails
+if a translation, source anchor or editorial annotation cannot be resolved.
+
 ## Format
 
 ### `lxx/<code>.json`
@@ -49,6 +75,13 @@ The data were made for the apparatus of the free desktop library [Safran](https:
 - `mt` – the consonantal Hebrew words of the CATSS alignment; `lxx` – the Greek word groups; `lxx_mt` – for each Greek group the MT words it renders (1-based; `[]` = plus).
 - `he`, `gr` – the MT words and Greek groups an entry concerns (1-based).
 - Only verses with at least one entry are included.
+- Optional `readings[].traditions` contains editorial comparisons: `category`
+  (`halacha`, `aggada`, `targum`, `tiqqun`), `author` and `source`.
+  Optional `de` and `en` explain the comparison in German and English.
+  Where supplied, `url`, `evidence`, `noteId` and `check` retain the source metadata.
+  Only `check: "source-checked"` explicitly identifies a primary-text comparison;
+  absence of that flag must not be interpreted as verification. Multiple tags may
+  refer to one reading. The original reading notes and certainty flags are retained.
 
 ### `peshitta/readings/<Book>.json`
 

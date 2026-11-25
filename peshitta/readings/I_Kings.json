@@ -242,7 +242,17 @@
      "note": "En-Rogel als „Quelle des Walkers“ übersetzt (wie Targum עין קצרא, ungeprüft).",
      "sure": true,
      "parallel": "",
-     "note_en": "En-rogel translated as “spring of the fuller” (as Targum עין קצרא, unverified)."
+     "note_en": "En-rogel translated as “spring of the fuller” (as Targum עין קצרא, unverified).",
+     "traditions": [
+      {
+       "category": "targum",
+       "author": "Codex",
+       "source": "Targum Jonathan · Mikraot Gedolot · I Kings 1:9",
+       "check": "source-checked",
+       "de": "Targum Jonathan gibt En-Rogel als Quelle des Walkers wieder.",
+       "en": "Targum Jonathan renders En-rogel as the fuller’s spring."
+      }
+     ]
     }
    ]
   },
@@ -13301,7 +13311,17 @@
      "note": "„barfuß“ statt „leise“ (so auch Targum, ungeprüft)",
      "sure": true,
      "parallel": "",
-     "note_en": "“barefoot” for “softly” (so also Targum, unverified)"
+     "note_en": "“barefoot” for “softly” (so also Targum, unverified)",
+     "traditions": [
+      {
+       "category": "targum",
+       "author": "Codex",
+       "source": "Targum Jonathan · Mikraot Gedolot · I Kings 21:27",
+       "check": "source-checked",
+       "de": "Targum Jonathan lässt Ahab ebenfalls barfuß gehen.",
+       "en": "Targum Jonathan likewise has Ahab walk barefoot."
+      }
+     ]
     }
    ]
   },
@@ -14021,7 +14041,17 @@
      "note": "„und seine Waffen wuschen sie“ statt „und die Huren badeten“ (זנות als זין gedeutet) (so auch Targum, ungeprüft)",
      "sure": true,
      "parallel": "",
-     "note_en": "“and they washed his weapons” for “and the prostitutes bathed” (זנות interpreted as זין) (so also Targum, unverified)"
+     "note_en": "“and they washed his weapons” for “and the prostitutes bathed” (זנות interpreted as זין) (so also Targum, unverified)",
+     "traditions": [
+      {
+       "category": "targum",
+       "author": "Codex",
+       "source": "Targum Jonathan · Mikraot Gedolot · I Kings 22:38",
+       "check": "source-checked",
+       "de": "Targum Jonathan spricht ausdrücklich vom Waschen der Waffen.",
+       "en": "Targum Jonathan explicitly mentions washing the weapons."
+      }
+     ]
     }
    ]
   },

@@ -5583,7 +5583,14 @@
      "note": "„dass seine Söhne Gott lästerten“ statt „sich (להם) verfluchten“; MT gilt als Tiqqun Sopherim",
      "sure": true,
      "parallel": "",
-     "note_en": "“that his sons blasphemed God” for “cursed themselves (להם)”; MT is regarded as a tiqqun sopherim"
+     "note_en": "“that his sons blasphemed God” for “cursed themselves (להם)”; MT is regarded as a tiqqun sopherim",
+     "traditions": [
+      {
+       "category": "tiqqun",
+       "author": "Codex",
+       "source": "1 Samuel 3:13 · vorhandene Erläuterung"
+      }
+     ]
     }
    ]
   },

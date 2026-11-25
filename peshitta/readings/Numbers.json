@@ -1485,7 +1485,35 @@
      "note": "„während (das Heiligtum) zugedeckt wird“ statt „auch nur einen Augenblick“; בלע als „einhüllen“ verstanden (so auch Targum Onkelos)",
      "sure": true,
      "parallel": "",
-     "note_en": "“while (the sanctuary) is being covered” for “even for a moment”; בלע understood as “wrap up” (so also Targum Onkelos)"
+     "note_en": "“while (the sanctuary) is being covered” for “even for a moment”; בלע understood as “wrap up” (so also Targum Onkelos)",
+     "traditions": [
+      {
+       "category": "halacha",
+       "author": "Codex",
+       "check": "source-checked",
+       "relation": "parallel",
+       "source": "Rashi on Numbers 4:20:1",
+       "url": "https://www.sefaria.org/Rashi_on_Numbers_4:20.1",
+       "evidence": [
+        "Rashi on Numbers 4:20#1"
+       ],
+       "de": "Die verbotene Schau gilt dem Einhüllen der heiligen Geräte. Raschi erklärt das „Verschlingen“ ausdrücklich als ihr Bedecken; die Peschitta nennt den Vorgang des Zudeckens.",
+       "en": "The prohibited sight concerns the wrapping of the sacred vessels. Rashi explicitly explains their “swallowing” as covering them; the Peshitta names the act of covering."
+      },
+      {
+       "category": "targum",
+       "author": "Codex",
+       "check": "source-checked",
+       "relation": "parallel",
+       "source": "Onkelos Numbers 4:20",
+       "url": "https://www.sefaria.org/Onkelos_Numbers_4:20",
+       "evidence": [
+        "Onkelos Numbers 4:20#1"
+       ],
+       "de": "Onkelos sagt ausdrücklich „wenn sie die heiligen Geräte bedecken“, entsprechend dem Zudecken in der Peschitta.",
+       "en": "Onkelos explicitly says “when they cover the sacred vessels”, corresponding to the act of covering in the Peshitta."
+      }
+     ]
     }
    ]
   },
@@ -9603,7 +9631,22 @@
      "note": "Ortsname Mattana als „Gabe“: „aus der Wüste wurde er als Gabe gegeben“ (so auch Targum Onkelos)",
      "sure": true,
      "parallel": "",
-     "note_en": "Place name Mattanah as “gift”: “from the wilderness it was given as a gift” (so also Targum Onkelos)"
+     "note_en": "Place name Mattanah as “gift”: “from the wilderness it was given as a gift” (so also Targum Onkelos)",
+     "traditions": [
+      {
+       "category": "targum",
+       "author": "Codex",
+       "check": "source-checked",
+       "relation": "parallel",
+       "source": "Onkelos Numbers 21:18",
+       "url": "https://www.sefaria.org/Onkelos_Numbers_21:18",
+       "evidence": [
+        "Onkelos Numbers 21:18#1"
+       ],
+       "de": "Mattana wird als Gabe verstanden: Aus der Wüste wurde der Brunnen ihnen gegeben.",
+       "en": "Mattana is understood as a gift: from the wilderness the well was given to them."
+      }
+     ]
     }
    ]
   },

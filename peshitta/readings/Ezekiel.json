@@ -2663,7 +2663,17 @@
      "note": "„Unheil nach Unheil“ statt „ein einzigartiges Unheil“ (so auch viele hebr. Hss.; vgl. Targum, ungeprüft).",
      "sure": true,
      "parallel": "",
-     "note_en": "“disaster after disaster” for “a singular disaster” (so also many Heb. MSS; cf. Targum, unverified)."
+     "note_en": "“disaster after disaster” for “a singular disaster” (so also many Heb. MSS; cf. Targum, unverified).",
+     "traditions": [
+      {
+       "category": "targum",
+       "author": "Codex",
+       "source": "Targum Jonathan · Mikraot Gedolot · Ezekiel 7:5",
+       "check": "source-checked",
+       "de": "Targum Jonathan liest „Unheil nach Unheil“.",
+       "en": "Targum Jonathan reads “disaster after disaster”."
+      }
+     ]
     }
    ]
   },

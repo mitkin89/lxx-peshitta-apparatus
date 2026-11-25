@@ -8165,7 +8165,18 @@
      "note": "Überschrift-Plus τῆς μιᾶς σαββάτων „für den ersten Wochentag“",
      "sure": true,
      "parallel": "",
-     "note_en": "superscription plus τῆς μιᾶς σαββάτων “for the first day of the week”"
+     "note_en": "superscription plus τῆς μιᾶς σαββάτων “for the first day of the week”",
+     "traditions": [
+      {
+       "category": "halacha",
+       "author": "Codex",
+       "source": "Mishnah Tamid 7:4",
+       "url": "https://www.sefaria.org/Mishnah_Tamid.7.4",
+       "check": "source-checked",
+       "de": "Die griechische Überschrift ordnet den Psalm dem ersten Wochentag zu. Mischna Tamid 7:4 nennt denselben Psalm für diesen Tag im Tempelgottesdienst.",
+       "en": "The Greek heading assigns this psalm to the first weekday. Mishnah Tamid 7:4 assigns the same psalm to that day in the Temple service."
+      }
+     ]
     }
    ]
   },
@@ -15671,7 +15682,18 @@
      "note": "Überschrift ergänzt δευτέρᾳ σαββάτου „am zweiten Tag der Woche“ (vgl. die Tempelpsalmen der Mischna, Tamid 7:4)",
      "sure": true,
      "parallel": "",
-     "note_en": "superscription adds δευτέρᾳ σαββάτου “on the second day of the week” (cf. the temple psalms of the Mishnah, Tamid 7:4)"
+     "note_en": "superscription adds δευτέρᾳ σαββάτου “on the second day of the week” (cf. the temple psalms of the Mishnah, Tamid 7:4)",
+     "traditions": [
+      {
+       "category": "halacha",
+       "author": "Codex",
+       "source": "Mishnah Tamid 7:4",
+       "url": "https://www.sefaria.org/Mishnah_Tamid.7.4",
+       "check": "source-checked",
+       "de": "Die griechische Überschrift ordnet den Psalm dem zweiten Wochentag zu. Mischna Tamid 7:4 nennt denselben Psalm für diesen Tag im Tempelgottesdienst.",
+       "en": "The Greek heading assigns this psalm to the second weekday. Mishnah Tamid 7:4 assigns the same psalm to that day in the Temple service."
+      }
+     ]
     }
    ]
   },
@@ -31106,7 +31128,18 @@
      "note": "Überschrift-Plus mit Wochentag: „für den Tag vor dem Sabbat, als die Erde besiedelt wurde“",
      "sure": true,
      "parallel": "",
-     "note_en": "superscription plus with day of the week: “for the day before the sabbath, when the earth was settled”"
+     "note_en": "superscription plus with day of the week: “for the day before the sabbath, when the earth was settled”",
+     "traditions": [
+      {
+       "category": "halacha",
+       "author": "Codex",
+       "source": "Mishnah Tamid 7:4",
+       "url": "https://www.sefaria.org/Mishnah_Tamid.7.4",
+       "check": "source-checked",
+       "de": "Die griechische Überschrift ordnet den Psalm dem sechsten Wochentag zu. Mischna Tamid 7:4 nennt denselben Psalm für diesen Tag im Tempelgottesdienst.",
+       "en": "The Greek heading assigns this psalm to the sixth weekday. Mishnah Tamid 7:4 assigns the same psalm to that day in the Temple service."
+      }
+     ]
     },
     {
      "he": [],
@@ -31251,7 +31284,18 @@
      "note": "Überschrift-Plus mit Wochentag: τετράδι σαββάτων „am vierten Tag der Woche“",
      "sure": true,
      "parallel": "",
-     "note_en": "superscription plus with day of the week: τετράδι σαββάτων “on the fourth day of the week”"
+     "note_en": "superscription plus with day of the week: τετράδι σαββάτων “on the fourth day of the week”",
+     "traditions": [
+      {
+       "category": "halacha",
+       "author": "Codex",
+       "source": "Mishnah Tamid 7:4",
+       "url": "https://www.sefaria.org/Mishnah_Tamid.7.4",
+       "check": "source-checked",
+       "de": "Die griechische Überschrift ordnet den Psalm dem vierten Wochentag zu. Mischna Tamid 7:4 nennt denselben Psalm für diesen Tag im Tempelgottesdienst.",
+       "en": "The Greek heading assigns this psalm to the fourth weekday. Mishnah Tamid 7:4 assigns the same psalm to that day in the Temple service."
+      }
+     ]
     }
    ]
   },

@@ -1554,7 +1554,22 @@
      "note": "„Meine Schuld ist zu groß, um vergeben zu werden“: נשא als „vergeben“ gedeutet (so auch LXX; vgl. Targum Onkelos, Targum Pseudo-Jonathan, Targum Neofiti) statt „tragen“.",
      "sure": true,
      "parallel": "",
-     "note_en": "“My guilt is too great to be forgiven”: נשא interpreted as “forgive” (so also LXX; cf. Targum Onkelos, Targum Pseudo-Jonathan, Targum Neofiti) instead of “bear”."
+     "note_en": "“My guilt is too great to be forgiven”: נשא interpreted as “forgive” (so also LXX; cf. Targum Onkelos, Targum Pseudo-Jonathan, Targum Neofiti) instead of “bear”.",
+     "traditions": [
+      {
+       "category": "targum",
+       "author": "Codex",
+       "check": "source-checked",
+       "relation": "parallel",
+       "source": "Onkelos Genesis 4:13",
+       "url": "https://www.sefaria.org/Onkelos_Genesis_4:13",
+       "evidence": [
+        "Onkelos Genesis 4:13#1"
+       ],
+       "de": "Schuld wird als zu groß zum Vergeben verstanden, nicht als zu schwere Strafe zum Tragen.",
+       "en": "Guilt is understood as too great to forgive, rather than punishment too heavy to bear."
+      }
+     ]
     }
    ]
   },
@@ -2992,7 +3007,17 @@
      "note": "Ararat wird als „Berge von Qardu“ (Kordyene) aktualisiert (so auch Targum Onkelos, Targum Pseudo-Jonathan, Targum Neofiti).",
      "sure": true,
      "parallel": "",
-     "note_en": "Ararat is updated as “mountains of Qardu” (Corduene) (so also Targum Onkelos, Targum Pseudo-Jonathan, Targum Neofiti)."
+     "note_en": "Ararat is updated as “mountains of Qardu” (Corduene) (so also Targum Onkelos, Targum Pseudo-Jonathan, Targum Neofiti).",
+     "traditions": [
+      {
+       "category": "targum",
+       "author": "Codex",
+       "source": "Targum Onkelos · Genesis 8:4",
+       "check": "source-checked",
+       "de": "Onkelos nennt die Berge von Qardu.",
+       "en": "Onkelos names the mountains of Qardu."
+      }
+     ]
     }
    ]
   },
@@ -9313,7 +9338,22 @@
      "note": "„Lachen“ wird zu „große Freude“ und „wird sich mit mir freuen“ (vgl. Targum Onkelos, Targum Neofiti); das Wortspiel mit Isaak geht verloren.",
      "sure": true,
      "parallel": "",
-     "note_en": "“laughter” becomes “great joy” and “will rejoice with me” (cf. Targum Onkelos, Targum Neofiti); the wordplay on Isaac is lost."
+     "note_en": "“laughter” becomes “great joy” and “will rejoice with me” (cf. Targum Onkelos, Targum Neofiti); the wordplay on Isaac is lost.",
+     "traditions": [
+      {
+       "category": "targum",
+       "author": "Codex",
+       "check": "source-checked",
+       "relation": "parallel",
+       "source": "Onkelos Genesis 21:6",
+       "url": "https://www.sefaria.org/Onkelos_Genesis_21:6",
+       "evidence": [
+        "Onkelos Genesis 21:6#1"
+       ],
+       "de": "Onkelos gibt das Lachen wie die Peschitta als Freude wieder. „Groß“ ist kein gemeinsamer Zusatz.",
+       "en": "Like the Peshitta, Onkelos renders laughter as joy. “Great” is not a shared addition."
+      }
+     ]
     },
     {
      "he": [],
@@ -14880,7 +14920,22 @@
      "note": "„Gotteskämpfe habe ich gekämpft“ als Gebet umgedeutet: „Ich habe den HERRN angefleht und mit meiner Schwester gebetet“ (vgl. Targum Onkelos).",
      "sure": true,
      "parallel": "",
-     "note_en": "“Mighty wrestlings have I wrestled” reinterpreted as prayer: “I entreated the LORD and prayed with my sister” (cf. Targum Onkelos)."
+     "note_en": "“Mighty wrestlings have I wrestled” reinterpreted as prayer: “I entreated the LORD and prayed with my sister” (cf. Targum Onkelos).",
+     "traditions": [
+      {
+       "category": "targum",
+       "author": "Codex",
+       "check": "source-checked",
+       "relation": "parallel",
+       "source": "Onkelos Genesis 30:8",
+       "url": "https://www.sefaria.org/Onkelos_Genesis_30:8",
+       "evidence": [
+        "Onkelos Genesis 30:8#1"
+       ],
+       "de": "Onkelos deutet Rachels Ringen ebenfalls als Gebet; die Einbettung der Schwester unterscheidet sich.",
+       "en": "Onkelos likewise interprets Rachel’s struggle as prayer; the role of her sister in the wording differs."
+      }
+     ]
     }
    ]
   },
@@ -19854,7 +19909,22 @@
      "note": "Ortsangabe „in Kesib“ als Verb gedeutet: „und sie hörte auf (zu gebären)“ (vgl. Vulgata, ungeprüft; Midrasch).",
      "sure": true,
      "parallel": "",
-     "note_en": "Place designation “in Chezib” interpreted as a verb: “and she ceased (bearing)” (cf. Vulgate, unverified; Midrash)."
+     "note_en": "Place designation “in Chezib” interpreted as a verb: “and she ceased (bearing)” (cf. Vulgate, unverified; Midrash).",
+     "traditions": [
+      {
+       "category": "aggada",
+       "author": "Codex",
+       "check": "source-checked",
+       "relation": "parallel",
+       "source": "Rashi on Genesis 38:5:1",
+       "url": "https://www.sefaria.org/Rashi_on_Genesis_38:5.1",
+       "evidence": [
+        "Rashi on Genesis 38:5#1"
+       ],
+       "de": "Raschi verbindet den Ortsnamen Kesib mit dem Ende des Gebärens und verweist auf Bereschit Rabba. Die Peschitta setzt statt des Ortsnamens ein Verb für „aufhören“. Parallele Deutung, kein Beweis einer Abhängigkeit.",
+       "en": "Rashi connects Chezib with the end of childbearing and refers to Genesis Rabbah. The Peshitta substitutes a verb meaning “cease” for the place name. This is an interpretive parallel, not proof of dependence."
+      }
+     ]
     }
    ]
   },
@@ -21744,7 +21814,22 @@
      "note": "אברך in zwei Wörter zerlegt: „Vater und Herrscher“ (אב + רך; vgl. Targum Onkelos, Targum Pseudo-Jonathan, Targum Neofiti).",
      "sure": true,
      "parallel": "",
-     "note_en": "אברך split into two words: “father and ruler” (אב + רך; cf. Targum Onkelos, Targum Pseudo-Jonathan, Targum Neofiti)."
+     "note_en": "אברך split into two words: “father and ruler” (אב + רך; cf. Targum Onkelos, Targum Pseudo-Jonathan, Targum Neofiti).",
+     "traditions": [
+      {
+       "category": "targum",
+       "author": "Codex",
+       "check": "source-checked",
+       "relation": "parallel",
+       "source": "Onkelos Genesis 41:43",
+       "url": "https://www.sefaria.org/Onkelos_Genesis_41:43",
+       "evidence": [
+        "Onkelos Genesis 41:43#1"
+       ],
+       "de": "Gemeinsam ist die Zerlegung von אברך mit אב „Vater“ und einem Herrschertitel. Onkelos sagt „Vater für den König“, die Peschitta „Vater und Herrscher“. Nicht gleichgesetzt mit dem anderen Midrasch „Vater an Weisheit, jung an Jahren“.",
+       "en": "Both split אברך into אב “father” and a ruler’s title. Onkelos has “father to the king”, the Peshitta “father and ruler”. This is distinct from the other midrash, “a father in wisdom, tender in years”."
+      }
+     ]
     }
    ]
   },

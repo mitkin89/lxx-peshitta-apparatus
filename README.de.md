@@ -18,6 +18,28 @@ Die Daten entstanden für den Apparat der freien Desktop-Bibliothek [Safran](htt
 
 Aufbau und Felder sind in der [englischen Fassung](README.md#format) beschrieben.
 
+## Aktueller Stand im Repository
+
+Abgleich mit Safran vom **25. November 2026**: Die Anzahl der Lesarten und
+Wortzuordnungen bleibt unverändert. Neu sind **45 redaktionelle Merkmale**
+(11 LXX, 34 Peschitta) an den betreffenden Lesarten: Vergleiche zu Halacha,
+Aggada, Targum und Tiqqun soferim mit Bearbeiter, konkreter Quelle,
+ursprünglichem Prüfstatus und, soweit vorhanden, zweisprachiger Erklärung. Das sind zusätzliche
+Einordnungen, keine neuen Textvarianten. Der Quellenvergleich bestätigt nicht
+die Sicherheit einer erschlossenen Vorlage. Hexapla-Merkmale gehören nicht
+zu diesem Datensatz.
+
+Das optionale Feld `readings[].traditions` enthält diese Merkmale.
+Nur `check: "source-checked"` kennzeichnet ausdrücklich einen Vergleich am
+Primärtext; ein fehlender Prüfvermerk bedeutet keine Bestätigung.
+Die ursprünglichen Lesartenerklärungen und Sicherheitsangaben bleiben erhalten.
+
+`manifest.json` nennt den genauen Safran-Commit, SHA-256-Prüfsummen der
+Exportquellen und die Bestandszahlen. Export und Prüfung sind in der
+[englischen Anleitung](README.md#current-repository-snapshot) beschrieben.
+Dieser Repository-Stand erzeugt keine neue Zenodo-Veröffentlichung;
+die Zitierangabe bezeichnet weiterhin die archivierte Version 1.0.0.
+
 ## Methode und Verlässlichkeit
 
 - Die Wortzuordnungen stammen aus CATSS (LXX) und aus einer Wort-für-Wort-Prüfung der Peschitta gegen den MT. Auf dieser Grundlage wurde jeder Vers mit Claude (Anthropic, 2026) geprüft und eingeordnet; für die LXX lag CATSS-Spalte b (Tovs erschlossene Lesarten) vor. Hinweise wie „so auch SMR/4Q…“ wurden mit dem Samaritanus und den Qumran-Daten in Safran abgeglichen.

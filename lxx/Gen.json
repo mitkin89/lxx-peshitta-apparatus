@@ -1469,7 +1469,18 @@
      "note": "„Am sechsten Tag“ vollendete Gott sein Werk statt „am siebten“ (so auch SMR, Peschitta).",
      "sure": true,
      "parallel": "",
-     "note_en": "God finished his work “on the sixth day” for “on the seventh” (so also SMR, Peshitta)."
+     "note_en": "God finished his work “on the sixth day” for “on the seventh” (so also SMR, Peshitta).",
+     "traditions": [
+      {
+       "category": "aggada",
+       "author": "Codex",
+       "source": "Megillah 9a",
+       "url": "https://www.sefaria.org/Megillah.9a",
+       "check": "source-checked",
+       "de": "Megilla 9a nennt in der Erzählung über die griechische Toraübersetzung die Vollendung am sechsten Tag. Diese Formulierung steht in der vorliegenden LXX-Lesart.",
+       "en": "Megillah 9a names completion on the sixth day in its account of the Greek Torah translation. This wording occurs in the present LXX reading."
+      }
+     ]
     }
    ]
   },
